@@ -1,0 +1,2698 @@
+"dataset_id","sample_id","diagnosis","sex","brain_region","age","braak_stage","cerad_score","amyloid","tau"
+"GSE109887","GSM2973262","AD","male","middle temporal gyrus",91,NA,NA,NA,NA
+"GSE109887","GSM2973263","AD","male","middle temporal gyrus",87,NA,NA,NA,NA
+"GSE109887","GSM2973264","AD","female","middle temporal gyrus",82,NA,NA,NA,NA
+"GSE109887","GSM2973265","AD","female","middle temporal gyrus",73,NA,NA,NA,NA
+"GSE109887","GSM2973266","AD","male","middle temporal gyrus",94,NA,NA,NA,NA
+"GSE109887","GSM2973267","AD","male","middle temporal gyrus",72,NA,NA,NA,NA
+"GSE109887","GSM2973268","AD","female","middle temporal gyrus",90,NA,NA,NA,NA
+"GSE109887","GSM2973269","Control","female","middle temporal gyrus",86,NA,NA,NA,NA
+"GSE109887","GSM2973270","AD","female","middle temporal gyrus",87,NA,NA,NA,NA
+"GSE109887","GSM2973271","Control","male","middle temporal gyrus",92,NA,NA,NA,NA
+"GSE109887","GSM2973272","AD","male","middle temporal gyrus",81,NA,NA,NA,NA
+"GSE109887","GSM2973273","Control","male","middle temporal gyrus",87,NA,NA,NA,NA
+"GSE109887","GSM2973274","AD","female","middle temporal gyrus",92,NA,NA,NA,NA
+"GSE109887","GSM2973275","AD","female","middle temporal gyrus",95,NA,NA,NA,NA
+"GSE109887","GSM2973276","AD","male","middle temporal gyrus",75,NA,NA,NA,NA
+"GSE109887","GSM2973277","AD","female","middle temporal gyrus",87,NA,NA,NA,NA
+"GSE109887","GSM2973278","AD","male","middle temporal gyrus",95,NA,NA,NA,NA
+"GSE109887","GSM2973279","Control","male","middle temporal gyrus",90,NA,NA,NA,NA
+"GSE109887","GSM2973280","AD","female","middle temporal gyrus",77,NA,NA,NA,NA
+"GSE109887","GSM2973281","AD","female","middle temporal gyrus",84,NA,NA,NA,NA
+"GSE109887","GSM2973282","AD","male","middle temporal gyrus",85,NA,NA,NA,NA
+"GSE109887","GSM2973283","Control","male","middle temporal gyrus",89,NA,NA,NA,NA
+"GSE109887","GSM2973284","Control","female","middle temporal gyrus",89,NA,NA,NA,NA
+"GSE109887","GSM2973285","Control","female","middle temporal gyrus",82,NA,NA,NA,NA
+"GSE109887","GSM2973286","Control","female","middle temporal gyrus",78,NA,NA,NA,NA
+"GSE109887","GSM2973287","AD","male","middle temporal gyrus",70,NA,NA,NA,NA
+"GSE109887","GSM2973288","Control","female","middle temporal gyrus",86,NA,NA,NA,NA
+"GSE109887","GSM2973289","AD","female","middle temporal gyrus",75,NA,NA,NA,NA
+"GSE109887","GSM2973290","AD","female","middle temporal gyrus",94,NA,NA,NA,NA
+"GSE109887","GSM2973291","Control","male","middle temporal gyrus",82,NA,NA,NA,NA
+"GSE109887","GSM2973292","AD","male","middle temporal gyrus",82,NA,NA,NA,NA
+"GSE109887","GSM2973293","Control","male","middle temporal gyrus",73,NA,NA,NA,NA
+"GSE109887","GSM2973294","Control","female","middle temporal gyrus",77,NA,NA,NA,NA
+"GSE109887","GSM2973295","AD","male","middle temporal gyrus",85,NA,NA,NA,NA
+"GSE109887","GSM2973296","Control","male","middle temporal gyrus",92,NA,NA,NA,NA
+"GSE109887","GSM2973297","Control","female","middle temporal gyrus",84,NA,NA,NA,NA
+"GSE109887","GSM2973298","AD","female","middle temporal gyrus",87,NA,NA,NA,NA
+"GSE109887","GSM2973299","Control","male","middle temporal gyrus",86,NA,NA,NA,NA
+"GSE109887","GSM2973300","AD","female","middle temporal gyrus",92,NA,NA,NA,NA
+"GSE109887","GSM2973301","AD","male","middle temporal gyrus",92,NA,NA,NA,NA
+"GSE109887","GSM2973302","AD","female","middle temporal gyrus",90,NA,NA,NA,NA
+"GSE109887","GSM2973303","AD","female","middle temporal gyrus",82,NA,NA,NA,NA
+"GSE109887","GSM2973304","AD","female","middle temporal gyrus",82,NA,NA,NA,NA
+"GSE109887","GSM2973305","AD","female","middle temporal gyrus",89,NA,NA,NA,NA
+"GSE109887","GSM2973306","AD","male","middle temporal gyrus",90,NA,NA,NA,NA
+"GSE109887","GSM2973307","AD","male","middle temporal gyrus",87,NA,NA,NA,NA
+"GSE109887","GSM2973308","AD","male","middle temporal gyrus",78,NA,NA,NA,NA
+"GSE109887","GSM2973309","AD","female","middle temporal gyrus",88,NA,NA,NA,NA
+"GSE109887","GSM2973310","AD","female","middle temporal gyrus",86,NA,NA,NA,NA
+"GSE109887","GSM2973311","Control","female","middle temporal gyrus",88,NA,NA,NA,NA
+"GSE109887","GSM2973312","AD","male","middle temporal gyrus",86,NA,NA,NA,NA
+"GSE109887","GSM2973313","Control","female","middle temporal gyrus",92,NA,NA,NA,NA
+"GSE109887","GSM2973314","AD","female","middle temporal gyrus",81,NA,NA,NA,NA
+"GSE109887","GSM2973315","AD","male","middle temporal gyrus",82,NA,NA,NA,NA
+"GSE109887","GSM2973316","Control","female","middle temporal gyrus",92,NA,NA,NA,NA
+"GSE109887","GSM2973317","Control","female","middle temporal gyrus",81,NA,NA,NA,NA
+"GSE109887","GSM2973318","AD","male","middle temporal gyrus",89,NA,NA,NA,NA
+"GSE109887","GSM2973319","AD","female","middle temporal gyrus",85,NA,NA,NA,NA
+"GSE109887","GSM2973320","Control","male","middle temporal gyrus",94,NA,NA,NA,NA
+"GSE109887","GSM2973321","Control","female","middle temporal gyrus",85,NA,NA,NA,NA
+"GSE109887","GSM2973322","Control","female","middle temporal gyrus",82,NA,NA,NA,NA
+"GSE109887","GSM2973323","Control","male","middle temporal gyrus",81,NA,NA,NA,NA
+"GSE109887","GSM2973324","Control","female","middle temporal gyrus",77,NA,NA,NA,NA
+"GSE109887","GSM2973325","Control","female","middle temporal gyrus",81,NA,NA,NA,NA
+"GSE109887","GSM2973326","Control","male","middle temporal gyrus",79,NA,NA,NA,NA
+"GSE109887","GSM2973327","Control","male","middle temporal gyrus",78,NA,NA,NA,NA
+"GSE109887","GSM2973328","AD","female","middle temporal gyrus",78,NA,NA,NA,NA
+"GSE109887","GSM2973329","Control","male","middle temporal gyrus",79,NA,NA,NA,NA
+"GSE109887","GSM2973330","Control","male","middle temporal gyrus",86,NA,NA,NA,NA
+"GSE109887","GSM2973331","Control","male","middle temporal gyrus",91,NA,NA,NA,NA
+"GSE109887","GSM2973332","AD","male","middle temporal gyrus",82,NA,NA,NA,NA
+"GSE109887","GSM2973333","AD","male","middle temporal gyrus",84,NA,NA,NA,NA
+"GSE109887","GSM2973334","AD","female","middle temporal gyrus",91,NA,NA,NA,NA
+"GSE109887","GSM2973335","Control","female","middle temporal gyrus",87,NA,NA,NA,NA
+"GSE109887","GSM2973336","AD","male","middle temporal gyrus",86,NA,NA,NA,NA
+"GSE109887","GSM2973337","AD","male","middle temporal gyrus",88,NA,NA,NA,NA
+"GSE109887","GSM2973338","Control","male","middle temporal gyrus",81,NA,NA,NA,NA
+"GSE109887","GSM2973339","AD","female","middle temporal gyrus",85,NA,NA,NA,NA
+"GSE118553","GSM3332689","AD","female","Temporal_Cortex",84,NA,NA,NA,NA
+"GSE118553","GSM3332690","AD","female","Cerebellum",84,NA,NA,NA,NA
+"GSE118553","GSM3332691","AD","female","Frontal_Cortex",84,NA,NA,NA,NA
+"GSE118553","GSM3332692","AD","female","Entorhinal_Cortex",84,NA,NA,NA,NA
+"GSE118553","GSM3332693","Control","female","Temporal_Cortex",82,NA,NA,NA,NA
+"GSE118553","GSM3332694","Control","female","Frontal_Cortex",82,NA,NA,NA,NA
+"GSE118553","GSM3332695","Control","female","Entorhinal_Cortex",51,NA,NA,NA,NA
+"GSE118553","GSM3332696","Control","female","Cerebellum",51,NA,NA,NA,NA
+"GSE118553","GSM3332697","Control","female","Temporal_Cortex",51,NA,NA,NA,NA
+"GSE118553","GSM3332698","Control","female","Entorhinal_Cortex",51,NA,NA,NA,NA
+"GSE118553","GSM3332699","Control","female","Frontal_Cortex",51,NA,NA,NA,NA
+"GSE118553","GSM3332700","AD","male","Entorhinal_Cortex",89,NA,NA,NA,NA
+"GSE118553","GSM3332701","Control","female","Entorhinal_Cortex",92,NA,NA,NA,NA
+"GSE118553","GSM3332702","Control","female","Entorhinal_Cortex",92,NA,NA,NA,NA
+"GSE118553","GSM3332703","Control","female","Temporal_Cortex",92,NA,NA,NA,NA
+"GSE118553","GSM3332704","Control","female","Cerebellum",92,NA,NA,NA,NA
+"GSE118553","GSM3332705","Control","female","Frontal_Cortex",92,NA,NA,NA,NA
+"GSE118553","GSM3332706","Control","female","Entorhinal_Cortex",92,NA,NA,NA,NA
+"GSE118553","GSM3332707","AD","female","Entorhinal_Cortex",61,NA,NA,NA,NA
+"GSE118553","GSM3332708","AD","female","Frontal_Cortex",61,NA,NA,NA,NA
+"GSE118553","GSM3332709","AsymAD","female","Temporal_Cortex",95,NA,NA,NA,NA
+"GSE118553","GSM3332710","AsymAD","female","Entorhinal_Cortex",95,NA,NA,NA,NA
+"GSE118553","GSM3332711","AsymAD","female","Frontal_Cortex",95,NA,NA,NA,NA
+"GSE118553","GSM3332712","AsymAD","female","Cerebellum",95,NA,NA,NA,NA
+"GSE118553","GSM3332713","AsymAD","female","Temporal_Cortex",95,NA,NA,NA,NA
+"GSE118553","GSM3332714","AsymAD","male","Frontal_Cortex",82,NA,NA,NA,NA
+"GSE118553","GSM3332715","AsymAD","male","Temporal_Cortex",82,NA,NA,NA,NA
+"GSE118553","GSM3332716","AsymAD","male","Entorhinal_Cortex",82,NA,NA,NA,NA
+"GSE118553","GSM3332717","AsymAD","male","Entorhinal_Cortex",82,NA,NA,NA,NA
+"GSE118553","GSM3332718","AsymAD","male","Cerebellum",82,NA,NA,NA,NA
+"GSE118553","GSM3332719","AD","male","Frontal_Cortex",74,NA,NA,NA,NA
+"GSE118553","GSM3332720","AD","male","Entorhinal_Cortex",74,NA,NA,NA,NA
+"GSE118553","GSM3332721","AD","male","Temporal_Cortex",66,NA,NA,NA,NA
+"GSE118553","GSM3332722","AD","male","Frontal_Cortex",66,NA,NA,NA,NA
+"GSE118553","GSM3332723","AD","male","Cerebellum",66,NA,NA,NA,NA
+"GSE118553","GSM3332724","AsymAD","female","Entorhinal_Cortex",79,NA,NA,NA,NA
+"GSE118553","GSM3332725","AsymAD","female","Frontal_Cortex",79,NA,NA,NA,NA
+"GSE118553","GSM3332726","AsymAD","female","Temporal_Cortex",79,NA,NA,NA,NA
+"GSE118553","GSM3332727","AD","female","Frontal_Cortex",96,NA,NA,NA,NA
+"GSE118553","GSM3332728","AD","female","Cerebellum",96,NA,NA,NA,NA
+"GSE118553","GSM3332729","AD","female","Temporal_Cortex",96,NA,NA,NA,NA
+"GSE118553","GSM3332730","AD","female","Entorhinal_Cortex",96,NA,NA,NA,NA
+"GSE118553","GSM3332731","AD","female","Entorhinal_Cortex",96,NA,NA,NA,NA
+"GSE118553","GSM3332732","AD","female","Frontal_Cortex",72,NA,NA,NA,NA
+"GSE118553","GSM3332733","AD","female","Temporal_Cortex",72,NA,NA,NA,NA
+"GSE118553","GSM3332734","AD","female","Cerebellum",72,NA,NA,NA,NA
+"GSE118553","GSM3332735","AD","female","Temporal_Cortex",72,NA,NA,NA,NA
+"GSE118553","GSM3332736","AD","female","Cerebellum",93,NA,NA,NA,NA
+"GSE118553","GSM3332737","AD","female","Temporal_Cortex",93,NA,NA,NA,NA
+"GSE118553","GSM3332738","Control","female","Frontal_Cortex",52,NA,NA,NA,NA
+"GSE118553","GSM3332739","Control","female","Temporal_Cortex",52,NA,NA,NA,NA
+"GSE118553","GSM3332740","Control","female","Frontal_Cortex",52,NA,NA,NA,NA
+"GSE118553","GSM3332741","Control","female","Entorhinal_Cortex",52,NA,NA,NA,NA
+"GSE118553","GSM3332742","Control","female","Temporal_Cortex",52,NA,NA,NA,NA
+"GSE118553","GSM3332743","Control","female","Cerebellum",52,NA,NA,NA,NA
+"GSE118553","GSM3332744","AsymAD","male","Frontal_Cortex",86,NA,NA,NA,NA
+"GSE118553","GSM3332745","AsymAD","male","Temporal_Cortex",86,NA,NA,NA,NA
+"GSE118553","GSM3332746","AsymAD","male","Cerebellum",86,NA,NA,NA,NA
+"GSE118553","GSM3332747","AsymAD","male","Entorhinal_Cortex",86,NA,NA,NA,NA
+"GSE118553","GSM3332748","AsymAD","female","Frontal_Cortex",92,NA,NA,NA,NA
+"GSE118553","GSM3332749","AsymAD","female","Cerebellum",92,NA,NA,NA,NA
+"GSE118553","GSM3332750","AsymAD","female","Entorhinal_Cortex",92,NA,NA,NA,NA
+"GSE118553","GSM3332751","AsymAD","female","Entorhinal_Cortex",92,NA,NA,NA,NA
+"GSE118553","GSM3332752","AsymAD","female","Temporal_Cortex",92,NA,NA,NA,NA
+"GSE118553","GSM3332753","Control","female","Temporal_Cortex",87,NA,NA,NA,NA
+"GSE118553","GSM3332754","Control","male","Entorhinal_Cortex",81,NA,NA,NA,NA
+"GSE118553","GSM3332755","Control","male","Temporal_Cortex",81,NA,NA,NA,NA
+"GSE118553","GSM3332756","Control","male","Cerebellum",81,NA,NA,NA,NA
+"GSE118553","GSM3332757","Control","male","Frontal_Cortex",81,NA,NA,NA,NA
+"GSE118553","GSM3332758","Control","male","Entorhinal_Cortex",81,NA,NA,NA,NA
+"GSE118553","GSM3332759","Control","male","Entorhinal_Cortex",77,NA,NA,NA,NA
+"GSE118553","GSM3332760","Control","male","Temporal_Cortex",77,NA,NA,NA,NA
+"GSE118553","GSM3332761","Control","male","Cerebellum",77,NA,NA,NA,NA
+"GSE118553","GSM3332762","Control","male","Temporal_Cortex",77,NA,NA,NA,NA
+"GSE118553","GSM3332763","Control","male","Frontal_Cortex",77,NA,NA,NA,NA
+"GSE118553","GSM3332764","AsymAD","female","Entorhinal_Cortex",92,NA,NA,NA,NA
+"GSE118553","GSM3332765","AsymAD","female","Temporal_Cortex",92,NA,NA,NA,NA
+"GSE118553","GSM3332766","AsymAD","female","Temporal_Cortex",92,NA,NA,NA,NA
+"GSE118553","GSM3332767","AsymAD","female","Frontal_Cortex",92,NA,NA,NA,NA
+"GSE118553","GSM3332768","AsymAD","female","Cerebellum",92,NA,NA,NA,NA
+"GSE118553","GSM3332769","AD","male","Temporal_Cortex",88,NA,NA,NA,NA
+"GSE118553","GSM3332770","AD","male","Frontal_Cortex",88,NA,NA,NA,NA
+"GSE118553","GSM3332771","AD","male","Entorhinal_Cortex",88,NA,NA,NA,NA
+"GSE118553","GSM3332772","AD","male","Cerebellum",88,NA,NA,NA,NA
+"GSE118553","GSM3332773","AD","male","Temporal_Cortex",88,NA,NA,NA,NA
+"GSE118553","GSM3332774","AsymAD","female","Frontal_Cortex",90,NA,NA,NA,NA
+"GSE118553","GSM3332775","AsymAD","female","Temporal_Cortex",90,NA,NA,NA,NA
+"GSE118553","GSM3332776","AsymAD","female","Cerebellum",90,NA,NA,NA,NA
+"GSE118553","GSM3332777","AsymAD","female","Cerebellum",92,NA,NA,NA,NA
+"GSE118553","GSM3332778","AsymAD","female","Entorhinal_Cortex",92,NA,NA,NA,NA
+"GSE118553","GSM3332779","AsymAD","female","Temporal_Cortex",92,NA,NA,NA,NA
+"GSE118553","GSM3332780","AsymAD","female","Cerebellum",92,NA,NA,NA,NA
+"GSE118553","GSM3332781","AsymAD","female","Frontal_Cortex",92,NA,NA,NA,NA
+"GSE118553","GSM3332782","Control","male","Frontal_Cortex",71,NA,NA,NA,NA
+"GSE118553","GSM3332783","AsymAD","female","Entorhinal_Cortex",99,NA,NA,NA,NA
+"GSE118553","GSM3332784","AsymAD","female","Frontal_Cortex",99,NA,NA,NA,NA
+"GSE118553","GSM3332785","AsymAD","female","Cerebellum",99,NA,NA,NA,NA
+"GSE118553","GSM3332786","AD","female","Frontal_Cortex",90,NA,NA,NA,NA
+"GSE118553","GSM3332787","AD","female","Cerebellum",90,NA,NA,NA,NA
+"GSE118553","GSM3332788","AD","female","Entorhinal_Cortex",90,NA,NA,NA,NA
+"GSE118553","GSM3332789","AD","female","Temporal_Cortex",90,NA,NA,NA,NA
+"GSE118553","GSM3332790","AD","male","Temporal_Cortex",97,NA,NA,NA,NA
+"GSE118553","GSM3332791","AD","male","Frontal_Cortex",97,NA,NA,NA,NA
+"GSE118553","GSM3332792","AD","male","Entorhinal_Cortex",97,NA,NA,NA,NA
+"GSE118553","GSM3332793","AD","male","Cerebellum",89,NA,NA,NA,NA
+"GSE118553","GSM3332794","AD","male","Temporal_Cortex",89,NA,NA,NA,NA
+"GSE118553","GSM3332795","AD","male","Entorhinal_Cortex",89,NA,NA,NA,NA
+"GSE118553","GSM3332796","Control","female","Cerebellum",91,NA,NA,NA,NA
+"GSE118553","GSM3332797","Control","female","Entorhinal_Cortex",91,NA,NA,NA,NA
+"GSE118553","GSM3332798","Control","female","Frontal_Cortex",91,NA,NA,NA,NA
+"GSE118553","GSM3332799","Control","female","Entorhinal_Cortex",91,NA,NA,NA,NA
+"GSE118553","GSM3332800","Control","female","Temporal_Cortex",91,NA,NA,NA,NA
+"GSE118553","GSM3332801","AsymAD","female","Frontal_Cortex",86,NA,NA,NA,NA
+"GSE118553","GSM3332802","AsymAD","female","Temporal_Cortex",86,NA,NA,NA,NA
+"GSE118553","GSM3332803","AsymAD","female","Entorhinal_Cortex",86,NA,NA,NA,NA
+"GSE118553","GSM3332804","AD","male","Cerebellum",88,NA,NA,NA,NA
+"GSE118553","GSM3332805","AD","male","Temporal_Cortex",88,NA,NA,NA,NA
+"GSE118553","GSM3332806","AsymAD","male","Frontal_Cortex",86,NA,NA,NA,NA
+"GSE118553","GSM3332807","AsymAD","male","Temporal_Cortex",86,NA,NA,NA,NA
+"GSE118553","GSM3332808","AsymAD","male","Cerebellum",86,NA,NA,NA,NA
+"GSE118553","GSM3332809","AD","female","Frontal_Cortex",85,NA,NA,NA,NA
+"GSE118553","GSM3332810","AD","female","Temporal_Cortex",85,NA,NA,NA,NA
+"GSE118553","GSM3332811","Control","male","Temporal_Cortex",95,NA,NA,NA,NA
+"GSE118553","GSM3332812","AD","male","Entorhinal_Cortex",86,NA,NA,NA,NA
+"GSE118553","GSM3332813","AD","male","Frontal_Cortex",86,NA,NA,NA,NA
+"GSE118553","GSM3332814","AD","male","Temporal_Cortex",86,NA,NA,NA,NA
+"GSE118553","GSM3332815","AD","male","Cerebellum",86,NA,NA,NA,NA
+"GSE118553","GSM3332816","AD","female","Cerebellum",91,NA,NA,NA,NA
+"GSE118553","GSM3332817","AD","female","Entorhinal_Cortex",91,NA,NA,NA,NA
+"GSE118553","GSM3332818","AD","female","Frontal_Cortex",91,NA,NA,NA,NA
+"GSE118553","GSM3332819","AD","female","Temporal_Cortex",85,NA,NA,NA,NA
+"GSE118553","GSM3332820","Control","male","Entorhinal_Cortex",78,NA,NA,NA,NA
+"GSE118553","GSM3332821","Control","male","Temporal_Cortex",78,NA,NA,NA,NA
+"GSE118553","GSM3332822","Control","male","Entorhinal_Cortex",78,NA,NA,NA,NA
+"GSE118553","GSM3332823","Control","male","Frontal_Cortex",78,NA,NA,NA,NA
+"GSE118553","GSM3332824","AD","female","Temporal_Cortex",83,NA,NA,NA,NA
+"GSE118553","GSM3332825","AD","female","Entorhinal_Cortex",83,NA,NA,NA,NA
+"GSE118553","GSM3332826","AD","female","Cerebellum",83,NA,NA,NA,NA
+"GSE118553","GSM3332827","AD","female","Frontal_Cortex",83,NA,NA,NA,NA
+"GSE118553","GSM3332828","Control","male","Temporal_Cortex",73,NA,NA,NA,NA
+"GSE118553","GSM3332829","Control","male","Temporal_Cortex",73,NA,NA,NA,NA
+"GSE118553","GSM3332830","Control","male","Cerebellum",73,NA,NA,NA,NA
+"GSE118553","GSM3332831","Control","male","Entorhinal_Cortex",73,NA,NA,NA,NA
+"GSE118553","GSM3332832","Control","male","Cerebellum",73,NA,NA,NA,NA
+"GSE118553","GSM3332833","Control","male","Frontal_Cortex",73,NA,NA,NA,NA
+"GSE118553","GSM3332834","Control","male","Frontal_Cortex",86,NA,NA,NA,NA
+"GSE118553","GSM3332835","Control","male","Temporal_Cortex",86,NA,NA,NA,NA
+"GSE118553","GSM3332836","AsymAD","female","Entorhinal_Cortex",87,NA,NA,NA,NA
+"GSE118553","GSM3332837","AsymAD","female","Frontal_Cortex",87,NA,NA,NA,NA
+"GSE118553","GSM3332838","AsymAD","female","Entorhinal_Cortex",87,NA,NA,NA,NA
+"GSE118553","GSM3332839","AsymAD","female","Entorhinal_Cortex",81,NA,NA,NA,NA
+"GSE118553","GSM3332840","AD","male","Entorhinal_Cortex",80,NA,NA,NA,NA
+"GSE118553","GSM3332841","AD","male","Temporal_Cortex",80,NA,NA,NA,NA
+"GSE118553","GSM3332842","AD","male","Frontal_Cortex",80,NA,NA,NA,NA
+"GSE118553","GSM3332843","Control","male","Temporal_Cortex",40,NA,NA,NA,NA
+"GSE118553","GSM3332844","AD","male","Cerebellum",83,NA,NA,NA,NA
+"GSE118553","GSM3332845","AsymAD","female","Frontal_Cortex",92,NA,NA,NA,NA
+"GSE118553","GSM3332846","AsymAD","female","Temporal_Cortex",92,NA,NA,NA,NA
+"GSE118553","GSM3332847","AsymAD","female","Cerebellum",92,NA,NA,NA,NA
+"GSE118553","GSM3332848","AsymAD","female","Entorhinal_Cortex",92,NA,NA,NA,NA
+"GSE118553","GSM3332849","AsymAD","female","Temporal_Cortex",89,NA,NA,NA,NA
+"GSE118553","GSM3332850","AsymAD","female","Frontal_Cortex",89,NA,NA,NA,NA
+"GSE118553","GSM3332851","AsymAD","female","Entorhinal_Cortex",89,NA,NA,NA,NA
+"GSE118553","GSM3332852","AsymAD","female","Entorhinal_Cortex",89,NA,NA,NA,NA
+"GSE118553","GSM3332853","AsymAD","female","Cerebellum",89,NA,NA,NA,NA
+"GSE118553","GSM3332854","AD","male","Temporal_Cortex",71,NA,NA,NA,NA
+"GSE118553","GSM3332855","AD","male","Entorhinal_Cortex",71,NA,NA,NA,NA
+"GSE118553","GSM3332856","AD","male","Cerebellum",71,NA,NA,NA,NA
+"GSE118553","GSM3332857","AD","male","Frontal_Cortex",71,NA,NA,NA,NA
+"GSE118553","GSM3332858","Control","female","Frontal_Cortex",NA,NA,NA,NA,NA
+"GSE118553","GSM3332859","Control","female","Temporal_Cortex",NA,NA,NA,NA,NA
+"GSE118553","GSM3332860","AsymAD","female","Frontal_Cortex",89,NA,NA,NA,NA
+"GSE118553","GSM3332861","AsymAD","female","Temporal_Cortex",89,NA,NA,NA,NA
+"GSE118553","GSM3332862","AsymAD","female","Cerebellum",89,NA,NA,NA,NA
+"GSE118553","GSM3332863","AsymAD","female","Frontal_Cortex",86,NA,NA,NA,NA
+"GSE118553","GSM3332864","AsymAD","female","Frontal_Cortex",86,NA,NA,NA,NA
+"GSE118553","GSM3332865","AsymAD","female","Cerebellum",86,NA,NA,NA,NA
+"GSE118553","GSM3332866","AsymAD","female","Entorhinal_Cortex",86,NA,NA,NA,NA
+"GSE118553","GSM3332867","AsymAD","female","Temporal_Cortex",86,NA,NA,NA,NA
+"GSE118553","GSM3332868","AD","female","Entorhinal_Cortex",82,NA,NA,NA,NA
+"GSE118553","GSM3332869","AD","female","Frontal_Cortex",82,NA,NA,NA,NA
+"GSE118553","GSM3332870","AD","female","Temporal_Cortex",82,NA,NA,NA,NA
+"GSE118553","GSM3332871","AD","male","Temporal_Cortex",69,NA,NA,NA,NA
+"GSE118553","GSM3332872","AD","male","Cerebellum",69,NA,NA,NA,NA
+"GSE118553","GSM3332873","AD","male","Cerebellum",75,NA,NA,NA,NA
+"GSE118553","GSM3332874","AD","male","Frontal_Cortex",75,NA,NA,NA,NA
+"GSE118553","GSM3332875","AD","male","Entorhinal_Cortex",75,NA,NA,NA,NA
+"GSE118553","GSM3332876","AD","male","Temporal_Cortex",75,NA,NA,NA,NA
+"GSE118553","GSM3332877","AD","male","Cerebellum",75,NA,NA,NA,NA
+"GSE118553","GSM3332878","AD","female","Frontal_Cortex",69,NA,NA,NA,NA
+"GSE118553","GSM3332879","AD","female","Entorhinal_Cortex",69,NA,NA,NA,NA
+"GSE118553","GSM3332880","AD","female","Cerebellum",96,NA,NA,NA,NA
+"GSE118553","GSM3332881","AD","female","Frontal_Cortex",96,NA,NA,NA,NA
+"GSE118553","GSM3332882","AD","female","Entorhinal_Cortex",96,NA,NA,NA,NA
+"GSE118553","GSM3332883","AD","female","Temporal_Cortex",96,NA,NA,NA,NA
+"GSE118553","GSM3332884","Control","male","Entorhinal_Cortex",80,NA,NA,NA,NA
+"GSE118553","GSM3332885","Control","male","Temporal_Cortex",80,NA,NA,NA,NA
+"GSE118553","GSM3332886","Control","male","Entorhinal_Cortex",80,NA,NA,NA,NA
+"GSE118553","GSM3332887","Control","male","Cerebellum",80,NA,NA,NA,NA
+"GSE118553","GSM3332888","Control","male","Frontal_Cortex",80,NA,NA,NA,NA
+"GSE118553","GSM3332889","AD","female","Entorhinal_Cortex",84,NA,NA,NA,NA
+"GSE118553","GSM3332890","AD","female","Frontal_Cortex",84,NA,NA,NA,NA
+"GSE118553","GSM3332891","AD","male","Temporal_Cortex",72,NA,NA,NA,NA
+"GSE118553","GSM3332892","AD","female","Frontal_Cortex",81,NA,NA,NA,NA
+"GSE118553","GSM3332893","AD","female","Temporal_Cortex",81,NA,NA,NA,NA
+"GSE118553","GSM3332894","AD","female","Cerebellum",81,NA,NA,NA,NA
+"GSE118553","GSM3332895","AD","male","Cerebellum",105,NA,NA,NA,NA
+"GSE118553","GSM3332896","AD","male","Entorhinal_Cortex",105,NA,NA,NA,NA
+"GSE118553","GSM3332897","AD","male","Frontal_Cortex",105,NA,NA,NA,NA
+"GSE118553","GSM3332898","AD","male","Temporal_Cortex",105,NA,NA,NA,NA
+"GSE118553","GSM3332899","AD","male","Temporal_Cortex",105,NA,NA,NA,NA
+"GSE118553","GSM3332900","AD","male","Frontal_Cortex",67,NA,NA,NA,NA
+"GSE118553","GSM3332901","AD","male","Cerebellum",67,NA,NA,NA,NA
+"GSE118553","GSM3332902","AD","male","Temporal_Cortex",67,NA,NA,NA,NA
+"GSE118553","GSM3332903","AD","male","Entorhinal_Cortex",67,NA,NA,NA,NA
+"GSE118553","GSM3332904","AD","female","Frontal_Cortex",92,NA,NA,NA,NA
+"GSE118553","GSM3332905","AD","female","Cerebellum",92,NA,NA,NA,NA
+"GSE118553","GSM3332906","AD","female","Temporal_Cortex",92,NA,NA,NA,NA
+"GSE118553","GSM3332907","AD","female","Frontal_Cortex",79,NA,NA,NA,NA
+"GSE118553","GSM3332908","AD","female","Cerebellum",79,NA,NA,NA,NA
+"GSE118553","GSM3332909","AD","female","Temporal_Cortex",79,NA,NA,NA,NA
+"GSE118553","GSM3332910","AD","female","Entorhinal_Cortex",79,NA,NA,NA,NA
+"GSE118553","GSM3332911","AD","female","Temporal_Cortex",87,NA,NA,NA,NA
+"GSE118553","GSM3332912","AD","female","Frontal_Cortex",87,NA,NA,NA,NA
+"GSE118553","GSM3332913","AD","female","Entorhinal_Cortex",87,NA,NA,NA,NA
+"GSE118553","GSM3332914","AsymAD","female","Cerebellum",90,NA,NA,NA,NA
+"GSE118553","GSM3332915","AsymAD","female","Entorhinal_Cortex",90,NA,NA,NA,NA
+"GSE118553","GSM3332916","AsymAD","female","Temporal_Cortex",90,NA,NA,NA,NA
+"GSE118553","GSM3332917","AsymAD","female","Frontal_Cortex",90,NA,NA,NA,NA
+"GSE118553","GSM3332918","AsymAD","female","Cerebellum",90,NA,NA,NA,NA
+"GSE118553","GSM3332919","AsymAD","female","Entorhinal_Cortex",70,NA,NA,NA,NA
+"GSE118553","GSM3332920","AsymAD","female","Cerebellum",70,NA,NA,NA,NA
+"GSE118553","GSM3332921","AsymAD","female","Frontal_Cortex",70,NA,NA,NA,NA
+"GSE118553","GSM3332922","AD","female","Entorhinal_Cortex",84,NA,NA,NA,NA
+"GSE118553","GSM3332923","AD","female","Cerebellum",84,NA,NA,NA,NA
+"GSE118553","GSM3332924","AD","female","Cerebellum",84,NA,NA,NA,NA
+"GSE118553","GSM3332925","AD","female","Temporal_Cortex",84,NA,NA,NA,NA
+"GSE118553","GSM3332926","AD","female","Frontal_Cortex",84,NA,NA,NA,NA
+"GSE118553","GSM3332927","AD","male","Temporal_Cortex",81,NA,NA,NA,NA
+"GSE118553","GSM3332928","AD","female","Entorhinal_Cortex",71,NA,NA,NA,NA
+"GSE118553","GSM3332929","AD","female","Frontal_Cortex",71,NA,NA,NA,NA
+"GSE118553","GSM3332930","AD","female","Cerebellum",71,NA,NA,NA,NA
+"GSE118553","GSM3332931","AD","female","Temporal_Cortex",71,NA,NA,NA,NA
+"GSE118553","GSM3332932","AD","female","Temporal_Cortex",71,NA,NA,NA,NA
+"GSE118553","GSM3332933","AD","female","Entorhinal_Cortex",71,NA,NA,NA,NA
+"GSE118553","GSM3332934","AsymAD","female","Frontal_Cortex",92,NA,NA,NA,NA
+"GSE118553","GSM3332935","AsymAD","female","Cerebellum",92,NA,NA,NA,NA
+"GSE118553","GSM3332936","AsymAD","female","Temporal_Cortex",92,NA,NA,NA,NA
+"GSE118553","GSM3332937","AsymAD","female","Entorhinal_Cortex",92,NA,NA,NA,NA
+"GSE118553","GSM3332938","AsymAD","female","Temporal_Cortex",92,NA,NA,NA,NA
+"GSE118553","GSM3332939","AD","female","Frontal_Cortex",80,NA,NA,NA,NA
+"GSE118553","GSM3332940","AD","female","Entorhinal_Cortex",80,NA,NA,NA,NA
+"GSE118553","GSM3332941","AD","female","Temporal_Cortex",80,NA,NA,NA,NA
+"GSE118553","GSM3332942","AD","female","Cerebellum",79,NA,NA,NA,NA
+"GSE118553","GSM3332943","AD","female","Entorhinal_Cortex",79,NA,NA,NA,NA
+"GSE118553","GSM3332944","AD","female","Temporal_Cortex",79,NA,NA,NA,NA
+"GSE118553","GSM3332945","AD","female","Frontal_Cortex",79,NA,NA,NA,NA
+"GSE118553","GSM3332946","AD","male","Temporal_Cortex",76,NA,NA,NA,NA
+"GSE118553","GSM3332947","AD","male","Cerebellum",76,NA,NA,NA,NA
+"GSE118553","GSM3332948","Control","male","Frontal_Cortex",78,NA,NA,NA,NA
+"GSE118553","GSM3332949","Control","male","Temporal_Cortex",78,NA,NA,NA,NA
+"GSE118553","GSM3332950","Control","male","Entorhinal_Cortex",78,NA,NA,NA,NA
+"GSE118553","GSM3332951","Control","male","Cerebellum",78,NA,NA,NA,NA
+"GSE118553","GSM3332952","Control","male","Cerebellum",78,NA,NA,NA,NA
+"GSE118553","GSM3332953","AD","male","Cerebellum",66,NA,NA,NA,NA
+"GSE118553","GSM3332954","AD","male","Temporal_Cortex",66,NA,NA,NA,NA
+"GSE118553","GSM3332955","AsymAD","male","Temporal_Cortex",86,NA,NA,NA,NA
+"GSE118553","GSM3332956","AsymAD","male","Frontal_Cortex",86,NA,NA,NA,NA
+"GSE118553","GSM3332957","AsymAD","male","Cerebellum",86,NA,NA,NA,NA
+"GSE118553","GSM3332958","AsymAD","male","Cerebellum",86,NA,NA,NA,NA
+"GSE118553","GSM3332959","Control","male","Temporal_Cortex",41,NA,NA,NA,NA
+"GSE118553","GSM3332960","Control","male","Temporal_Cortex",41,NA,NA,NA,NA
+"GSE118553","GSM3332961","Control","male","Cerebellum",41,NA,NA,NA,NA
+"GSE118553","GSM3332962","Control","male","Frontal_Cortex",41,NA,NA,NA,NA
+"GSE118553","GSM3332963","AsymAD","female","Entorhinal_Cortex",90,NA,NA,NA,NA
+"GSE118553","GSM3332964","AsymAD","female","Temporal_Cortex",90,NA,NA,NA,NA
+"GSE118553","GSM3332965","AsymAD","female","Frontal_Cortex",90,NA,NA,NA,NA
+"GSE118553","GSM3332966","AsymAD","female","Cerebellum",90,NA,NA,NA,NA
+"GSE118553","GSM3332967","AsymAD","female","Temporal_Cortex",84,NA,NA,NA,NA
+"GSE118553","GSM3332968","AsymAD","female","Cerebellum",84,NA,NA,NA,NA
+"GSE118553","GSM3332969","AsymAD","female","Frontal_Cortex",84,NA,NA,NA,NA
+"GSE118553","GSM3332970","AsymAD","female","Temporal_Cortex",84,NA,NA,NA,NA
+"GSE118553","GSM3332971","AsymAD","female","Entorhinal_Cortex",84,NA,NA,NA,NA
+"GSE118553","GSM3332972","AsymAD","male","Frontal_Cortex",74,NA,NA,NA,NA
+"GSE118553","GSM3332973","AsymAD","male","Temporal_Cortex",74,NA,NA,NA,NA
+"GSE118553","GSM3332974","AsymAD","male","Entorhinal_Cortex",74,NA,NA,NA,NA
+"GSE118553","GSM3332975","AsymAD","male","Cerebellum",74,NA,NA,NA,NA
+"GSE118553","GSM3332976","AsymAD","male","Entorhinal_Cortex",74,NA,NA,NA,NA
+"GSE118553","GSM3332977","AD","male","Temporal_Cortex",79,NA,NA,NA,NA
+"GSE118553","GSM3332978","AD","male","Entorhinal_Cortex",79,NA,NA,NA,NA
+"GSE118553","GSM3332979","AD","male","Cerebellum",79,NA,NA,NA,NA
+"GSE118553","GSM3332980","AD","male","Frontal_Cortex",79,NA,NA,NA,NA
+"GSE118553","GSM3332981","AsymAD","male","Entorhinal_Cortex",79,NA,NA,NA,NA
+"GSE118553","GSM3332982","AsymAD","male","Frontal_Cortex",79,NA,NA,NA,NA
+"GSE118553","GSM3332983","AsymAD","male","Cerebellum",79,NA,NA,NA,NA
+"GSE118553","GSM3332984","AD","female","Temporal_Cortex",90,NA,NA,NA,NA
+"GSE118553","GSM3332985","AD","female","Cerebellum",90,NA,NA,NA,NA
+"GSE118553","GSM3332986","AD","female","Frontal_Cortex",90,NA,NA,NA,NA
+"GSE118553","GSM3332987","Control","male","Temporal_Cortex",51,NA,NA,NA,NA
+"GSE118553","GSM3332988","Control","male","Cerebellum",51,NA,NA,NA,NA
+"GSE118553","GSM3332989","Control","male","Frontal_Cortex",51,NA,NA,NA,NA
+"GSE118553","GSM3332990","Control","male","Temporal_Cortex",51,NA,NA,NA,NA
+"GSE118553","GSM3332991","Control","male","Entorhinal_Cortex",51,NA,NA,NA,NA
+"GSE118553","GSM3332992","AD","female","Entorhinal_Cortex",95,NA,NA,NA,NA
+"GSE118553","GSM3332993","AD","female","Temporal_Cortex",95,NA,NA,NA,NA
+"GSE118553","GSM3332994","AD","female","Cerebellum",95,NA,NA,NA,NA
+"GSE118553","GSM3332995","AD","female","Frontal_Cortex",95,NA,NA,NA,NA
+"GSE118553","GSM3332996","Control","male","Temporal_Cortex",67,NA,NA,NA,NA
+"GSE118553","GSM3332997","Control","male","Entorhinal_Cortex",67,NA,NA,NA,NA
+"GSE118553","GSM3332998","Control","male","Cerebellum",67,NA,NA,NA,NA
+"GSE118553","GSM3332999","AD","female","Temporal_Cortex",83,NA,NA,NA,NA
+"GSE118553","GSM3333000","AD","female","Frontal_Cortex",83,NA,NA,NA,NA
+"GSE118553","GSM3333001","AD","female","Entorhinal_Cortex",83,NA,NA,NA,NA
+"GSE118553","GSM3333002","AD","female","Cerebellum",83,NA,NA,NA,NA
+"GSE118553","GSM3333003","AD","male","Temporal_Cortex",68,NA,NA,NA,NA
+"GSE118553","GSM3333004","AD","male","Temporal_Cortex",68,NA,NA,NA,NA
+"GSE118553","GSM3333005","AD","male","Cerebellum",68,NA,NA,NA,NA
+"GSE118553","GSM3333006","AD","male","Frontal_Cortex",68,NA,NA,NA,NA
+"GSE118553","GSM3333007","AsymAD","male","Entorhinal_Cortex",93,NA,NA,NA,NA
+"GSE118553","GSM3333008","AsymAD","male","Frontal_Cortex",93,NA,NA,NA,NA
+"GSE118553","GSM3333009","AsymAD","male","Temporal_Cortex",93,NA,NA,NA,NA
+"GSE118553","GSM3333010","AsymAD","male","Cerebellum",93,NA,NA,NA,NA
+"GSE118553","GSM3333011","AsymAD","male","Cerebellum",93,NA,NA,NA,NA
+"GSE118553","GSM3333012","Control","female","Entorhinal_Cortex",43,NA,NA,NA,NA
+"GSE118553","GSM3333013","Control","female","Entorhinal_Cortex",43,NA,NA,NA,NA
+"GSE118553","GSM3333014","Control","female","Cerebellum",43,NA,NA,NA,NA
+"GSE118553","GSM3333015","Control","female","Frontal_Cortex",43,NA,NA,NA,NA
+"GSE118553","GSM3333016","Control","female","Temporal_Cortex",43,NA,NA,NA,NA
+"GSE118553","GSM3333017","AsymAD","female","Cerebellum",99,NA,NA,NA,NA
+"GSE118553","GSM3333018","AsymAD","female","Frontal_Cortex",99,NA,NA,NA,NA
+"GSE118553","GSM3333019","AsymAD","female","Temporal_Cortex",99,NA,NA,NA,NA
+"GSE118553","GSM3333020","AsymAD","female","Entorhinal_Cortex",99,NA,NA,NA,NA
+"GSE118553","GSM3333021","AsymAD","female","Entorhinal_Cortex",99,NA,NA,NA,NA
+"GSE118553","GSM3333022","AD","male","Temporal_Cortex",89,NA,NA,NA,NA
+"GSE118553","GSM3333023","AD","male","Cerebellum",89,NA,NA,NA,NA
+"GSE118553","GSM3333024","AD","male","Frontal_Cortex",89,NA,NA,NA,NA
+"GSE118553","GSM3333025","AD","male","Entorhinal_Cortex",89,NA,NA,NA,NA
+"GSE118553","GSM3333026","AsymAD","male","Cerebellum",80,NA,NA,NA,NA
+"GSE118553","GSM3333027","AsymAD","male","Entorhinal_Cortex",80,NA,NA,NA,NA
+"GSE118553","GSM3333028","AsymAD","male","Cerebellum",80,NA,NA,NA,NA
+"GSE118553","GSM3333029","AsymAD","male","Temporal_Cortex",80,NA,NA,NA,NA
+"GSE118553","GSM3333030","AsymAD","male","Frontal_Cortex",80,NA,NA,NA,NA
+"GSE118553","GSM3333031","AD","male","Cerebellum",90,NA,NA,NA,NA
+"GSE118553","GSM3333032","AD","male","Temporal_Cortex",90,NA,NA,NA,NA
+"GSE118553","GSM3333033","AD","male","Frontal_Cortex",90,NA,NA,NA,NA
+"GSE118553","GSM3333034","AD","male","Entorhinal_Cortex",90,NA,NA,NA,NA
+"GSE118553","GSM3333035","Control","male","Temporal_Cortex",66,NA,NA,NA,NA
+"GSE118553","GSM3333036","Control","male","Cerebellum",66,NA,NA,NA,NA
+"GSE118553","GSM3333037","Control","male","Frontal_Cortex",66,NA,NA,NA,NA
+"GSE118553","GSM3333038","Control","male","Temporal_Cortex",66,NA,NA,NA,NA
+"GSE118553","GSM3333039","AD","female","Temporal_Cortex",88,NA,NA,NA,NA
+"GSE118553","GSM3333040","AD","female","Entorhinal_Cortex",88,NA,NA,NA,NA
+"GSE118553","GSM3333041","AD","female","Frontal_Cortex",88,NA,NA,NA,NA
+"GSE118553","GSM3333042","AD","female","Temporal_Cortex",63,NA,NA,NA,NA
+"GSE118553","GSM3333043","AD","female","Cerebellum",63,NA,NA,NA,NA
+"GSE118553","GSM3333044","AD","female","Temporal_Cortex",63,NA,NA,NA,NA
+"GSE118553","GSM3333045","AsymAD","male","Entorhinal_Cortex",74,NA,NA,NA,NA
+"GSE118553","GSM3333046","AsymAD","male","Frontal_Cortex",74,NA,NA,NA,NA
+"GSE118553","GSM3333047","AsymAD","male","Temporal_Cortex",74,NA,NA,NA,NA
+"GSE118553","GSM3333048","AD","female","Entorhinal_Cortex",83,NA,NA,NA,NA
+"GSE118553","GSM3333049","AD","female","Frontal_Cortex",83,NA,NA,NA,NA
+"GSE118553","GSM3333050","AD","female","Temporal_Cortex",83,NA,NA,NA,NA
+"GSE118553","GSM3333051","Control","female","Cerebellum",88,NA,NA,NA,NA
+"GSE118553","GSM3333052","Control","female","Cerebellum",88,NA,NA,NA,NA
+"GSE118553","GSM3333053","Control","female","Temporal_Cortex",88,NA,NA,NA,NA
+"GSE118553","GSM3333054","AsymAD","male","Temporal_Cortex",96,NA,NA,NA,NA
+"GSE118553","GSM3333055","AsymAD","male","Entorhinal_Cortex",96,NA,NA,NA,NA
+"GSE118553","GSM3333056","AsymAD","male","Frontal_Cortex",96,NA,NA,NA,NA
+"GSE118553","GSM3333057","AsymAD","female","Entorhinal_Cortex",84,NA,NA,NA,NA
+"GSE118553","GSM3333058","AsymAD","female","Frontal_Cortex",84,NA,NA,NA,NA
+"GSE118553","GSM3333059","AsymAD","female","Cerebellum",84,NA,NA,NA,NA
+"GSE118553","GSM3333060","AsymAD","female","Temporal_Cortex",84,NA,NA,NA,NA
+"GSE118553","GSM3333061","AsymAD","female","Entorhinal_Cortex",84,NA,NA,NA,NA
+"GSE118553","GSM3333062","AsymAD","female","Entorhinal_Cortex",84,NA,NA,NA,NA
+"GSE118553","GSM3333063","AsymAD","female","Frontal_Cortex",84,NA,NA,NA,NA
+"GSE118553","GSM3333064","AsymAD","female","Entorhinal_Cortex",84,NA,NA,NA,NA
+"GSE118553","GSM3333065","AsymAD","female","Temporal_Cortex",84,NA,NA,NA,NA
+"GSE118553","GSM3333066","AsymAD","female","Cerebellum",84,NA,NA,NA,NA
+"GSE118553","GSM3333067","AD","female","Cerebellum",98,NA,NA,NA,NA
+"GSE118553","GSM3333068","AD","female","Entorhinal_Cortex",98,NA,NA,NA,NA
+"GSE118553","GSM3333069","AD","female","Temporal_Cortex",98,NA,NA,NA,NA
+"GSE118553","GSM3333070","AD","female","Temporal_Cortex",98,NA,NA,NA,NA
+"GSE118553","GSM3333071","AD","female","Frontal_Cortex",98,NA,NA,NA,NA
+"GSE118553","GSM3333072","AsymAD","female","Frontal_Cortex",55,NA,NA,NA,NA
+"GSE118553","GSM3333073","AsymAD","female","Temporal_Cortex",55,NA,NA,NA,NA
+"GSE118553","GSM3333074","AsymAD","female","Entorhinal_Cortex",55,NA,NA,NA,NA
+"GSE118553","GSM3333075","AsymAD","female","Cerebellum",55,NA,NA,NA,NA
+"GSE118553","GSM3333076","Control","female","Frontal_Cortex",55,NA,NA,NA,NA
+"GSE118553","GSM3333077","Control","female","Entorhinal_Cortex",80,NA,NA,NA,NA
+"GSE118553","GSM3333078","Control","female","Cerebellum",80,NA,NA,NA,NA
+"GSE118553","GSM3333079","Control","female","Temporal_Cortex",80,NA,NA,NA,NA
+"GSE118553","GSM3333080","Control","female","Frontal_Cortex",80,NA,NA,NA,NA
+"GSE118553","GSM3333081","Control","female","Entorhinal_Cortex",80,NA,NA,NA,NA
+"GSE118553","GSM3333082","Control","male","Temporal_Cortex",65,NA,NA,NA,NA
+"GSE118553","GSM3333083","Control","male","Cerebellum",65,NA,NA,NA,NA
+"GSE118553","GSM3333084","Control","male","Frontal_Cortex",65,NA,NA,NA,NA
+"GSE118553","GSM3333085","Control","male","Entorhinal_Cortex",65,NA,NA,NA,NA
+"GSE118553","GSM3333086","Control","female","Cerebellum",73,NA,NA,NA,NA
+"GSE118553","GSM3333087","Control","female","Cerebellum",73,NA,NA,NA,NA
+"GSE118553","GSM3333088","Control","female","Temporal_Cortex",73,NA,NA,NA,NA
+"GSE118553","GSM3333089","Control","female","Frontal_Cortex",73,NA,NA,NA,NA
+"GSE125583","GSM3577568","AD","female","fusiform gyrus",93,"IV",NA,NA,NA
+"GSE125583","GSM3577569","AD","male","fusiform gyrus",77,"VI",NA,NA,NA
+"GSE125583","GSM3577570","AD","male","fusiform gyrus",92,"IV",NA,NA,NA
+"GSE125583","GSM3577571","AD","male","fusiform gyrus",85,"IV",NA,NA,NA
+"GSE125583","GSM3577572","AD","male","fusiform gyrus",83,"IV",NA,NA,NA
+"GSE125583","GSM3577573","AD","male","fusiform gyrus",85,"IV",NA,NA,NA
+"GSE125583","GSM3577574","AD","female","fusiform gyrus",93,"IV",NA,NA,NA
+"GSE125583","GSM3577575","AD","male","fusiform gyrus",96,"IV",NA,NA,NA
+"GSE125583","GSM3577576","AD","female","fusiform gyrus",96,"IV",NA,NA,NA
+"GSE125583","GSM3577577","AD","female","fusiform gyrus",88,"IV",NA,NA,NA
+"GSE125583","GSM3577578","AD","male","fusiform gyrus",97,"IV",NA,NA,NA
+"GSE125583","GSM3577579","AD","male","fusiform gyrus",79,"IV",NA,NA,NA
+"GSE125583","GSM3577580","Control","male","fusiform gyrus",76,"I",NA,NA,NA
+"GSE125583","GSM3577581","AD","male","fusiform gyrus",89,"V",NA,NA,NA
+"GSE125583","GSM3577582","AD","female","fusiform gyrus",89,"IV",NA,NA,NA
+"GSE125583","GSM3577583","Control","female","fusiform gyrus",78,"IV",NA,NA,NA
+"GSE125583","GSM3577584","Control","male","fusiform gyrus",80,"I",NA,NA,NA
+"GSE125583","GSM3577585","AD","female","fusiform gyrus",85,"II",NA,NA,NA
+"GSE125583","GSM3577586","AD","female","fusiform gyrus",64,"VI",NA,NA,NA
+"GSE125583","GSM3577587","Control","female","fusiform gyrus",95,"III",NA,NA,NA
+"GSE125583","GSM3577588","AD","male","fusiform gyrus",82,"VI",NA,NA,NA
+"GSE125583","GSM3577589","Control","female","fusiform gyrus",83,"II",NA,NA,NA
+"GSE125583","GSM3577590","AD","male","fusiform gyrus",91,"V",NA,NA,NA
+"GSE125583","GSM3577591","AD","male","fusiform gyrus",77,"IV",NA,NA,NA
+"GSE125583","GSM3577592","AD","female","fusiform gyrus",96,"V",NA,NA,NA
+"GSE125583","GSM3577593","AD","male","fusiform gyrus",80,"III",NA,NA,NA
+"GSE125583","GSM3577594","AD","female","fusiform gyrus",82,"VI",NA,NA,NA
+"GSE125583","GSM3577595","Control","male","fusiform gyrus",82,"III",NA,NA,NA
+"GSE125583","GSM3577596","AD","male","fusiform gyrus",90,"IV",NA,NA,NA
+"GSE125583","GSM3577597","AD","male","fusiform gyrus",80,"V",NA,NA,NA
+"GSE125583","GSM3577598","AD","male","fusiform gyrus",86,"III",NA,NA,NA
+"GSE125583","GSM3577599","Control","female","fusiform gyrus",87,"III",NA,NA,NA
+"GSE125583","GSM3577600","AD","female","fusiform gyrus",93,"V",NA,NA,NA
+"GSE125583","GSM3577601","AD","male","fusiform gyrus",88,"IV",NA,NA,NA
+"GSE125583","GSM3577602","AD","male","fusiform gyrus",86,"II",NA,NA,NA
+"GSE125583","GSM3577603","Control","female","fusiform gyrus",90,"III",NA,NA,NA
+"GSE125583","GSM3577604","Control","female","fusiform gyrus",99,"IV",NA,NA,NA
+"GSE125583","GSM3577605","AD",NA,"fusiform gyrus",NA,NA,NA,NA,NA
+"GSE125583","GSM3577606","AD","male","fusiform gyrus",82,"IV",NA,NA,NA
+"GSE125583","GSM3577607","AD","female","fusiform gyrus",88,"IV",NA,NA,NA
+"GSE125583","GSM3577608","AD","male","fusiform gyrus",85,"IV",NA,NA,NA
+"GSE125583","GSM3577609","AD","female","fusiform gyrus",65,"III",NA,NA,NA
+"GSE125583","GSM3577610","AD","male","fusiform gyrus",85,"VI",NA,NA,NA
+"GSE125583","GSM3577611","AD","male","fusiform gyrus",86,"IV",NA,NA,NA
+"GSE125583","GSM3577612","AD","male","fusiform gyrus",78,"IV",NA,NA,NA
+"GSE125583","GSM3577613","AD","male","fusiform gyrus",74,"IV",NA,NA,NA
+"GSE125583","GSM3577614","Control","male","fusiform gyrus",87,"III",NA,NA,NA
+"GSE125583","GSM3577615","AD","female","fusiform gyrus",103,"IV",NA,NA,NA
+"GSE125583","GSM3577616","AD","female","fusiform gyrus",82,"VI",NA,NA,NA
+"GSE125583","GSM3577617","AD","female","fusiform gyrus",77,"VI",NA,NA,NA
+"GSE125583","GSM3577618","AD","male","fusiform gyrus",86,"III",NA,NA,NA
+"GSE125583","GSM3577619","AD","female","fusiform gyrus",96,"IV",NA,NA,NA
+"GSE125583","GSM3577620","AD","male","fusiform gyrus",90,"IV",NA,NA,NA
+"GSE125583","GSM3577621","AD","male","fusiform gyrus",79,"IV",NA,NA,NA
+"GSE125583","GSM3577622","Control","male","fusiform gyrus",89,"IV",NA,NA,NA
+"GSE125583","GSM3577623","AD","male","fusiform gyrus",78,"III",NA,NA,NA
+"GSE125583","GSM3577624","Control","male","fusiform gyrus",94,"IV",NA,NA,NA
+"GSE125583","GSM3577625","AD","female","fusiform gyrus",86,"V",NA,NA,NA
+"GSE125583","GSM3577626","AD","female","fusiform gyrus",86,"V",NA,NA,NA
+"GSE125583","GSM3577627","AD","female","fusiform gyrus",86,"V",NA,NA,NA
+"GSE125583","GSM3577628","AD","male","fusiform gyrus",83,"V",NA,NA,NA
+"GSE125583","GSM3577629","Control","female","fusiform gyrus",80,"III",NA,NA,NA
+"GSE125583","GSM3577630","AD","male","fusiform gyrus",86,"IV",NA,NA,NA
+"GSE125583","GSM3577631","AD","male","fusiform gyrus",85,"V",NA,NA,NA
+"GSE125583","GSM3577632","AD","female","fusiform gyrus",88,"VI",NA,NA,NA
+"GSE125583","GSM3577633","AD","male","fusiform gyrus",70,"V",NA,NA,NA
+"GSE125583","GSM3577634","AD","male","fusiform gyrus",81,"III",NA,NA,NA
+"GSE125583","GSM3577635","Control","male","fusiform gyrus",80,"III",NA,NA,NA
+"GSE125583","GSM3577636","AD","female","fusiform gyrus",97,"V",NA,NA,NA
+"GSE125583","GSM3577637","Control","female","fusiform gyrus",85,"III",NA,NA,NA
+"GSE125583","GSM3577638","AD","male","fusiform gyrus",77,"IV",NA,NA,NA
+"GSE125583","GSM3577639","AD","female","fusiform gyrus",91,"V",NA,NA,NA
+"GSE125583","GSM3577640","AD","male","fusiform gyrus",89,"III",NA,NA,NA
+"GSE125583","GSM3577641","Control","female","fusiform gyrus",91,"IV",NA,NA,NA
+"GSE125583","GSM3577642","Control","male","fusiform gyrus",83,"III",NA,NA,NA
+"GSE125583","GSM3577643","AD","male","fusiform gyrus",82,"VI",NA,NA,NA
+"GSE125583","GSM3577644","Control","male","fusiform gyrus",81,"IV",NA,NA,NA
+"GSE125583","GSM3577645","AD","male","fusiform gyrus",75,"IV",NA,NA,NA
+"GSE125583","GSM3577646","AD","male","fusiform gyrus",95,"VI",NA,NA,NA
+"GSE125583","GSM3577647","Control","female","fusiform gyrus",79,"III",NA,NA,NA
+"GSE125583","GSM3577648","AD","male","fusiform gyrus",92,"V",NA,NA,NA
+"GSE125583","GSM3577649","AD","female","fusiform gyrus",79,"VI",NA,NA,NA
+"GSE125583","GSM3577650","AD","female","fusiform gyrus",90,"V",NA,NA,NA
+"GSE125583","GSM3577651","Control","female","fusiform gyrus",89,"IV",NA,NA,NA
+"GSE125583","GSM3577652","AD","female","fusiform gyrus",96,"IV",NA,NA,NA
+"GSE125583","GSM3577653","AD","male","fusiform gyrus",82,NA,NA,NA,NA
+"GSE125583","GSM3577654","AD","female","fusiform gyrus",91,"IV",NA,NA,NA
+"GSE125583","GSM3577655","Control","female","fusiform gyrus",96,"IV",NA,NA,NA
+"GSE125583","GSM3577656","AD","male","fusiform gyrus",81,"V",NA,NA,NA
+"GSE125583","GSM3577657","Control","female","fusiform gyrus",84,"IV",NA,NA,NA
+"GSE125583","GSM3577658","AD","female","fusiform gyrus",86,"VI",NA,NA,NA
+"GSE125583","GSM3577659","AD","male","fusiform gyrus",69,"V",NA,NA,NA
+"GSE125583","GSM3577660","AD","male","fusiform gyrus",76,"V",NA,NA,NA
+"GSE125583","GSM3577661","Control","female","fusiform gyrus",80,"III",NA,NA,NA
+"GSE125583","GSM3577662","AD","male","fusiform gyrus",76,"V",NA,NA,NA
+"GSE125583","GSM3577663","Control","male","fusiform gyrus",81,"III",NA,NA,NA
+"GSE125583","GSM3577664","AD","male","fusiform gyrus",82,"V",NA,NA,NA
+"GSE125583","GSM3577665","AD","male","fusiform gyrus",88,"VI",NA,NA,NA
+"GSE125583","GSM3577666","AD","male","fusiform gyrus",89,"V",NA,NA,NA
+"GSE125583","GSM3577667","AD","female","fusiform gyrus",85,"VI",NA,NA,NA
+"GSE125583","GSM3577668","AD","male","fusiform gyrus",81,"V",NA,NA,NA
+"GSE125583","GSM3577669","AD","female","fusiform gyrus",70,"VI",NA,NA,NA
+"GSE125583","GSM3577670","AD","female","fusiform gyrus",84,"VI",NA,NA,NA
+"GSE125583","GSM3577671","Control","female","fusiform gyrus",75,"II",NA,NA,NA
+"GSE125583","GSM3577672","Control","male","fusiform gyrus",92,"III",NA,NA,NA
+"GSE125583","GSM3577673","AD","male","fusiform gyrus",91,"IV",NA,NA,NA
+"GSE125583","GSM3577674","AD","male","fusiform gyrus",76,"VI",NA,NA,NA
+"GSE125583","GSM3577675","AD","female","fusiform gyrus",81,"VI",NA,NA,NA
+"GSE125583","GSM3577676","AD","male","fusiform gyrus",86,"V",NA,NA,NA
+"GSE125583","GSM3577677","AD","male","fusiform gyrus",95,"V",NA,NA,NA
+"GSE125583","GSM3577678","Control","female","fusiform gyrus",87,"IV",NA,NA,NA
+"GSE125583","GSM3577679","AD","female","fusiform gyrus",86,"IV",NA,NA,NA
+"GSE125583","GSM3577680","AD","female","fusiform gyrus",86,"V",NA,NA,NA
+"GSE125583","GSM3577681","AD","male","fusiform gyrus",83,"III",NA,NA,NA
+"GSE125583","GSM3577682","Control","female","fusiform gyrus",87,"IV",NA,NA,NA
+"GSE125583","GSM3577683","AD","male","fusiform gyrus",72,"V",NA,NA,NA
+"GSE125583","GSM3577684","AD","female","fusiform gyrus",102,"V",NA,NA,NA
+"GSE125583","GSM3577685","Control","male","fusiform gyrus",82,"III",NA,NA,NA
+"GSE125583","GSM3577686","Control","female","fusiform gyrus",86,"IV",NA,NA,NA
+"GSE125583","GSM3577687","AD","female","fusiform gyrus",92,"V",NA,NA,NA
+"GSE125583","GSM3577688","AD","male","fusiform gyrus",83,"VI",NA,NA,NA
+"GSE125583","GSM3577689","Control","male","fusiform gyrus",90,"IV",NA,NA,NA
+"GSE125583","GSM3577690","AD","male","fusiform gyrus",88,"V",NA,NA,NA
+"GSE125583","GSM3577691","Control","female","fusiform gyrus",82,"II",NA,NA,NA
+"GSE125583","GSM3577692","AD","female","fusiform gyrus",74,"III",NA,NA,NA
+"GSE125583","GSM3577693","AD","female","fusiform gyrus",85,"IV",NA,NA,NA
+"GSE125583","GSM3577694","AD","male","fusiform gyrus",79,"V",NA,NA,NA
+"GSE125583","GSM3577695","AD","male","fusiform gyrus",80,"VI",NA,NA,NA
+"GSE125583","GSM3577696","AD","male","fusiform gyrus",77,"IV",NA,NA,NA
+"GSE125583","GSM3577697","AD","female","fusiform gyrus",69,"VI",NA,NA,NA
+"GSE125583","GSM3577698","AD","male","fusiform gyrus",84,"V",NA,NA,NA
+"GSE125583","GSM3577699","Control","male","fusiform gyrus",91,"III",NA,NA,NA
+"GSE125583","GSM3577700","Control","male","fusiform gyrus",81,"IV",NA,NA,NA
+"GSE125583","GSM3577701","AD","male","fusiform gyrus",76,"III",NA,NA,NA
+"GSE125583","GSM3577702","AD","female","fusiform gyrus",71,"VI",NA,NA,NA
+"GSE125583","GSM3577703","Control","male","fusiform gyrus",89,"II",NA,NA,NA
+"GSE125583","GSM3577704","AD","male","fusiform gyrus",67,"V",NA,NA,NA
+"GSE125583","GSM3577705","AD","male","fusiform gyrus",81,"V",NA,NA,NA
+"GSE125583","GSM3577706","AD","female","fusiform gyrus",87,"V",NA,NA,NA
+"GSE125583","GSM3577707","AD","male","fusiform gyrus",97,"IV",NA,NA,NA
+"GSE125583","GSM3577708","AD","female","fusiform gyrus",94,"IV",NA,NA,NA
+"GSE125583","GSM3577709","Control","male","fusiform gyrus",71,"I",NA,NA,NA
+"GSE125583","GSM3577710","Control","male","fusiform gyrus",82,"IV",NA,NA,NA
+"GSE125583","GSM3577711","AD","female","fusiform gyrus",92,"VI",NA,NA,NA
+"GSE125583","GSM3577712","AD","male","fusiform gyrus",82,"IV",NA,NA,NA
+"GSE125583","GSM3577713","AD","male","fusiform gyrus",73,"V",NA,NA,NA
+"GSE125583","GSM3577714","Control","female","fusiform gyrus",103,"IV",NA,NA,NA
+"GSE125583","GSM3577715","Control","male","fusiform gyrus",87,"IV",NA,NA,NA
+"GSE125583","GSM3577716","AD","male","fusiform gyrus",76,"IV",NA,NA,NA
+"GSE125583","GSM3577717","Control","male","fusiform gyrus",86,"III",NA,NA,NA
+"GSE125583","GSM3577718","AD","male","fusiform gyrus",76,"VI",NA,NA,NA
+"GSE125583","GSM3577719","AD","female","fusiform gyrus",70,"VI",NA,NA,NA
+"GSE125583","GSM3577720","AD","male","fusiform gyrus",80,"IV",NA,NA,NA
+"GSE125583","GSM3577721","AD","male","fusiform gyrus",87,"VI",NA,NA,NA
+"GSE125583","GSM3577722","AD","female","fusiform gyrus",88,"V",NA,NA,NA
+"GSE125583","GSM3577723","AD","female","fusiform gyrus",91,"IV",NA,NA,NA
+"GSE125583","GSM3577724","AD","female","fusiform gyrus",98,"V",NA,NA,NA
+"GSE125583","GSM3577725","AD","male","fusiform gyrus",85,"VI",NA,NA,NA
+"GSE125583","GSM3577726","AD","male","fusiform gyrus",84,"V",NA,NA,NA
+"GSE125583","GSM3577727","AD","male","fusiform gyrus",65,"VI",NA,NA,NA
+"GSE125583","GSM3577728","AD","female","fusiform gyrus",78,"VI",NA,NA,NA
+"GSE125583","GSM3577729","AD","female","fusiform gyrus",74,"VI",NA,NA,NA
+"GSE125583","GSM3577730","AD","female","fusiform gyrus",91,"V",NA,NA,NA
+"GSE125583","GSM3577731","Control","female","fusiform gyrus",92,"IV",NA,NA,NA
+"GSE125583","GSM3577732","AD","female","fusiform gyrus",61,"VI",NA,NA,NA
+"GSE125583","GSM3577733","AD","male","fusiform gyrus",87,"VI",NA,NA,NA
+"GSE125583","GSM3577734","AD","female","fusiform gyrus",89,"VI",NA,NA,NA
+"GSE125583","GSM3577735","Control","male","fusiform gyrus",100,"IV",NA,NA,NA
+"GSE125583","GSM3577736","AD","male","fusiform gyrus",88,"VI",NA,NA,NA
+"GSE125583","GSM3577737","AD","female","fusiform gyrus",74,"VI",NA,NA,NA
+"GSE125583","GSM3577738","Control","male","fusiform gyrus",84,"II",NA,NA,NA
+"GSE125583","GSM3577739","AD","male","fusiform gyrus",76,"V",NA,NA,NA
+"GSE125583","GSM3577740","Control","male","fusiform gyrus",93,"IV",NA,NA,NA
+"GSE125583","GSM3577741","Control","male","fusiform gyrus",87,"IV",NA,NA,NA
+"GSE125583","GSM3577742","AD","female","fusiform gyrus",76,"IV",NA,NA,NA
+"GSE125583","GSM3577743","AD","male","fusiform gyrus",84,"V",NA,NA,NA
+"GSE125583","GSM3577744","Control","female","fusiform gyrus",88,"III",NA,NA,NA
+"GSE125583","GSM3577745","Control","female","fusiform gyrus",90,"IV",NA,NA,NA
+"GSE125583","GSM3577746","AD","female","fusiform gyrus",60,"VI",NA,NA,NA
+"GSE125583","GSM3577747","AD","female","fusiform gyrus",97,"V",NA,NA,NA
+"GSE125583","GSM3577748","AD","female","fusiform gyrus",94,"IV",NA,NA,NA
+"GSE125583","GSM3577749","Control","male","fusiform gyrus",86,"IV",NA,NA,NA
+"GSE125583","GSM3577750","AD","female","fusiform gyrus",86,"VI",NA,NA,NA
+"GSE125583","GSM3577751","AD","female","fusiform gyrus",87,"V",NA,NA,NA
+"GSE125583","GSM3577752","Control","male","fusiform gyrus",81,"III",NA,NA,NA
+"GSE125583","GSM3577753","AD","male","fusiform gyrus",72,"I",NA,NA,NA
+"GSE125583","GSM3577754","AD","male","fusiform gyrus",81,"VI",NA,NA,NA
+"GSE125583","GSM3577755","AD","male","fusiform gyrus",90,"V",NA,NA,NA
+"GSE125583","GSM3577756","AD","male","fusiform gyrus",85,"IV",NA,NA,NA
+"GSE125583","GSM3577757","AD","female","fusiform gyrus",85,"III",NA,NA,NA
+"GSE125583","GSM3577758","AD","male","fusiform gyrus",74,"IV",NA,NA,NA
+"GSE125583","GSM3577759","AD","male","fusiform gyrus",77,"IV",NA,NA,NA
+"GSE125583","GSM3577760","AD","male","fusiform gyrus",85,"III",NA,NA,NA
+"GSE125583","GSM3577761","Control","female","fusiform gyrus",92,"IV",NA,NA,NA
+"GSE125583","GSM3577762","Control","female","fusiform gyrus",88,"IV",NA,NA,NA
+"GSE125583","GSM3577763","AD","male","fusiform gyrus",80,"IV",NA,NA,NA
+"GSE125583","GSM3577764","AD","female","fusiform gyrus",87,"VI",NA,NA,NA
+"GSE125583","GSM3577765","AD","male","fusiform gyrus",85,"IV",NA,NA,NA
+"GSE125583","GSM3577766","AD","female","fusiform gyrus",84,"IV",NA,NA,NA
+"GSE125583","GSM3577767","Control","female","fusiform gyrus",90,"III",NA,NA,NA
+"GSE125583","GSM3577768","AD","male","fusiform gyrus",79,"IV",NA,NA,NA
+"GSE125583","GSM3577769","AD","female","fusiform gyrus",66,"VI",NA,NA,NA
+"GSE125583","GSM3577770","AD","female","fusiform gyrus",86,"V",NA,NA,NA
+"GSE125583","GSM3577771","AD","female","fusiform gyrus",70,"VI",NA,NA,NA
+"GSE125583","GSM3577772","AD","female","fusiform gyrus",60,"VI",NA,NA,NA
+"GSE125583","GSM3577773","AD","male","fusiform gyrus",82,"IV",NA,NA,NA
+"GSE125583","GSM3577774","AD","female","fusiform gyrus",81,"VI",NA,NA,NA
+"GSE125583","GSM3577775","Control","female","fusiform gyrus",91,"IV",NA,NA,NA
+"GSE125583","GSM3577776","AD","male","fusiform gyrus",87,"III",NA,NA,NA
+"GSE125583","GSM3577777","AD","female","fusiform gyrus",85,"IV",NA,NA,NA
+"GSE125583","GSM3577778","Control","male","fusiform gyrus",91,"III",NA,NA,NA
+"GSE125583","GSM3577779","Control","male","fusiform gyrus",92,"IV",NA,NA,NA
+"GSE125583","GSM3577780","AD","female","fusiform gyrus",91,"VI",NA,NA,NA
+"GSE125583","GSM3577781","AD","male","fusiform gyrus",75,"IV",NA,NA,NA
+"GSE125583","GSM3577782","AD","female","fusiform gyrus",85,"VI",NA,NA,NA
+"GSE125583","GSM3577783","AD","female","fusiform gyrus",94,"V",NA,NA,NA
+"GSE125583","GSM3577784","AD","male","fusiform gyrus",81,"IV",NA,NA,NA
+"GSE125583","GSM3577785","AD","male","fusiform gyrus",84,"V",NA,NA,NA
+"GSE125583","GSM3577786","Control","male","fusiform gyrus",79,"II",NA,NA,NA
+"GSE125583","GSM3577787","AD","female","fusiform gyrus",82,"VI",NA,NA,NA
+"GSE125583","GSM3577788","AD","female","fusiform gyrus",79,"V",NA,NA,NA
+"GSE125583","GSM3577789","Control","male","fusiform gyrus",91,"IV",NA,NA,NA
+"GSE125583","GSM3577790","AD","male","fusiform gyrus",81,"VI",NA,NA,NA
+"GSE125583","GSM3577791","AD","female","fusiform gyrus",86,"V",NA,NA,NA
+"GSE125583","GSM3577792","Control","male","fusiform gyrus",89,"II",NA,NA,NA
+"GSE125583","GSM3577793","Control","male","fusiform gyrus",84,"II",NA,NA,NA
+"GSE125583","GSM3577794","Control","female","fusiform gyrus",99,"III",NA,NA,NA
+"GSE125583","GSM3577795","AD","male","fusiform gyrus",76,"IV",NA,NA,NA
+"GSE125583","GSM3577796","AD","female","fusiform gyrus",84,"VI",NA,NA,NA
+"GSE125583","GSM3577797","AD","female","fusiform gyrus",92,"V",NA,NA,NA
+"GSE125583","GSM3577798","AD","male","fusiform gyrus",86,"V",NA,NA,NA
+"GSE125583","GSM3577799","AD","female","fusiform gyrus",87,"V",NA,NA,NA
+"GSE125583","GSM3577800","AD","male","fusiform gyrus",89,"III",NA,NA,NA
+"GSE125583","GSM3577801","AD","female","fusiform gyrus",91,"IV",NA,NA,NA
+"GSE125583","GSM3577802","AD","female","fusiform gyrus",94,"IV",NA,NA,NA
+"GSE125583","GSM3577803","AD","male","fusiform gyrus",90,"III",NA,NA,NA
+"GSE125583","GSM3577804","AD","female","fusiform gyrus",76,"V",NA,NA,NA
+"GSE125583","GSM3577805","AD","male","fusiform gyrus",77,"IV",NA,NA,NA
+"GSE125583","GSM3577806","AD","male","fusiform gyrus",82,"IV",NA,NA,NA
+"GSE125583","GSM3577807","AD","female","fusiform gyrus",91,"IV",NA,NA,NA
+"GSE125583","GSM3577808","AD","male","fusiform gyrus",87,"V",NA,NA,NA
+"GSE125583","GSM3577809","AD","male","fusiform gyrus",91,"V",NA,NA,NA
+"GSE125583","GSM3577810","Control","female","fusiform gyrus",88,"III",NA,NA,NA
+"GSE125583","GSM3577811","AD","male","fusiform gyrus",87,"III",NA,NA,NA
+"GSE125583","GSM3577812","Control","female","fusiform gyrus",97,"IV",NA,NA,NA
+"GSE125583","GSM3577813","AD","female","fusiform gyrus",91,"IV",NA,NA,NA
+"GSE125583","GSM3577814","AD","male","fusiform gyrus",80,"V",NA,NA,NA
+"GSE125583","GSM3577815","AD","male","fusiform gyrus",78,"IV",NA,NA,NA
+"GSE125583","GSM3577816","AD","male","fusiform gyrus",84,"VI",NA,NA,NA
+"GSE125583","GSM3577817","AD","female","fusiform gyrus",79,"VI",NA,NA,NA
+"GSE125583","GSM3577818","AD","male","fusiform gyrus",80,"VI",NA,NA,NA
+"GSE125583","GSM3577819","Control","male","fusiform gyrus",97,"III",NA,NA,NA
+"GSE125583","GSM3577820","AD","male","fusiform gyrus",75,"V",NA,NA,NA
+"GSE125583","GSM3577821","AD","male","fusiform gyrus",87,"IV",NA,NA,NA
+"GSE125583","GSM3577822","AD","male","fusiform gyrus",68,"IV",NA,NA,NA
+"GSE125583","GSM3577823","AD","female","fusiform gyrus",82,"III",NA,NA,NA
+"GSE125583","GSM3577824","AD","female","fusiform gyrus",83,"VI",NA,NA,NA
+"GSE125583","GSM3577825","AD","female","fusiform gyrus",101,"VI",NA,NA,NA
+"GSE125583","GSM3577826","AD","male","fusiform gyrus",92,"V",NA,NA,NA
+"GSE125583","GSM3577827","AD","male","fusiform gyrus",73,"II",NA,NA,NA
+"GSE125583","GSM3577828","AD","male","fusiform gyrus",88,"III",NA,NA,NA
+"GSE125583","GSM3577829","AD","male","fusiform gyrus",93,"IV",NA,NA,NA
+"GSE125583","GSM3577830","AD","female","fusiform gyrus",77,"V",NA,NA,NA
+"GSE125583","GSM3577831","AD","male","fusiform gyrus",88,"V",NA,NA,NA
+"GSE125583","GSM3577832","AD","female","fusiform gyrus",82,"IV",NA,NA,NA
+"GSE125583","GSM3577833","AD","female","fusiform gyrus",82,"V",NA,NA,NA
+"GSE125583","GSM3577834","AD","female","fusiform gyrus",91,"V",NA,NA,NA
+"GSE125583","GSM3577835","AD","male","fusiform gyrus",64,"VI",NA,NA,NA
+"GSE125583","GSM3577836","Control","female","fusiform gyrus",82,"IV",NA,NA,NA
+"GSE125583","GSM3577837","AD","female","fusiform gyrus",74,"V",NA,NA,NA
+"GSE125583","GSM3577838","AD","female","fusiform gyrus",91,"IV",NA,NA,NA
+"GSE125583","GSM3577839","AD","male","fusiform gyrus",74,"VI",NA,NA,NA
+"GSE125583","GSM3577840","Control","female","fusiform gyrus",82,"II",NA,NA,NA
+"GSE125583","GSM3577841","AD","male","fusiform gyrus",85,"II",NA,NA,NA
+"GSE125583","GSM3577842","AD","female","fusiform gyrus",65,"VI",NA,NA,NA
+"GSE125583","GSM3577843","Control","male","fusiform gyrus",91,"II",NA,NA,NA
+"GSE125583","GSM3577844","AD","female","fusiform gyrus",90,"VI",NA,NA,NA
+"GSE125583","GSM3577845","AD","female","fusiform gyrus",86,"IV",NA,NA,NA
+"GSE125583","GSM3577846","AD","male","fusiform gyrus",88,"VI",NA,NA,NA
+"GSE125583","GSM3577847","Control","male","fusiform gyrus",90,"III",NA,NA,NA
+"GSE125583","GSM3577848","AD","female","fusiform gyrus",91,"II",NA,NA,NA
+"GSE125583","GSM3577849","Control","male","fusiform gyrus",80,"III",NA,NA,NA
+"GSE125583","GSM3577850","Control","female","fusiform gyrus",91,"IV",NA,NA,NA
+"GSE125583","GSM3577851","Control","male","fusiform gyrus",85,"III",NA,NA,NA
+"GSE125583","GSM3577852","AD","male","fusiform gyrus",75,"V",NA,NA,NA
+"GSE125583","GSM3577853","AD","female","fusiform gyrus",86,"VI",NA,NA,NA
+"GSE125583","GSM3577854","AD","male","fusiform gyrus",83,"V",NA,NA,NA
+"GSE125583","GSM3577855","AD","female","fusiform gyrus",92,"IV",NA,NA,NA
+"GSE125583","GSM3577856","AD","male","fusiform gyrus",78,"VI",NA,NA,NA
+"GSE132903","GSM3895951","Control","female","middle temporal gyrus",90,NA,NA,NA,NA
+"GSE132903","GSM3895952","Control","male","middle temporal gyrus",82,NA,NA,NA,NA
+"GSE132903","GSM3895953","Control","female","middle temporal gyrus",88,NA,NA,NA,NA
+"GSE132903","GSM3895954","Control","female","middle temporal gyrus",92,NA,NA,NA,NA
+"GSE132903","GSM3895955","Control","male","middle temporal gyrus",91,NA,NA,NA,NA
+"GSE132903","GSM3895956","Control","female","middle temporal gyrus",87,NA,NA,NA,NA
+"GSE132903","GSM3895957","Control","male","middle temporal gyrus",86,NA,NA,NA,NA
+"GSE132903","GSM3895958","Control","male","middle temporal gyrus",78,NA,NA,NA,NA
+"GSE132903","GSM3895959","Control","male","middle temporal gyrus",87,NA,NA,NA,NA
+"GSE132903","GSM3895960","Control","male","middle temporal gyrus",79,NA,NA,NA,NA
+"GSE132903","GSM3895961","Control","female","middle temporal gyrus",77,NA,NA,NA,NA
+"GSE132903","GSM3895962","Control","male","middle temporal gyrus",77,NA,NA,NA,NA
+"GSE132903","GSM3895963","Control","female","middle temporal gyrus",88,NA,NA,NA,NA
+"GSE132903","GSM3895964","Control","male","middle temporal gyrus",85,NA,NA,NA,NA
+"GSE132903","GSM3895965","Control","female","middle temporal gyrus",95,NA,NA,NA,NA
+"GSE132903","GSM3895966","Control","female","middle temporal gyrus",102,NA,NA,NA,NA
+"GSE132903","GSM3895967","Control","male","middle temporal gyrus",89,NA,NA,NA,NA
+"GSE132903","GSM3895968","Control","male","middle temporal gyrus",70,NA,NA,NA,NA
+"GSE132903","GSM3895969","Control","female","middle temporal gyrus",82,NA,NA,NA,NA
+"GSE132903","GSM3895970","Control","female","middle temporal gyrus",73,NA,NA,NA,NA
+"GSE132903","GSM3895971","Control","male","middle temporal gyrus",90,NA,NA,NA,NA
+"GSE132903","GSM3895972","Control","male","middle temporal gyrus",94,NA,NA,NA,NA
+"GSE132903","GSM3895973","Control","female","middle temporal gyrus",96,NA,NA,NA,NA
+"GSE132903","GSM3895974","Control","female","middle temporal gyrus",85,NA,NA,NA,NA
+"GSE132903","GSM3895975","Control","male","middle temporal gyrus",84,NA,NA,NA,NA
+"GSE132903","GSM3895976","Control","male","middle temporal gyrus",83,NA,NA,NA,NA
+"GSE132903","GSM3895977","Control","female","middle temporal gyrus",90,NA,NA,NA,NA
+"GSE132903","GSM3895978","Control","female","middle temporal gyrus",87,NA,NA,NA,NA
+"GSE132903","GSM3895979","Control","male","middle temporal gyrus",85,NA,NA,NA,NA
+"GSE132903","GSM3895980","Control","female","middle temporal gyrus",83,NA,NA,NA,NA
+"GSE132903","GSM3895981","Control","male","middle temporal gyrus",84,NA,NA,NA,NA
+"GSE132903","GSM3895982","Control","male","middle temporal gyrus",88,NA,NA,NA,NA
+"GSE132903","GSM3895983","Control","female","middle temporal gyrus",98,NA,NA,NA,NA
+"GSE132903","GSM3895984","Control","male","middle temporal gyrus",85,NA,NA,NA,NA
+"GSE132903","GSM3895985","Control","female","middle temporal gyrus",86,NA,NA,NA,NA
+"GSE132903","GSM3895986","Control","female","middle temporal gyrus",87,NA,NA,NA,NA
+"GSE132903","GSM3895987","Control","male","middle temporal gyrus",89,NA,NA,NA,NA
+"GSE132903","GSM3895988","Control","male","middle temporal gyrus",92,NA,NA,NA,NA
+"GSE132903","GSM3895989","Control","female","middle temporal gyrus",78,NA,NA,NA,NA
+"GSE132903","GSM3895990","Control","female","middle temporal gyrus",77,NA,NA,NA,NA
+"GSE132903","GSM3895991","Control","male","middle temporal gyrus",91,NA,NA,NA,NA
+"GSE132903","GSM3895992","Control","male","middle temporal gyrus",100,NA,NA,NA,NA
+"GSE132903","GSM3895993","Control","male","middle temporal gyrus",82,NA,NA,NA,NA
+"GSE132903","GSM3895994","Control","female","middle temporal gyrus",87,NA,NA,NA,NA
+"GSE132903","GSM3895995","Control","male","middle temporal gyrus",73,NA,NA,NA,NA
+"GSE132903","GSM3895996","Control","male","middle temporal gyrus",75,NA,NA,NA,NA
+"GSE132903","GSM3895997","Control","male","middle temporal gyrus",82,NA,NA,NA,NA
+"GSE132903","GSM3895998","Control","female","middle temporal gyrus",90,NA,NA,NA,NA
+"GSE132903","GSM3895999","Control","female","middle temporal gyrus",96,NA,NA,NA,NA
+"GSE132903","GSM3896000","Control","female","middle temporal gyrus",84,NA,NA,NA,NA
+"GSE132903","GSM3896001","Control","male","middle temporal gyrus",80,NA,NA,NA,NA
+"GSE132903","GSM3896002","Control","male","middle temporal gyrus",86,NA,NA,NA,NA
+"GSE132903","GSM3896003","Control","female","middle temporal gyrus",91,NA,NA,NA,NA
+"GSE132903","GSM3896004","Control","female","middle temporal gyrus",91,NA,NA,NA,NA
+"GSE132903","GSM3896005","Control","female","middle temporal gyrus",94,NA,NA,NA,NA
+"GSE132903","GSM3896006","Control","male","middle temporal gyrus",87,NA,NA,NA,NA
+"GSE132903","GSM3896007","Control","female","middle temporal gyrus",75,NA,NA,NA,NA
+"GSE132903","GSM3896008","Control","male","middle temporal gyrus",74,NA,NA,NA,NA
+"GSE132903","GSM3896009","Control","male","middle temporal gyrus",76,NA,NA,NA,NA
+"GSE132903","GSM3896010","Control","male","middle temporal gyrus",71,NA,NA,NA,NA
+"GSE132903","GSM3896011","Control","male","middle temporal gyrus",87,NA,NA,NA,NA
+"GSE132903","GSM3896012","Control","male","middle temporal gyrus",90,NA,NA,NA,NA
+"GSE132903","GSM3896013","Control","male","middle temporal gyrus",80,NA,NA,NA,NA
+"GSE132903","GSM3896014","Control","male","middle temporal gyrus",84,NA,NA,NA,NA
+"GSE132903","GSM3896015","Control","male","middle temporal gyrus",80,NA,NA,NA,NA
+"GSE132903","GSM3896016","Control","male","middle temporal gyrus",89,NA,NA,NA,NA
+"GSE132903","GSM3896017","Control","female","middle temporal gyrus",86,NA,NA,NA,NA
+"GSE132903","GSM3896018","Control","female","middle temporal gyrus",80,NA,NA,NA,NA
+"GSE132903","GSM3896019","Control","male","middle temporal gyrus",92,NA,NA,NA,NA
+"GSE132903","GSM3896020","Control","female","middle temporal gyrus",83,NA,NA,NA,NA
+"GSE132903","GSM3896021","Control","female","middle temporal gyrus",86,NA,NA,NA,NA
+"GSE132903","GSM3896022","Control","female","middle temporal gyrus",91,NA,NA,NA,NA
+"GSE132903","GSM3896023","Control","female","middle temporal gyrus",95,NA,NA,NA,NA
+"GSE132903","GSM3896024","Control","female","middle temporal gyrus",95,NA,NA,NA,NA
+"GSE132903","GSM3896025","Control","female","middle temporal gyrus",82,NA,NA,NA,NA
+"GSE132903","GSM3896026","Control","female","middle temporal gyrus",85,NA,NA,NA,NA
+"GSE132903","GSM3896027","Control","female","middle temporal gyrus",87,NA,NA,NA,NA
+"GSE132903","GSM3896028","Control","male","middle temporal gyrus",95,NA,NA,NA,NA
+"GSE132903","GSM3896029","Control","female","middle temporal gyrus",85,NA,NA,NA,NA
+"GSE132903","GSM3896030","Control","female","middle temporal gyrus",91,NA,NA,NA,NA
+"GSE132903","GSM3896031","Control","female","middle temporal gyrus",89,NA,NA,NA,NA
+"GSE132903","GSM3896032","AD","male","middle temporal gyrus",80,NA,NA,NA,NA
+"GSE132903","GSM3896033","AD","female","middle temporal gyrus",87,NA,NA,NA,NA
+"GSE132903","GSM3896034","AD","female","middle temporal gyrus",92,NA,NA,NA,NA
+"GSE132903","GSM3896035","AD","female","middle temporal gyrus",77,NA,NA,NA,NA
+"GSE132903","GSM3896036","AD","female","middle temporal gyrus",84,NA,NA,NA,NA
+"GSE132903","GSM3896037","AD","female","middle temporal gyrus",91,NA,NA,NA,NA
+"GSE132903","GSM3896038","AD","female","middle temporal gyrus",87,NA,NA,NA,NA
+"GSE132903","GSM3896039","AD","female","middle temporal gyrus",97,NA,NA,NA,NA
+"GSE132903","GSM3896040","AD","female","middle temporal gyrus",87,NA,NA,NA,NA
+"GSE132903","GSM3896041","AD","male","middle temporal gyrus",78,NA,NA,NA,NA
+"GSE132903","GSM3896042","AD","male","middle temporal gyrus",76,NA,NA,NA,NA
+"GSE132903","GSM3896043","AD","male","middle temporal gyrus",81,NA,NA,NA,NA
+"GSE132903","GSM3896044","AD","male","middle temporal gyrus",80,NA,NA,NA,NA
+"GSE132903","GSM3896045","AD","female","middle temporal gyrus",86,NA,NA,NA,NA
+"GSE132903","GSM3896046","AD","female","middle temporal gyrus",81,NA,NA,NA,NA
+"GSE132903","GSM3896047","AD","male","middle temporal gyrus",79,NA,NA,NA,NA
+"GSE132903","GSM3896048","AD","female","middle temporal gyrus",91,NA,NA,NA,NA
+"GSE132903","GSM3896049","AD","female","middle temporal gyrus",91,NA,NA,NA,NA
+"GSE132903","GSM3896050","AD","female","middle temporal gyrus",89,NA,NA,NA,NA
+"GSE132903","GSM3896051","AD","female","middle temporal gyrus",82,NA,NA,NA,NA
+"GSE132903","GSM3896052","AD","female","middle temporal gyrus",92,NA,NA,NA,NA
+"GSE132903","GSM3896053","AD","male","middle temporal gyrus",86,NA,NA,NA,NA
+"GSE132903","GSM3896054","AD","female","middle temporal gyrus",82,NA,NA,NA,NA
+"GSE132903","GSM3896055","AD","female","middle temporal gyrus",86,NA,NA,NA,NA
+"GSE132903","GSM3896056","AD","male","middle temporal gyrus",80,NA,NA,NA,NA
+"GSE132903","GSM3896057","AD","female","middle temporal gyrus",87,NA,NA,NA,NA
+"GSE132903","GSM3896058","AD","male","middle temporal gyrus",92,NA,NA,NA,NA
+"GSE132903","GSM3896059","AD","female","middle temporal gyrus",90,NA,NA,NA,NA
+"GSE132903","GSM3896060","AD","female","middle temporal gyrus",88,NA,NA,NA,NA
+"GSE132903","GSM3896061","AD","male","middle temporal gyrus",90,NA,NA,NA,NA
+"GSE132903","GSM3896062","AD","male","middle temporal gyrus",90,NA,NA,NA,NA
+"GSE132903","GSM3896063","AD","male","middle temporal gyrus",72,NA,NA,NA,NA
+"GSE132903","GSM3896064","AD","male","middle temporal gyrus",87,NA,NA,NA,NA
+"GSE132903","GSM3896065","AD","male","middle temporal gyrus",75,NA,NA,NA,NA
+"GSE132903","GSM3896066","AD","female","middle temporal gyrus",86,NA,NA,NA,NA
+"GSE132903","GSM3896067","AD","female","middle temporal gyrus",95,NA,NA,NA,NA
+"GSE132903","GSM3896068","AD","male","middle temporal gyrus",95,NA,NA,NA,NA
+"GSE132903","GSM3896069","AD","female","middle temporal gyrus",88,NA,NA,NA,NA
+"GSE132903","GSM3896070","AD","male","middle temporal gyrus",87,NA,NA,NA,NA
+"GSE132903","GSM3896071","AD","female","middle temporal gyrus",81,NA,NA,NA,NA
+"GSE132903","GSM3896072","AD","male","middle temporal gyrus",83,NA,NA,NA,NA
+"GSE132903","GSM3896073","AD","female","middle temporal gyrus",85,NA,NA,NA,NA
+"GSE132903","GSM3896074","AD","female","middle temporal gyrus",95,NA,NA,NA,NA
+"GSE132903","GSM3896075","AD","male","middle temporal gyrus",81,NA,NA,NA,NA
+"GSE132903","GSM3896076","AD","male","middle temporal gyrus",83,NA,NA,NA,NA
+"GSE132903","GSM3896077","AD","male","middle temporal gyrus",85,NA,NA,NA,NA
+"GSE132903","GSM3896078","AD","female","middle temporal gyrus",85,NA,NA,NA,NA
+"GSE132903","GSM3896079","AD","male","middle temporal gyrus",94,NA,NA,NA,NA
+"GSE132903","GSM3896080","AD","male","middle temporal gyrus",97,NA,NA,NA,NA
+"GSE132903","GSM3896081","AD","female","middle temporal gyrus",82,NA,NA,NA,NA
+"GSE132903","GSM3896082","AD","male","middle temporal gyrus",91,NA,NA,NA,NA
+"GSE132903","GSM3896083","AD","male","middle temporal gyrus",92,NA,NA,NA,NA
+"GSE132903","GSM3896084","AD","male","middle temporal gyrus",70,NA,NA,NA,NA
+"GSE132903","GSM3896085","AD","male","middle temporal gyrus",84,NA,NA,NA,NA
+"GSE132903","GSM3896086","AD","male","middle temporal gyrus",86,NA,NA,NA,NA
+"GSE132903","GSM3896087","AD","female","middle temporal gyrus",95,NA,NA,NA,NA
+"GSE132903","GSM3896088","AD","male","middle temporal gyrus",88,NA,NA,NA,NA
+"GSE132903","GSM3896089","AD","male","middle temporal gyrus",79,NA,NA,NA,NA
+"GSE132903","GSM3896090","AD","male","middle temporal gyrus",87,NA,NA,NA,NA
+"GSE132903","GSM3896091","AD","female","middle temporal gyrus",73,NA,NA,NA,NA
+"GSE132903","GSM3896092","AD","female","middle temporal gyrus",90,NA,NA,NA,NA
+"GSE132903","GSM3896093","AD","male","middle temporal gyrus",83,NA,NA,NA,NA
+"GSE132903","GSM3896094","AD","female","middle temporal gyrus",85,NA,NA,NA,NA
+"GSE132903","GSM3896095","AD","male","middle temporal gyrus",74,NA,NA,NA,NA
+"GSE132903","GSM3896096","AD","male","middle temporal gyrus",71,NA,NA,NA,NA
+"GSE132903","GSM3896097","AD","female","middle temporal gyrus",78,NA,NA,NA,NA
+"GSE132903","GSM3896098","AD","male","middle temporal gyrus",82,NA,NA,NA,NA
+"GSE132903","GSM3896099","AD","male","middle temporal gyrus",85,NA,NA,NA,NA
+"GSE132903","GSM3896100","AD","female","middle temporal gyrus",96,NA,NA,NA,NA
+"GSE132903","GSM3896101","AD","female","middle temporal gyrus",70,NA,NA,NA,NA
+"GSE132903","GSM3896102","AD","female","middle temporal gyrus",78,NA,NA,NA,NA
+"GSE132903","GSM3896103","AD","female","middle temporal gyrus",77,NA,NA,NA,NA
+"GSE132903","GSM3896104","AD","female","middle temporal gyrus",87,NA,NA,NA,NA
+"GSE132903","GSM3896105","AD","male","middle temporal gyrus",84,NA,NA,NA,NA
+"GSE132903","GSM3896106","AD","male","middle temporal gyrus",98,NA,NA,NA,NA
+"GSE132903","GSM3896107","AD","male","middle temporal gyrus",75,NA,NA,NA,NA
+"GSE132903","GSM3896108","AD","male","middle temporal gyrus",76,NA,NA,NA,NA
+"GSE132903","GSM3896109","AD","female","middle temporal gyrus",94,NA,NA,NA,NA
+"GSE132903","GSM3896110","AD","male","middle temporal gyrus",84,NA,NA,NA,NA
+"GSE132903","GSM3896111","AD","female","middle temporal gyrus",75,NA,NA,NA,NA
+"GSE132903","GSM3896112","Control","male","middle temporal gyrus",75,NA,NA,NA,NA
+"GSE132903","GSM3896113","Control","female","middle temporal gyrus",92,NA,NA,NA,NA
+"GSE132903","GSM3896114","Control","female","middle temporal gyrus",81,NA,NA,NA,NA
+"GSE132903","GSM3896115","Control","female","middle temporal gyrus",77,NA,NA,NA,NA
+"GSE132903","GSM3896116","AD","male","middle temporal gyrus",88,NA,NA,NA,NA
+"GSE132903","GSM3896117","AD","female","middle temporal gyrus",87,NA,NA,NA,NA
+"GSE132903","GSM3896118","AD","female","middle temporal gyrus",77,NA,NA,NA,NA
+"GSE132903","GSM3896119","AD","male","middle temporal gyrus",93,NA,NA,NA,NA
+"GSE132903","GSM3896120","AD","female","middle temporal gyrus",97,NA,NA,NA,NA
+"GSE132903","GSM3896121","AD","male","middle temporal gyrus",89,NA,NA,NA,NA
+"GSE132903","GSM3896122","AD","male","middle temporal gyrus",88,NA,NA,NA,NA
+"GSE132903","GSM3896123","AD","male","middle temporal gyrus",73,NA,NA,NA,NA
+"GSE132903","GSM3896124","AD","female","middle temporal gyrus",91,NA,NA,NA,NA
+"GSE132903","GSM3896125","AD","female","middle temporal gyrus",91,NA,NA,NA,NA
+"GSE132903","GSM3896126","Control","female","middle temporal gyrus",78,NA,NA,NA,NA
+"GSE132903","GSM3896127","AD","male","middle temporal gyrus",89,NA,NA,NA,NA
+"GSE132903","GSM3896128","AD","female","middle temporal gyrus",78,NA,NA,NA,NA
+"GSE132903","GSM3896129","AD","female","middle temporal gyrus",90,NA,NA,NA,NA
+"GSE132903","GSM3896130","AD","male","middle temporal gyrus",85,NA,NA,NA,NA
+"GSE132903","GSM3896131","AD","female","middle temporal gyrus",85,NA,NA,NA,NA
+"GSE132903","GSM3896132","AD","male","middle temporal gyrus",82,NA,NA,NA,NA
+"GSE132903","GSM3896133","AD","male","middle temporal gyrus",82,NA,NA,NA,NA
+"GSE132903","GSM3896134","Control","male","middle temporal gyrus",72,NA,NA,NA,NA
+"GSE132903","GSM3896135","Control","female","middle temporal gyrus",82,NA,NA,NA,NA
+"GSE132903","GSM3896136","Control","female","middle temporal gyrus",81,NA,NA,NA,NA
+"GSE132903","GSM3896137","Control","male","middle temporal gyrus",81,NA,NA,NA,NA
+"GSE132903","GSM3896138","Control","male","middle temporal gyrus",79,NA,NA,NA,NA
+"GSE132903","GSM3896139","Control","male","middle temporal gyrus",91,NA,NA,NA,NA
+"GSE132903","GSM3896140","Control","male","middle temporal gyrus",81,NA,NA,NA,NA
+"GSE132903","GSM3896141","Control","female","middle temporal gyrus",70,NA,NA,NA,NA
+"GSE132903","GSM3896142","Control","male","middle temporal gyrus",76,NA,NA,NA,NA
+"GSE132903","GSM3896143","Control","male","middle temporal gyrus",90,NA,NA,NA,NA
+"GSE132903","GSM3896144","Control","male","middle temporal gyrus",83,NA,NA,NA,NA
+"GSE132903","GSM3896145","Control","male","middle temporal gyrus",83,NA,NA,NA,NA
+"GSE15222","GSM225652","Control",NA,"temporal cortex",NA,NA,NA,NA,NA
+"GSE15222","GSM225662","Control",NA,"temporal cortex",NA,NA,NA,NA,NA
+"GSE15222","GSM225664","Control",NA,"temporal cortex",NA,NA,NA,NA,NA
+"GSE15222","GSM225665","Control",NA,"temporal cortex",NA,NA,NA,NA,NA
+"GSE15222","GSM225666","Control",NA,"temporal cortex",NA,NA,NA,NA,NA
+"GSE15222","GSM225667","Control",NA,"temporal cortex",NA,NA,NA,NA,NA
+"GSE15222","GSM225668","Control",NA,"temporal cortex",NA,NA,NA,NA,NA
+"GSE15222","GSM225669","Control",NA,"temporal cortex",NA,NA,NA,NA,NA
+"GSE15222","GSM225670","Control",NA,"temporal cortex",NA,NA,NA,NA,NA
+"GSE15222","GSM225671","Control",NA,"temporal cortex",NA,NA,NA,NA,NA
+"GSE15222","GSM225672","Control",NA,"temporal cortex",NA,NA,NA,NA,NA
+"GSE15222","GSM225673","Control",NA,"temporal cortex",NA,NA,NA,NA,NA
+"GSE15222","GSM225674","Control",NA,"temporal cortex",NA,NA,NA,NA,NA
+"GSE15222","GSM225675","Control",NA,"temporal cortex",NA,NA,NA,NA,NA
+"GSE15222","GSM225676","Control",NA,"temporal cortex",NA,NA,NA,NA,NA
+"GSE15222","GSM225677","Control",NA,"temporal cortex",NA,NA,NA,NA,NA
+"GSE15222","GSM225678","Control",NA,"temporal cortex",NA,NA,NA,NA,NA
+"GSE15222","GSM225679","Control",NA,"temporal cortex",NA,NA,NA,NA,NA
+"GSE15222","GSM225680","Control",NA,"temporal cortex",NA,NA,NA,NA,NA
+"GSE15222","GSM225681","Control",NA,"temporal cortex",NA,NA,NA,NA,NA
+"GSE15222","GSM225682","Control",NA,"temporal cortex",NA,NA,NA,NA,NA
+"GSE15222","GSM225683","Control",NA,"frontal cortex",NA,NA,NA,NA,NA
+"GSE15222","GSM225684","Control",NA,"frontal cortex",NA,NA,NA,NA,NA
+"GSE15222","GSM225685","Control",NA,"frontal cortex",NA,NA,NA,NA,NA
+"GSE15222","GSM225686","Control",NA,"frontal cortex",NA,NA,NA,NA,NA
+"GSE15222","GSM225687","Control",NA,"temporal cortex",NA,NA,NA,NA,NA
+"GSE15222","GSM225688","Control",NA,"temporal cortex",NA,NA,NA,NA,NA
+"GSE15222","GSM225689","Control",NA,"temporal cortex",NA,NA,NA,NA,NA
+"GSE15222","GSM225690","Control",NA,"temporal cortex",NA,NA,NA,NA,NA
+"GSE15222","GSM225691","Control",NA,"temporal cortex",NA,NA,NA,NA,NA
+"GSE15222","GSM225692","Control",NA,"temporal cortex",NA,NA,NA,NA,NA
+"GSE15222","GSM225693","Control",NA,"temporal cortex",NA,NA,NA,NA,NA
+"GSE15222","GSM225695","Control",NA,"temporal cortex",NA,NA,NA,NA,NA
+"GSE15222","GSM225696","Control",NA,"temporal cortex",NA,NA,NA,NA,NA
+"GSE15222","GSM225697","Control",NA,"temporal cortex",NA,NA,NA,NA,NA
+"GSE15222","GSM225698","Control",NA,"temporal cortex",NA,NA,NA,NA,NA
+"GSE15222","GSM225699","Control",NA,"temporal cortex",NA,NA,NA,NA,NA
+"GSE15222","GSM225700","Control",NA,"temporal cortex",NA,NA,NA,NA,NA
+"GSE15222","GSM225701","Control",NA,"temporal cortex",NA,NA,NA,NA,NA
+"GSE15222","GSM225702","Control",NA,"temporal cortex",NA,NA,NA,NA,NA
+"GSE15222","GSM225703","Control",NA,"temporal cortex",NA,NA,NA,NA,NA
+"GSE15222","GSM225704","Control",NA,"temporal cortex",NA,NA,NA,NA,NA
+"GSE15222","GSM225705","Control",NA,"temporal cortex",NA,NA,NA,NA,NA
+"GSE15222","GSM225706","Control",NA,"temporal cortex",NA,NA,NA,NA,NA
+"GSE15222","GSM225707","Control",NA,"temporal cortex",NA,NA,NA,NA,NA
+"GSE15222","GSM225708","Control",NA,"temporal cortex",NA,NA,NA,NA,NA
+"GSE15222","GSM225709","Control",NA,"temporal cortex",NA,NA,NA,NA,NA
+"GSE15222","GSM225711","Control",NA,"temporal cortex",NA,NA,NA,NA,NA
+"GSE15222","GSM225713","Control",NA,"temporal cortex",NA,NA,NA,NA,NA
+"GSE15222","GSM225714","Control",NA,"temporal cortex",NA,NA,NA,NA,NA
+"GSE15222","GSM225715","Control",NA,"temporal cortex",NA,NA,NA,NA,NA
+"GSE15222","GSM225717","Control",NA,"temporal cortex",NA,NA,NA,NA,NA
+"GSE15222","GSM225718","Control",NA,"temporal cortex",NA,NA,NA,NA,NA
+"GSE15222","GSM225719","Control",NA,"temporal cortex",NA,NA,NA,NA,NA
+"GSE15222","GSM225720","Control",NA,"frontal cortex",NA,NA,NA,NA,NA
+"GSE15222","GSM225721","Control",NA,"frontal cortex",NA,NA,NA,NA,NA
+"GSE15222","GSM225722","Control",NA,"temporal cortex",NA,NA,NA,NA,NA
+"GSE15222","GSM225723","Control",NA,"temporal cortex",NA,NA,NA,NA,NA
+"GSE15222","GSM225724","Control",NA,"temporal cortex",NA,NA,NA,NA,NA
+"GSE15222","GSM225725","Control",NA,"temporal cortex",NA,NA,NA,NA,NA
+"GSE15222","GSM225726","Control",NA,"temporal cortex",NA,NA,NA,NA,NA
+"GSE15222","GSM225727","Control",NA,"temporal cortex",NA,NA,NA,NA,NA
+"GSE15222","GSM225728","Control",NA,"temporal cortex",NA,NA,NA,NA,NA
+"GSE15222","GSM225729","Control",NA,"temporal cortex",NA,NA,NA,NA,NA
+"GSE15222","GSM225730","Control",NA,"temporal cortex",NA,NA,NA,NA,NA
+"GSE15222","GSM225731","Control",NA,"temporal cortex",NA,NA,NA,NA,NA
+"GSE15222","GSM225732","Control",NA,"temporal cortex",NA,NA,NA,NA,NA
+"GSE15222","GSM225733","Control",NA,"temporal cortex",NA,NA,NA,NA,NA
+"GSE15222","GSM225734","Control",NA,"temporal cortex",NA,NA,NA,NA,NA
+"GSE15222","GSM225735","Control",NA,"temporal cortex",NA,NA,NA,NA,NA
+"GSE15222","GSM225736","Control",NA,"temporal cortex",NA,NA,NA,NA,NA
+"GSE15222","GSM225737","Control",NA,"temporal cortex",NA,NA,NA,NA,NA
+"GSE15222","GSM225739","Control",NA,"temporal cortex",NA,NA,NA,NA,NA
+"GSE15222","GSM225741","Control",NA,"temporal cortex",NA,NA,NA,NA,NA
+"GSE15222","GSM225742","Control",NA,"temporal cortex",NA,NA,NA,NA,NA
+"GSE15222","GSM225743","Control",NA,"temporal cortex",NA,NA,NA,NA,NA
+"GSE15222","GSM225744","Control",NA,"temporal cortex",NA,NA,NA,NA,NA
+"GSE15222","GSM225745","Control",NA,"temporal cortex",NA,NA,NA,NA,NA
+"GSE15222","GSM225746","Control",NA,"temporal cortex",NA,NA,NA,NA,NA
+"GSE15222","GSM225747","Control",NA,"temporal cortex",NA,NA,NA,NA,NA
+"GSE15222","GSM225748","Control",NA,"temporal cortex",NA,NA,NA,NA,NA
+"GSE15222","GSM225749","Control",NA,"temporal cortex",NA,NA,NA,NA,NA
+"GSE15222","GSM225751","Control",NA,"temporal cortex",NA,NA,NA,NA,NA
+"GSE15222","GSM225752","Control",NA,"temporal cortex",NA,NA,NA,NA,NA
+"GSE15222","GSM225753","Control",NA,"temporal cortex",NA,NA,NA,NA,NA
+"GSE15222","GSM225754","Control",NA,"temporal cortex",NA,NA,NA,NA,NA
+"GSE15222","GSM225755","Control",NA,"temporal cortex",NA,NA,NA,NA,NA
+"GSE15222","GSM225756","Control",NA,"temporal cortex",NA,NA,NA,NA,NA
+"GSE15222","GSM225757","Control",NA,"temporal cortex",NA,NA,NA,NA,NA
+"GSE15222","GSM225758","Control",NA,"temporal cortex",NA,NA,NA,NA,NA
+"GSE15222","GSM225759","Control",NA,"temporal cortex",NA,NA,NA,NA,NA
+"GSE15222","GSM225760","Control",NA,"temporal cortex",NA,NA,NA,NA,NA
+"GSE15222","GSM225761","Control",NA,"temporal cortex",NA,NA,NA,NA,NA
+"GSE15222","GSM225762","Control",NA,"temporal cortex",NA,NA,NA,NA,NA
+"GSE15222","GSM225763","Control",NA,"temporal cortex",NA,NA,NA,NA,NA
+"GSE15222","GSM225764","Control",NA,"temporal cortex",NA,NA,NA,NA,NA
+"GSE15222","GSM225915","Control",NA,"temporal cortex",NA,NA,NA,NA,NA
+"GSE15222","GSM225916","Control",NA,"temporal cortex",NA,NA,NA,NA,NA
+"GSE15222","GSM225917","Control",NA,"temporal cortex",NA,NA,NA,NA,NA
+"GSE15222","GSM225918","Control",NA,"temporal cortex",NA,NA,NA,NA,NA
+"GSE15222","GSM225919","Control",NA,"temporal cortex",NA,NA,NA,NA,NA
+"GSE15222","GSM225920","Control",NA,"temporal cortex",NA,NA,NA,NA,NA
+"GSE15222","GSM225921","Control",NA,"temporal cortex",NA,NA,NA,NA,NA
+"GSE15222","GSM225922","Control",NA,"temporal cortex",NA,NA,NA,NA,NA
+"GSE15222","GSM225923","Control",NA,"temporal cortex",NA,NA,NA,NA,NA
+"GSE15222","GSM225924","Control",NA,"temporal cortex",NA,NA,NA,NA,NA
+"GSE15222","GSM225925","Control",NA,"temporal cortex",NA,NA,NA,NA,NA
+"GSE15222","GSM225926","Control",NA,"temporal cortex",NA,NA,NA,NA,NA
+"GSE15222","GSM225927","Control",NA,"temporal cortex",NA,NA,NA,NA,NA
+"GSE15222","GSM225928","Control",NA,"temporal cortex",NA,NA,NA,NA,NA
+"GSE15222","GSM225929","Control",NA,"temporal cortex",NA,NA,NA,NA,NA
+"GSE15222","GSM225930","Control",NA,"temporal cortex",NA,NA,NA,NA,NA
+"GSE15222","GSM225931","Control",NA,"temporal cortex",NA,NA,NA,NA,NA
+"GSE15222","GSM225932","Control",NA,"temporal cortex",NA,NA,NA,NA,NA
+"GSE15222","GSM225933","Control",NA,"temporal cortex",NA,NA,NA,NA,NA
+"GSE15222","GSM225934","Control",NA,"temporal cortex",NA,NA,NA,NA,NA
+"GSE15222","GSM225935","Control",NA,"temporal cortex",NA,NA,NA,NA,NA
+"GSE15222","GSM225936","Control",NA,"temporal cortex",NA,NA,NA,NA,NA
+"GSE15222","GSM225937","Control",NA,"temporal cortex",NA,NA,NA,NA,NA
+"GSE15222","GSM225938","Control",NA,"temporal cortex",NA,NA,NA,NA,NA
+"GSE15222","GSM225939","Control",NA,"temporal cortex",NA,NA,NA,NA,NA
+"GSE15222","GSM225940","Control",NA,"temporal cortex",NA,NA,NA,NA,NA
+"GSE15222","GSM225941","Control",NA,"frontal cortex",NA,NA,NA,NA,NA
+"GSE15222","GSM225942","Control",NA,"frontal cortex",NA,NA,NA,NA,NA
+"GSE15222","GSM225943","Control",NA,"frontal cortex",NA,NA,NA,NA,NA
+"GSE15222","GSM225944","Control",NA,"frontal cortex",NA,NA,NA,NA,NA
+"GSE15222","GSM225945","Control",NA,"temporal cortex",NA,NA,NA,NA,NA
+"GSE15222","GSM225946","Control",NA,"temporal cortex",NA,NA,NA,NA,NA
+"GSE15222","GSM225947","Control",NA,"temporal cortex",NA,NA,NA,NA,NA
+"GSE15222","GSM225948","Control",NA,"temporal cortex",NA,NA,NA,NA,NA
+"GSE15222","GSM225949","Control",NA,"frontal cortex",NA,NA,NA,NA,NA
+"GSE15222","GSM225950","Control",NA,"frontal cortex",NA,NA,NA,NA,NA
+"GSE15222","GSM225951","Control",NA,"frontal cortex",NA,NA,NA,NA,NA
+"GSE15222","GSM225952","Control",NA,"frontal cortex",NA,NA,NA,NA,NA
+"GSE15222","GSM225953","Control",NA,"frontal cortex",NA,NA,NA,NA,NA
+"GSE15222","GSM225954","Control",NA,"frontal cortex",NA,NA,NA,NA,NA
+"GSE15222","GSM225955","Control",NA,"frontal cortex",NA,NA,NA,NA,NA
+"GSE15222","GSM225956","Control",NA,"frontal cortex",NA,NA,NA,NA,NA
+"GSE15222","GSM225957","Control",NA,"frontal cortex",NA,NA,NA,NA,NA
+"GSE15222","GSM225958","Control",NA,"frontal cortex",NA,NA,NA,NA,NA
+"GSE15222","GSM225959","Control",NA,"frontal cortex",NA,NA,NA,NA,NA
+"GSE15222","GSM225961","Control",NA,"frontal cortex",NA,NA,NA,NA,NA
+"GSE15222","GSM225962","Control",NA,"temporal cortex",NA,NA,NA,NA,NA
+"GSE15222","GSM225963","Control",NA,"frontal temporal",NA,NA,NA,NA,NA
+"GSE15222","GSM225964","Control",NA,"frontal temporal",NA,NA,NA,NA,NA
+"GSE15222","GSM225965","Control",NA,"frontal cortex",NA,NA,NA,NA,NA
+"GSE15222","GSM226034","Control",NA,"frontal cortex",NA,NA,NA,NA,NA
+"GSE15222","GSM226035","Control",NA,"parietal cortex",NA,NA,NA,NA,NA
+"GSE15222","GSM226037","Control",NA,"frontal cortex",NA,NA,NA,NA,NA
+"GSE15222","GSM226038","Control",NA,"frontal temporal",NA,NA,NA,NA,NA
+"GSE15222","GSM226039","Control",NA,"frontal cortex",NA,NA,NA,NA,NA
+"GSE15222","GSM226040","Control",NA,"unknown cortex",NA,NA,NA,NA,NA
+"GSE15222","GSM226041","Control",NA,"unknown cortex",NA,NA,NA,NA,NA
+"GSE15222","GSM226042","Control",NA,"unknown region",NA,NA,NA,NA,NA
+"GSE15222","GSM226044","Control",NA,"unknown region",NA,NA,NA,NA,NA
+"GSE15222","GSM226045","Control",NA,"unknown region",NA,NA,NA,NA,NA
+"GSE15222","GSM226046","Control",NA,"unknown region",NA,NA,NA,NA,NA
+"GSE15222","GSM226047","Control",NA,"frontal cortex",NA,NA,NA,NA,NA
+"GSE15222","GSM226048","Control",NA,"frontal cortex",NA,NA,NA,NA,NA
+"GSE15222","GSM226049","Control",NA,"frontal cortex",NA,NA,NA,NA,NA
+"GSE15222","GSM226050","Control",NA,"frontal cortex",NA,NA,NA,NA,NA
+"GSE15222","GSM226051","Control",NA,"frontal cortex",NA,NA,NA,NA,NA
+"GSE15222","GSM226052","Control",NA,"frontal cortex",NA,NA,NA,NA,NA
+"GSE15222","GSM226053","Control",NA,"frontal cortex",NA,NA,NA,NA,NA
+"GSE15222","GSM226055","Control",NA,"frontal cortex",NA,NA,NA,NA,NA
+"GSE15222","GSM226056","Control",NA,"frontal cortex",NA,NA,NA,NA,NA
+"GSE15222","GSM226082","Control",NA,"frontal cortex",NA,NA,NA,NA,NA
+"GSE15222","GSM226145","Control",NA,"frontal cortex",NA,NA,NA,NA,NA
+"GSE15222","GSM226146","Control",NA,"frontal cortex",NA,NA,NA,NA,NA
+"GSE15222","GSM226147","Control",NA,"frontal cortex",NA,NA,NA,NA,NA
+"GSE15222","GSM226148","Control",NA,"frontal cortex",NA,NA,NA,NA,NA
+"GSE15222","GSM226149","Control",NA,"temporal cortex",NA,NA,NA,NA,NA
+"GSE15222","GSM226150","Control",NA,"temporal cortex",NA,NA,NA,NA,NA
+"GSE15222","GSM226151","Control",NA,"temporal cortex",NA,NA,NA,NA,NA
+"GSE15222","GSM226154","Control",NA,"temporal cortex",NA,NA,NA,NA,NA
+"GSE15222","GSM226155","Control",NA,"temporal cortex",NA,NA,NA,NA,NA
+"GSE15222","GSM226156","Control",NA,"temporal cortex",NA,NA,NA,NA,NA
+"GSE15222","GSM226157","Control",NA,"temporal cortex",NA,NA,NA,NA,NA
+"GSE15222","GSM226158","Control",NA,"temporal cortex",NA,NA,NA,NA,NA
+"GSE15222","GSM226159","Control",NA,"temporal cortex",NA,NA,NA,NA,NA
+"GSE15222","GSM226160","Control",NA,"temporal cortex",NA,NA,NA,NA,NA
+"GSE15222","GSM226162","Control",NA,"temporal cortex",NA,NA,NA,NA,NA
+"GSE15222","GSM226163","Control",NA,"temporal cortex",NA,NA,NA,NA,NA
+"GSE15222","GSM226164","Control",NA,"temporal cortex",NA,NA,NA,NA,NA
+"GSE15222","GSM226165","Control",NA,"temporal cortex",NA,NA,NA,NA,NA
+"GSE15222","GSM226167","Control",NA,"parietal cortex",NA,NA,NA,NA,NA
+"GSE15222","GSM226168","Control",NA,"parietal cortex",NA,NA,NA,NA,NA
+"GSE15222","GSM388217","AD","female","cortical tissue",97,NA,NA,NA,NA
+"GSE15222","GSM388218","AD","female","cortical tissue",101.1,NA,NA,NA,NA
+"GSE15222","GSM388219","AD","male","cortical tissue",84,NA,NA,NA,NA
+"GSE15222","GSM388220","AD","female","cortical tissue",95.3,NA,NA,NA,NA
+"GSE15222","GSM388221","AD","female","cortical tissue",97.6,NA,NA,NA,NA
+"GSE15222","GSM388222","AD","female","cortical tissue",102.3,NA,NA,NA,NA
+"GSE15222","GSM388223","AD","male","cortical tissue",87,NA,NA,NA,NA
+"GSE15222","GSM388224","AD","female","cortical tissue",77,NA,NA,NA,NA
+"GSE15222","GSM388225","AD","male","cortical tissue",87,NA,NA,NA,NA
+"GSE15222","GSM388226","AD","male","cortical tissue",84,NA,NA,NA,NA
+"GSE15222","GSM388228","AD","female","cortical tissue",92.5,NA,NA,NA,NA
+"GSE15222","GSM388229","AD","male","cortical tissue",93,NA,NA,NA,NA
+"GSE15222","GSM388230","AD","female","cortical tissue",93.9,NA,NA,NA,NA
+"GSE15222","GSM388231","AD","female","cortical tissue",87,NA,NA,NA,NA
+"GSE15222","GSM388232","AD","female","cortical tissue",90,NA,NA,NA,NA
+"GSE15222","GSM388233","AD","male","cortical tissue",75,NA,NA,NA,NA
+"GSE15222","GSM388234","AD","male","cortical tissue",92,NA,NA,NA,NA
+"GSE15222","GSM388235","AD","male","cortical tissue",83.6,NA,NA,NA,NA
+"GSE15222","GSM388236","AD","male","cortical tissue",88.9,NA,NA,NA,NA
+"GSE15222","GSM388237","AD","male","cortical tissue",89,NA,NA,NA,NA
+"GSE15222","GSM388238","AD","female","cortical tissue",74.8,NA,NA,NA,NA
+"GSE15222","GSM388239","AD","female","cortical tissue",79.6,NA,NA,NA,NA
+"GSE15222","GSM388240","AD","male","cortical tissue",80.6,NA,NA,NA,NA
+"GSE15222","GSM388241","AD","female","cortical tissue",97.3,NA,NA,NA,NA
+"GSE15222","GSM388242","AD","male","cortical tissue",87,NA,NA,NA,NA
+"GSE15222","GSM388243","AD","female","cortical tissue",89.7,NA,NA,NA,NA
+"GSE15222","GSM388244","AD","female","cortical tissue",90.1,NA,NA,NA,NA
+"GSE15222","GSM388245","AD","male","cortical tissue",90.7,NA,NA,NA,NA
+"GSE15222","GSM388246","AD","male","cortical tissue",78,NA,NA,NA,NA
+"GSE15222","GSM388247","AD","female","cortical tissue",80,NA,NA,NA,NA
+"GSE15222","GSM388248","AD","female","cortical tissue",79,NA,NA,NA,NA
+"GSE15222","GSM388249","AD","female","cortical tissue",87,NA,NA,NA,NA
+"GSE15222","GSM388250","AD","female","cortical tissue",88,NA,NA,NA,NA
+"GSE15222","GSM388251","AD","male","cortical tissue",86,NA,NA,NA,NA
+"GSE15222","GSM388252","AD","female","cortical tissue",74,NA,NA,NA,NA
+"GSE15222","GSM388253","AD","female","cortical tissue",72,NA,NA,NA,NA
+"GSE15222","GSM388254","AD","male","cortical tissue",81,NA,NA,NA,NA
+"GSE15222","GSM388255","AD","female","cortical tissue",68,NA,NA,NA,NA
+"GSE15222","GSM388256","AD","female","cortical tissue",81,NA,NA,NA,NA
+"GSE15222","GSM388257","AD","female","cortical tissue",82,NA,NA,NA,NA
+"GSE15222","GSM388258","AD","male","cortical tissue",78,NA,NA,NA,NA
+"GSE15222","GSM388259","AD","male","cortical tissue",74,NA,NA,NA,NA
+"GSE15222","GSM388260","AD","male","cortical tissue",88,NA,NA,NA,NA
+"GSE15222","GSM388261","AD","female","cortical tissue",78,NA,NA,NA,NA
+"GSE15222","GSM388262","AD","male","cortical tissue",83,NA,NA,NA,NA
+"GSE15222","GSM388263","AD","male","cortical tissue",83,NA,NA,NA,NA
+"GSE15222","GSM388264","AD","male","cortical tissue",80,NA,NA,NA,NA
+"GSE15222","GSM388265","AD","male","cortical tissue",84,NA,NA,NA,NA
+"GSE15222","GSM388266","AD","female","cortical tissue",79,NA,NA,NA,NA
+"GSE15222","GSM388267","AD","female","cortical tissue",86,NA,NA,NA,NA
+"GSE15222","GSM388268","AD","male","cortical tissue",92,NA,NA,NA,NA
+"GSE15222","GSM388269","AD","female","cortical tissue",81,NA,NA,NA,NA
+"GSE15222","GSM388270","AD","female","cortical tissue",79,NA,NA,NA,NA
+"GSE15222","GSM388271","AD","male","cortical tissue",74,NA,NA,NA,NA
+"GSE15222","GSM388272","AD","female","cortical tissue",73,NA,NA,NA,NA
+"GSE15222","GSM388273","AD","male","cortical tissue",87,NA,NA,NA,NA
+"GSE15222","GSM388274","AD","female","cortical tissue",86,NA,NA,NA,NA
+"GSE15222","GSM388275","AD","female","cortical tissue",86,NA,NA,NA,NA
+"GSE15222","GSM388276","AD","female","cortical tissue",87,NA,NA,NA,NA
+"GSE15222","GSM388277","AD","female","cortical tissue",92,NA,NA,NA,NA
+"GSE15222","GSM388278","AD","female","cortical tissue",78,NA,NA,NA,NA
+"GSE15222","GSM388279","AD","female","cortical tissue",94,NA,NA,NA,NA
+"GSE15222","GSM388281","AD","female","cortical tissue",94,NA,NA,NA,NA
+"GSE15222","GSM388282","AD","male","cortical tissue",76,NA,NA,NA,NA
+"GSE15222","GSM388284","AD","male","cortical tissue",91,NA,NA,NA,NA
+"GSE15222","GSM388285","AD","male","cortical tissue",86,NA,NA,NA,NA
+"GSE15222","GSM388286","AD","male","cortical tissue",77,NA,NA,NA,NA
+"GSE15222","GSM388287","AD","male","cortical tissue",82,NA,NA,NA,NA
+"GSE15222","GSM388288","AD","male","cortical tissue",78,NA,NA,NA,NA
+"GSE15222","GSM388289","AD","male","cortical tissue",79,NA,NA,NA,NA
+"GSE15222","GSM388290","AD","female","cortical tissue",84,NA,NA,NA,NA
+"GSE15222","GSM388291","AD","female","cortical tissue",87,NA,NA,NA,NA
+"GSE15222","GSM388292","AD","female","cortical tissue",86,NA,NA,NA,NA
+"GSE15222","GSM388294","AD","male","cortical tissue",83.7,NA,NA,NA,NA
+"GSE15222","GSM388295","AD","male","cortical tissue",83,NA,NA,NA,NA
+"GSE15222","GSM388296","AD","male","cortical tissue",81,NA,NA,NA,NA
+"GSE15222","GSM388297","AD","female","cortical tissue",93,NA,NA,NA,NA
+"GSE15222","GSM388298","AD","male","cortical tissue",71,NA,NA,NA,NA
+"GSE15222","GSM388299","AD","male","cortical tissue",78,NA,NA,NA,NA
+"GSE15222","GSM388300","AD","female","cortical tissue",75,NA,NA,NA,NA
+"GSE15222","GSM388301","AD","female","cortical tissue",84,NA,NA,NA,NA
+"GSE15222","GSM388302","AD","male","cortical tissue",73,NA,NA,NA,NA
+"GSE15222","GSM388303","AD","female","cortical tissue",89,NA,NA,NA,NA
+"GSE15222","GSM388304","AD","female","cortical tissue",NA,NA,NA,NA,NA
+"GSE15222","GSM388305","AD","male","cortical tissue",69,NA,NA,NA,NA
+"GSE15222","GSM388306","AD","male","cortical tissue",83,NA,NA,NA,NA
+"GSE15222","GSM388307","AD","male","cortical tissue",71,NA,NA,NA,NA
+"GSE15222","GSM388308","AD","female","cortical tissue",86,NA,NA,NA,NA
+"GSE15222","GSM388309","AD","male","cortical tissue",82,NA,NA,NA,NA
+"GSE15222","GSM388310","AD","female","cortical tissue",NA,NA,NA,NA,NA
+"GSE15222","GSM388311","AD","male","cortical tissue",88,NA,NA,NA,NA
+"GSE15222","GSM388312","AD","male","cortical tissue",77,NA,NA,NA,NA
+"GSE15222","GSM388313","AD","male","cortical tissue",85,NA,NA,NA,NA
+"GSE15222","GSM388314","AD","female","cortical tissue",81,NA,NA,NA,NA
+"GSE15222","GSM388315","AD","female","cortical tissue",86,NA,NA,NA,NA
+"GSE15222","GSM388316","AD","male","cortical tissue",89,NA,NA,NA,NA
+"GSE15222","GSM388317","AD","female","cortical tissue",73,NA,NA,NA,NA
+"GSE15222","GSM388318","AD","female","cortical tissue",96,NA,NA,NA,NA
+"GSE15222","GSM388319","AD","male","cortical tissue",73,NA,NA,NA,NA
+"GSE15222","GSM388320","AD","male","cortical tissue",81,NA,NA,NA,NA
+"GSE15222","GSM388321","AD","female","cortical tissue",84,NA,NA,NA,NA
+"GSE15222","GSM388322","AD","female","cortical tissue",93,NA,NA,NA,NA
+"GSE15222","GSM388323","AD","female","cortical tissue",82,NA,NA,NA,NA
+"GSE15222","GSM388324","AD","male","cortical tissue",76,NA,NA,NA,NA
+"GSE15222","GSM388325","AD","male","cortical tissue",77,NA,NA,NA,NA
+"GSE15222","GSM388326","AD","female","cortical tissue",86,NA,NA,NA,NA
+"GSE15222","GSM388327","AD","female","cortical tissue",85,NA,NA,NA,NA
+"GSE15222","GSM388328","AD","male","cortical tissue",83,NA,NA,NA,NA
+"GSE15222","GSM388329","AD","male","cortical tissue",76,NA,NA,NA,NA
+"GSE15222","GSM388330","AD","male","cortical tissue",81,NA,NA,NA,NA
+"GSE15222","GSM388331","AD","male","cortical tissue",79,NA,NA,NA,NA
+"GSE15222","GSM388332","AD","male","cortical tissue",81,NA,NA,NA,NA
+"GSE15222","GSM388333","AD","female","cortical tissue",78,NA,NA,NA,NA
+"GSE15222","GSM388334","AD","male","cortical tissue",80,NA,NA,NA,NA
+"GSE15222","GSM388335","AD","male","cortical tissue",84,NA,NA,NA,NA
+"GSE15222","GSM388336","AD","female","cortical tissue",85,NA,NA,NA,NA
+"GSE15222","GSM388337","AD","male","cortical tissue",75,NA,NA,NA,NA
+"GSE15222","GSM388338","AD","female","cortical tissue",80,NA,NA,NA,NA
+"GSE15222","GSM388339","AD","female","cortical tissue",97,NA,NA,NA,NA
+"GSE15222","GSM388340","AD","female","cortical tissue",82,NA,NA,NA,NA
+"GSE15222","GSM388341","AD","male","cortical tissue",82,NA,NA,NA,NA
+"GSE15222","GSM388342","AD","male","cortical tissue",77,NA,NA,NA,NA
+"GSE15222","GSM388343","AD","male","cortical tissue",81,NA,NA,NA,NA
+"GSE15222","GSM388345","AD","female","cortical tissue",96,NA,NA,NA,NA
+"GSE15222","GSM388346","AD","female","cortical tissue",90,NA,NA,NA,NA
+"GSE15222","GSM388347","AD","male","cortical tissue",86,NA,NA,NA,NA
+"GSE15222","GSM388348","AD","male","cortical tissue",88,NA,NA,NA,NA
+"GSE15222","GSM388349","AD","female","cortical tissue",90,NA,NA,NA,NA
+"GSE15222","GSM388350","AD","female","cortical tissue",90,NA,NA,NA,NA
+"GSE15222","GSM388351","AD","female","cortical tissue",84,NA,NA,NA,NA
+"GSE15222","GSM388352","AD","male","cortical tissue",84,NA,NA,NA,NA
+"GSE15222","GSM388353","AD","female","cortical tissue",91,NA,NA,NA,NA
+"GSE15222","GSM388354","AD","female","cortical tissue",81,NA,NA,NA,NA
+"GSE15222","GSM388355","AD","female","cortical tissue",84,NA,NA,NA,NA
+"GSE15222","GSM388356","AD","male","cortical tissue",80,NA,NA,NA,NA
+"GSE15222","GSM388357","AD","male","cortical tissue",81,NA,NA,NA,NA
+"GSE15222","GSM388358","AD","female","cortical tissue",87,NA,NA,NA,NA
+"GSE15222","GSM388359","AD","male","cortical tissue",85,NA,NA,NA,NA
+"GSE15222","GSM388360","AD","female","cortical tissue",90,NA,NA,NA,NA
+"GSE15222","GSM388361","AD","male","cortical tissue",79,NA,NA,NA,NA
+"GSE15222","GSM388362","AD","female","cortical tissue",87,NA,NA,NA,NA
+"GSE15222","GSM388363","AD","male","cortical tissue",75,NA,NA,NA,NA
+"GSE15222","GSM388364","AD","female","cortical tissue",92,NA,NA,NA,NA
+"GSE15222","GSM388365","AD","female","cortical tissue",84,NA,NA,NA,NA
+"GSE15222","GSM388366","AD","male","cortical tissue",75,NA,NA,NA,NA
+"GSE15222","GSM388367","AD","female","cortical tissue",76,NA,NA,NA,NA
+"GSE15222","GSM388368","AD","female","cortical tissue",86,NA,NA,NA,NA
+"GSE15222","GSM388369","AD","male","cortical tissue",82,NA,NA,NA,NA
+"GSE15222","GSM388370","AD","male","cortical tissue",76,NA,NA,NA,NA
+"GSE15222","GSM388371","AD","female","cortical tissue",81,NA,NA,NA,NA
+"GSE15222","GSM388372","AD","female","cortical tissue",80,NA,NA,NA,NA
+"GSE15222","GSM388373","AD","male","cortical tissue",83,NA,NA,NA,NA
+"GSE15222","GSM388374","AD","female","cortical tissue",83,NA,NA,NA,NA
+"GSE15222","GSM388375","AD","female","cortical tissue",84,NA,NA,NA,NA
+"GSE15222","GSM388376","AD","male","cortical tissue",93,NA,NA,NA,NA
+"GSE15222","GSM388377","AD","female","cortical tissue",92,NA,NA,NA,NA
+"GSE15222","GSM388378","AD","male","cortical tissue",78,NA,NA,NA,NA
+"GSE15222","GSM388379","AD","male","cortical tissue",90,NA,NA,NA,NA
+"GSE15222","GSM388380","AD","male","cortical tissue",83,NA,NA,NA,NA
+"GSE15222","GSM388381","AD","male","cortical tissue",79,NA,NA,NA,NA
+"GSE15222","GSM388382","AD","male","cortical tissue",84,NA,NA,NA,NA
+"GSE15222","GSM388383","AD","female","cortical tissue",90,NA,NA,NA,NA
+"GSE15222","GSM388384","AD","female","cortical tissue",88,NA,NA,NA,NA
+"GSE15222","GSM388385","AD","male","cortical tissue",77,NA,NA,NA,NA
+"GSE15222","GSM388386","AD","female","cortical tissue",80,NA,NA,NA,NA
+"GSE15222","GSM388387","AD","male","cortical tissue",87,NA,NA,NA,NA
+"GSE15222","GSM388388","AD","male","cortical tissue",86,NA,NA,NA,NA
+"GSE15222","GSM388389","AD","male","cortical tissue",74.8,NA,NA,NA,NA
+"GSE15222","GSM388390","AD","female","cortical tissue",86,NA,NA,NA,NA
+"GSE15222","GSM388391","AD","female","cortical tissue",81.9,NA,NA,NA,NA
+"GSE15222","GSM388392","AD","female","cortical tissue",73.1,NA,NA,NA,NA
+"GSE15222","GSM388393","AD","male","cortical tissue",83,NA,NA,NA,NA
+"GSE15222","GSM388394","AD","male","cortical tissue",86.4,NA,NA,NA,NA
+"GSE15222","GSM388395","AD","female","cortical tissue",86.5,NA,NA,NA,NA
+"GSE15222","GSM388396","AD","male","cortical tissue",78,NA,NA,NA,NA
+"GSE15222","GSM388397","AD","male","cortical tissue",83,NA,NA,NA,NA
+"GSE29378","GSM726083","AD","male","hippocampus CA3",66,NA,NA,NA,NA
+"GSE29378","GSM726084","Control","male","hippocampus CA3",81,"2",NA,NA,NA
+"GSE29378","GSM726085","Control","female","hippocampus CA1",72,NA,NA,NA,NA
+"GSE29378","GSM726086","Control","male","hippocampus CA1",86,"1",NA,NA,NA
+"GSE29378","GSM726087","AD","male","hippocampus CA1",81,"5",NA,NA,NA
+"GSE29378","GSM726088","Control","male","hippocampus CA3",90,"1",NA,NA,NA
+"GSE29378","GSM726089","Control","female","hippocampus CA1",88,NA,NA,NA,NA
+"GSE29378","GSM726090","Control","male","hippocampus CA3",90,"1",NA,NA,NA
+"GSE29378","GSM726091","AD","female","hippocampus CA1",61,NA,NA,NA,NA
+"GSE29378","GSM726092","AD","male","hippocampus CA3",72.6,"5",NA,NA,NA
+"GSE29378","GSM726093","AD","male","hippocampus CA1",66,NA,NA,NA,NA
+"GSE29378","GSM726094","AD","male","hippocampus CA1",67.2,"6",NA,NA,NA
+"GSE29378","GSM726095","AD","male","hippocampus CA3",90,"6",NA,NA,NA
+"GSE29378","GSM726096","AD","male","hippocampus CA3",68,"5",NA,NA,NA
+"GSE29378","GSM726097","Control","male","hippocampus CA1",90,"2",NA,NA,NA
+"GSE29378","GSM726098","AD","female","hippocampus CA3",90,"6",NA,NA,NA
+"GSE29378","GSM726099","Control","female","hippocampus CA1",74,"2",NA,NA,NA
+"GSE29378","GSM726100","Control","female","hippocampus CA1",83,"1",NA,NA,NA
+"GSE29378","GSM726101","AD","male","hippocampus CA1",83,"6",NA,NA,NA
+"GSE29378","GSM726102","Control","male","hippocampus CA1",73,"2",NA,NA,NA
+"GSE29378","GSM726103","Control","male","hippocampus CA3",73,"2",NA,NA,NA
+"GSE29378","GSM726104","Control","female","hippocampus CA3",70,"1",NA,NA,NA
+"GSE29378","GSM726105","Control","male","hippocampus CA1",85,"2",NA,NA,NA
+"GSE29378","GSM726106","AD","female","hippocampus CA3",79,"5",NA,NA,NA
+"GSE29378","GSM726107","AD","female","hippocampus CA1",90,"6",NA,NA,NA
+"GSE29378","GSM726108","AD","female","hippocampus CA1",80,"5",NA,NA,NA
+"GSE29378","GSM726109","Control","male","hippocampus CA1",85.4,"2",NA,NA,NA
+"GSE29378","GSM726110","Control","male","hippocampus CA3",75,"1",NA,NA,NA
+"GSE29378","GSM726111","AD","female","hippocampus CA1",84.6,"6",NA,NA,NA
+"GSE29378","GSM726112","Control","male","hippocampus CA3",90,"2",NA,NA,NA
+"GSE29378","GSM726113","Control","female","hippocampus CA3",72,NA,NA,NA,NA
+"GSE29378","GSM726114","AD","male","hippocampus CA3",81,"5",NA,NA,NA
+"GSE29378","GSM726115","AD","male","hippocampus CA1",81,"5",NA,NA,NA
+"GSE29378","GSM726116","Control","female","hippocampus CA1",70,"1",NA,NA,NA
+"GSE29378","GSM726117","Control","male","hippocampus CA1",90,"1",NA,NA,NA
+"GSE29378","GSM726118","AD","male","hippocampus CA1",68,"5",NA,NA,NA
+"GSE29378","GSM726119","AD","male","hippocampus CA3",81,"5",NA,NA,NA
+"GSE29378","GSM726120","AD","female","hippocampus CA1",79,"5",NA,NA,NA
+"GSE29378","GSM726121","Control","male","hippocampus CA1",84,NA,NA,NA,NA
+"GSE29378","GSM726122","AD","male","hippocampus CA3",90,"5",NA,NA,NA
+"GSE29378","GSM726123","AD","male","hippocampus CA3",67.2,"6",NA,NA,NA
+"GSE29378","GSM726124","Control","male","hippocampus CA1",75,"1",NA,NA,NA
+"GSE29378","GSM726125","Control","male","hippocampus CA3",85.4,"2",NA,NA,NA
+"GSE29378","GSM726126","AD","female","hippocampus CA3",79,"6",NA,NA,NA
+"GSE29378","GSM726127","AD","female","hippocampus CA1",79,"6",NA,NA,NA
+"GSE29378","GSM726128","AD","male","hippocampus CA1",90,"5",NA,NA,NA
+"GSE29378","GSM726129","AD","female","hippocampus CA1",74,"4",NA,NA,NA
+"GSE29378","GSM726130","Control","male","hippocampus CA1",80,NA,NA,NA,NA
+"GSE29378","GSM726131","Control","male","hippocampus CA3",86,"1",NA,NA,NA
+"GSE29378","GSM726132","Control","male","hippocampus CA3",85,"2",NA,NA,NA
+"GSE29378","GSM726133","Control","male","hippocampus CA3",84,NA,NA,NA,NA
+"GSE29378","GSM726134","Control","male","hippocampus CA1",81,"2",NA,NA,NA
+"GSE29378","GSM726135","AD","female","hippocampus CA3",84.6,"6",NA,NA,NA
+"GSE29378","GSM726136","Control","female","hippocampus CA3",88,NA,NA,NA,NA
+"GSE29378","GSM726137","Control","male","hippocampus CA3",80,NA,NA,NA,NA
+"GSE29378","GSM726138","AD","male","hippocampus CA1",72.6,"5",NA,NA,NA
+"GSE29378","GSM726139","Control","male","hippocampus CA1",90,"1",NA,NA,NA
+"GSE29378","GSM726140","Control","female","hippocampus CA3",83,"1",NA,NA,NA
+"GSE29378","GSM726141","AD","female","hippocampus CA3",74,"4",NA,NA,NA
+"GSE29378","GSM726142","AD","female","hippocampus CA3",68,"5",NA,NA,NA
+"GSE29378","GSM726143","AD","female","hippocampus CA3",61,NA,NA,NA,NA
+"GSE29378","GSM726144","Control","female","hippocampus CA3",74,"2",NA,NA,NA
+"GSE29378","GSM726145","AD","female","hippocampus CA1",68,"5",NA,NA,NA
+"GSE33000","GSM1423780","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1423781","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1423782","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1423783","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1423784","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1423785","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1423786","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1423787","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1423788","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1423789","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1423790","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1423791","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1423792","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1423793","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1423794","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1423795","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1423796","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1423797","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1423798","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1423799","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1423800","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1423801","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1423802","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1423803","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1423804","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1423805","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1423806","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1423807","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1423808","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1423809","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1423810","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1423811","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1423812","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1423813","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1423814","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1423815","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1423816","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1423817","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1423818","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1423819","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1423820","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1423821","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1423822","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1423823","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1423824","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1423825","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1423826","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1423827","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1423828","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1423829","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1423830","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1423831","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1423832","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1423833","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1423834","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1423835","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1423836","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1423837","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1423838","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1423839","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1423840","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1423841","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1423842","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1423843","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1423844","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1423845","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1423846","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1423847","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1423848","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1423849","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1423850","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1423851","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1423852","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1423853","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1423854","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1423855","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1423856","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1423857","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1423858","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1423859","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1423860","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1423861","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1423862","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1423863","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1423864","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1423865","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1423866","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1423867","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1423868","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1423869","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1423870","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1423871","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1423872","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1423873","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1423874","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1423875","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1423876","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1423877","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1423878","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1423879","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1423880","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1423881","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1423882","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1423883","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1423884","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1423885","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1423886","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1423887","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1423888","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1423889","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1423890","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1423891","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1423892","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1423893","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1423894","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1423895","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1423896","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1423897","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1423898","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1423899","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1423900","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1423901","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1423902","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1423903","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1423904","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1423905","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1423906","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1423907","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1423908","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1423909","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1423910","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1423911","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1423912","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1423913","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1423914","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1423915","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1423916","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1423917","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1423918","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1423919","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1423920","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1423921","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1423922","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1423923","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1423924","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1423925","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1423926","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1423927","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1423928","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1423929","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1423930","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1423931","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1423932","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1423933","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1423934","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1423935","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1423936","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1423937","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1423938","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1423939","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1423940","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1423941","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1423942","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1423943","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1423944","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1423945","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1423946","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1423947","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1423948","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1423949","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1423950","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1423951","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1423952","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1423953","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1423954","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1423955","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1423956","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1423957","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1423958","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1423959","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1423960","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1423961","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1423962","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1423963","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1423964","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1423965","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1423966","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1423967","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1423968","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1423969","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1423970","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1423971","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1423972","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1423973","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1423974","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1423975","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1423976","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1423977","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1423978","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1423979","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1423980","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1423981","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1423982","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1423983","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1423984","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1423985","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1423986","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1423987","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1423988","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1423989","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1423990","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1423991","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1423992","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1423993","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1423994","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1423995","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1423996","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1423997","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1423998","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1423999","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424000","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424001","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424002","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424003","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424004","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424005","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424006","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424007","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424008","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424009","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424010","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424011","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424012","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424013","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424014","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424015","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424016","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424017","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424018","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424019","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424020","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424021","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424022","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424023","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424024","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424025","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424026","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424027","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424028","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424029","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424030","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424031","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424032","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424033","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424034","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424035","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424036","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424037","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424038","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424039","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424040","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424041","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424042","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424043","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424044","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424045","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424046","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424047","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424048","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424049","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424050","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424051","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424052","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424053","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424054","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424055","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424056","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424057","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424058","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424059","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424060","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424061","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424062","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424063","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424064","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424065","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424066","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424067","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424068","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424069","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424070","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424071","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424072","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424073","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424074","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424075","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424076","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424077","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424078","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424079","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424080","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424081","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424082","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424083","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424084","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424085","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424086","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424087","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424088","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424089","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424090","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424091","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424092","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424093","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424094","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424095","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424096","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424097","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424098","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424099","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424100","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424101","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424102","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424103","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424104","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424105","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424106","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424107","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424108","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424109","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424110","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424111","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424112","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424113","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424114","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424115","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424116","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424117","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424118","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424119","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424120","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424121","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424122","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424123","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424124","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424125","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424126","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424127","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424128","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424129","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424130","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424131","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424132","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424133","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424134","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424135","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424136","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424137","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424138","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424139","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424140","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424141","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424142","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424143","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424144","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424145","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424146","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424147","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424148","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424149","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424150","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424151","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424152","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424153","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424154","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424155","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424156","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424157","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424158","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424159","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424160","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424161","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424162","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424163","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424164","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424165","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424166","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424167","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424168","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424169","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424170","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424171","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424172","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424173","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424174","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424175","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424176","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424177","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424178","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424179","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424180","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424181","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424182","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424183","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424184","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424185","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424186","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424187","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424188","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424189","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424190","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424191","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424192","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424193","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424194","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424195","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424196","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424197","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424198","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424199","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424200","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424201","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424202","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424203","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424204","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424205","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424206","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424207","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424208","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424209","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424210","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424211","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424212","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424213","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424214","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424215","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424216","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424217","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424218","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424219","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424220","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424221","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424222","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424223","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424224","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424225","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424226","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424227","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424228","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424229","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424230","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424231","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424232","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424233","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424234","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424235","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424236","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424237","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424238","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424239","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424240","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424241","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424242","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424243","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424244","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424245","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424246","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424247","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424248","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424249","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424250","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424251","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424252","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424253","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424254","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424255","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424256","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424257","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424258","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424259","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424260","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424261","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424262","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424263","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424264","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424265","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424266","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424267","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424268","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424269","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424270","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424271","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424272","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424273","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424274","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424275","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424276","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424277","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424278","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424279","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424280","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424281","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424282","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424283","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424284","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424285","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424286","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424287","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424288","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424289","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424290","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424291","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424292","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424293","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424294","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424295","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424296","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424297","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424298","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424299","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424300","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424301","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424302","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424303","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424304","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424305","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424306","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424307","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424308","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424309","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424310","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424311","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424312","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424313","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424314","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424315","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424316","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424317","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424318","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424319","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424320","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424321","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424322","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424323","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424324","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424325","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424326","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424327","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424328","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424329","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424330","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424331","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424332","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424333","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424334","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424335","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424336","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424337","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424338","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424339","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424340","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424341","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424342","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424343","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424344","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424345","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424346","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424347","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424348","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424349","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424350","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424351","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424352","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424353","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424354","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424355","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424356","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424357","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424358","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424359","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424360","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424361","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424362","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424363","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424364","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424365","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424366","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424367","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424368","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424369","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424370","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424371","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424372","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424373","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424374","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424375","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424376","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424377","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424378","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424379","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424380","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424381","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424382","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424383","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424384","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424385","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424386","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424387","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424388","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424389","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424390","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424391","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424392","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424393","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424394","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424395","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424396","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424397","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424398","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424399","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424400","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424401","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424402","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE33000","GSM1424403","Unknown",NA,"prefrontal cortex",NA,NA,NA,NA,NA
+"GSE36980","GSM907792","AD","male","Frontal cortex",84,NA,NA,NA,NA
+"GSE36980","GSM907793","AD","female","Frontal cortex",105,NA,NA,NA,NA
+"GSE36980","GSM907794","AD","female","Frontal cortex",88,NA,NA,NA,NA
+"GSE36980","GSM907795","AD","male","Frontal cortex",88,NA,NA,NA,NA
+"GSE36980","GSM907796","AD","female","Frontal cortex",91,NA,NA,NA,NA
+"GSE36980","GSM907797","AD","female","Frontal cortex",95,NA,NA,NA,NA
+"GSE36980","GSM907798","AD","female","Frontal cortex",92,NA,NA,NA,NA
+"GSE36980","GSM907799","AD","female","Frontal cortex",95,NA,NA,NA,NA
+"GSE36980","GSM907800","AD","female","Frontal cortex",101,NA,NA,NA,NA
+"GSE36980","GSM907801","AD","male","Frontal cortex",94,NA,NA,NA,NA
+"GSE36980","GSM907802","AD","male","Frontal cortex",89,NA,NA,NA,NA
+"GSE36980","GSM907803","AD","female","Frontal cortex",100,NA,NA,NA,NA
+"GSE36980","GSM907804","AD","male","Frontal cortex",99,NA,NA,NA,NA
+"GSE36980","GSM907805","AD","male","Frontal cortex",83,NA,NA,NA,NA
+"GSE36980","GSM907806","AD","male","Frontal cortex",90,NA,NA,NA,NA
+"GSE36980","GSM907807","Control","male","Frontal cortex",80,NA,NA,NA,NA
+"GSE36980","GSM907808","Control","female","Frontal cortex",77,NA,NA,NA,NA
+"GSE36980","GSM907809","Control","female","Frontal cortex",87,NA,NA,NA,NA
+"GSE36980","GSM907810","Control","female","Frontal cortex",80,NA,NA,NA,NA
+"GSE36980","GSM907811","Control","female","Frontal cortex",84,NA,NA,NA,NA
+"GSE36980","GSM907812","Control","female","Frontal cortex",86,NA,NA,NA,NA
+"GSE36980","GSM907813","Control","male","Frontal cortex",77,NA,NA,NA,NA
+"GSE36980","GSM907814","Control","male","Frontal cortex",55,NA,NA,NA,NA
+"GSE36980","GSM907815","Control","female","Frontal cortex",72,NA,NA,NA,NA
+"GSE36980","GSM907816","Control","male","Frontal cortex",82,NA,NA,NA,NA
+"GSE36980","GSM907817","Control","female","Frontal cortex",78,NA,NA,NA,NA
+"GSE36980","GSM907818","Control","male","Frontal cortex",83,NA,NA,NA,NA
+"GSE36980","GSM907819","Control","male","Frontal cortex",80,NA,NA,NA,NA
+"GSE36980","GSM907820","Control","male","Frontal cortex",89,NA,NA,NA,NA
+"GSE36980","GSM907821","Control","female","Frontal cortex",100,NA,NA,NA,NA
+"GSE36980","GSM907822","Control","male","Frontal cortex",77,NA,NA,NA,NA
+"GSE36980","GSM907823","Control","male","Frontal cortex",74,NA,NA,NA,NA
+"GSE36980","GSM907824","Control","female","Frontal cortex",81,NA,NA,NA,NA
+"GSE36980","GSM907825","AD","male","Temporal cortex",84,NA,NA,NA,NA
+"GSE36980","GSM907826","AD","female","Temporal cortex",88,NA,NA,NA,NA
+"GSE36980","GSM907827","AD","female","Temporal cortex",95,NA,NA,NA,NA
+"GSE36980","GSM907828","AD","male","Temporal cortex",88,NA,NA,NA,NA
+"GSE36980","GSM907829","AD","female","Temporal cortex",91,NA,NA,NA,NA
+"GSE36980","GSM907830","AD","female","Temporal cortex",95,NA,NA,NA,NA
+"GSE36980","GSM907831","AD","female","Temporal cortex",95,NA,NA,NA,NA
+"GSE36980","GSM907832","AD","male","Temporal cortex",89,NA,NA,NA,NA
+"GSE36980","GSM907833","AD","male","Temporal cortex",83,NA,NA,NA,NA
+"GSE36980","GSM907834","AD","male","Temporal cortex",90,NA,NA,NA,NA
+"GSE36980","GSM907835","Control","female","Temporal cortex",77,NA,NA,NA,NA
+"GSE36980","GSM907836","Control","female","Temporal cortex",87,NA,NA,NA,NA
+"GSE36980","GSM907837","Control","female","Temporal cortex",80,NA,NA,NA,NA
+"GSE36980","GSM907838","Control","female","Temporal cortex",84,NA,NA,NA,NA
+"GSE36980","GSM907839","Control","male","Temporal cortex",77,NA,NA,NA,NA
+"GSE36980","GSM907840","Control","male","Temporal cortex",55,NA,NA,NA,NA
+"GSE36980","GSM907841","Control","female","Temporal cortex",72,NA,NA,NA,NA
+"GSE36980","GSM907842","Control","male","Temporal cortex",89,NA,NA,NA,NA
+"GSE36980","GSM907843","Control","male","Temporal cortex",82,NA,NA,NA,NA
+"GSE36980","GSM907844","Control","female","Temporal cortex",78,NA,NA,NA,NA
+"GSE36980","GSM907845","Control","male","Temporal cortex",83,NA,NA,NA,NA
+"GSE36980","GSM907846","Control","male","Temporal cortex",80,NA,NA,NA,NA
+"GSE36980","GSM907847","Control","female","Temporal cortex",75,NA,NA,NA,NA
+"GSE36980","GSM907848","Control","male","Temporal cortex",89,NA,NA,NA,NA
+"GSE36980","GSM907849","Control","female","Temporal cortex",65,NA,NA,NA,NA
+"GSE36980","GSM907850","Control","female","Temporal cortex",71,NA,NA,NA,NA
+"GSE36980","GSM907851","Control","male","Temporal cortex",74,NA,NA,NA,NA
+"GSE36980","GSM907852","Control","female","Temporal cortex",86,NA,NA,NA,NA
+"GSE36980","GSM907853","Control","female","Temporal cortex",54,NA,NA,NA,NA
+"GSE36980","GSM907854","AD","female","Hippocampus",88,NA,NA,NA,NA
+"GSE36980","GSM907855","AD","female","Hippocampus",95,NA,NA,NA,NA
+"GSE36980","GSM907856","AD","female","Hippocampus",95,NA,NA,NA,NA
+"GSE36980","GSM907857","AD","female","Hippocampus",100,NA,NA,NA,NA
+"GSE36980","GSM907858","AD","male","Hippocampus",99,NA,NA,NA,NA
+"GSE36980","GSM907859","AD","male","Hippocampus",83,NA,NA,NA,NA
+"GSE36980","GSM907860","AD","male","Hippocampus",90,NA,NA,NA,NA
+"GSE36980","GSM907861","Control","female","Hippocampus",87,NA,NA,NA,NA
+"GSE36980","GSM907862","Control","female","Hippocampus",80,NA,NA,NA,NA
+"GSE36980","GSM907863","Control","female","Hippocampus",84,NA,NA,NA,NA
+"GSE36980","GSM907864","Control","male","Hippocampus",77,NA,NA,NA,NA
+"GSE36980","GSM907865","Control","male","Hippocampus",55,NA,NA,NA,NA
+"GSE36980","GSM907866","Control","female","Hippocampus",72,NA,NA,NA,NA
+"GSE36980","GSM907867","Control","female","Hippocampus",78,NA,NA,NA,NA
+"GSE36980","GSM907868","Control","male","Hippocampus",83,NA,NA,NA,NA
+"GSE36980","GSM907869","Control","male","Hippocampus",80,NA,NA,NA,NA
+"GSE36980","GSM907870","Control","male","Hippocampus",74,NA,NA,NA,NA
+"GSE36980","GSM4764672","AD","female","Hippocampus",84,NA,NA,NA,NA
+"GSE48350","GSM300166","Control","female",NA,91,NA,NA,NA,NA
+"GSE48350","GSM300167","Control","female",NA,91,NA,NA,NA,NA
+"GSE48350","GSM300168","Control","female","hippocampus",96,NA,NA,NA,NA
+"GSE48350","GSM300169","Control","male","hippocampus",82,NA,NA,NA,NA
+"GSE48350","GSM300170","Control","male","hippocampus",84,NA,NA,NA,NA
+"GSE48350","GSM300171","Control","female","hippocampus",87,NA,NA,NA,NA
+"GSE48350","GSM300172","Control","female","hippocampus",82,NA,NA,NA,NA
+"GSE48350","GSM300173","Control","male",NA,45,NA,NA,NA,NA
+"GSE48350","GSM300174","Control","male","hippocampus",45,NA,NA,NA,NA
+"GSE48350","GSM300175","Control","male",NA,45,NA,NA,NA,NA
+"GSE48350","GSM300176","Control","male",NA,45,NA,NA,NA,NA
+"GSE48350","GSM300177","Control","male",NA,95,NA,NA,NA,NA
+"GSE48350","GSM300178","Control","male","hippocampus",95,NA,NA,NA,NA
+"GSE48350","GSM300179","Control","male",NA,95,NA,NA,NA,NA
+"GSE48350","GSM300180","Control","male",NA,95,NA,NA,NA,NA
+"GSE48350","GSM300181","Control","male",NA,80,NA,NA,NA,NA
+"GSE48350","GSM300182","Control","male","hippocampus",80,NA,NA,NA,NA
+"GSE48350","GSM300183","Control","male",NA,80,NA,NA,NA,NA
+"GSE48350","GSM300185","Control","male","hippocampus",91,NA,NA,NA,NA
+"GSE48350","GSM300186","Control","female",NA,45,NA,NA,NA,NA
+"GSE48350","GSM300187","Control","female","hippocampus",45,NA,NA,NA,NA
+"GSE48350","GSM300188","Control","female",NA,45,NA,NA,NA,NA
+"GSE48350","GSM300189","Control","female",NA,74,NA,NA,NA,NA
+"GSE48350","GSM300190","Control","female","hippocampus",74,NA,NA,NA,NA
+"GSE48350","GSM300191","Control","female",NA,74,NA,NA,NA,NA
+"GSE48350","GSM300192","Control","female",NA,99,NA,NA,NA,NA
+"GSE48350","GSM300193","Control","female","hippocampus",99,NA,NA,NA,NA
+"GSE48350","GSM300194","Control","female",NA,99,NA,NA,NA,NA
+"GSE48350","GSM300195","Control","female",NA,99,NA,NA,NA,NA
+"GSE48350","GSM300196","Control","female",NA,74,NA,NA,NA,NA
+"GSE48350","GSM300197","Control","female","hippocampus",74,NA,NA,NA,NA
+"GSE48350","GSM300198","Control","female",NA,74,NA,NA,NA,NA
+"GSE48350","GSM300199","Control","female",NA,74,NA,NA,NA,NA
+"GSE48350","GSM300200","Control","female",NA,92,NA,NA,NA,NA
+"GSE48350","GSM300201","Control","female",NA,92,NA,NA,NA,NA
+"GSE48350","GSM300202","Control","female",NA,91,NA,NA,NA,NA
+"GSE48350","GSM300203","Control","female",NA,91,NA,NA,NA,NA
+"GSE48350","GSM300204","Control","male",NA,83,NA,NA,NA,NA
+"GSE48350","GSM300205","Control","male","hippocampus",83,NA,NA,NA,NA
+"GSE48350","GSM300206","Control","male",NA,83,NA,NA,NA,NA
+"GSE48350","GSM300207","Control","male",NA,83,NA,NA,NA,NA
+"GSE48350","GSM300208","Control","male",NA,28,NA,NA,NA,NA
+"GSE48350","GSM300209","Control","male","hippocampus",28,NA,NA,NA,NA
+"GSE48350","GSM300210","Control","male",NA,28,NA,NA,NA,NA
+"GSE48350","GSM300211","Control","male",NA,28,NA,NA,NA,NA
+"GSE48350","GSM300212","Control","female",NA,74,NA,NA,NA,NA
+"GSE48350","GSM300213","Control","female",NA,74,NA,NA,NA,NA
+"GSE48350","GSM300214","Control","male",NA,97,NA,NA,NA,NA
+"GSE48350","GSM300215","Control","male","hippocampus",97,NA,NA,NA,NA
+"GSE48350","GSM300216","Control","male",NA,97,NA,NA,NA,NA
+"GSE48350","GSM300217","Control","male",NA,97,NA,NA,NA,NA
+"GSE48350","GSM300218","Control","female",NA,34,NA,NA,NA,NA
+"GSE48350","GSM300219","Control","female","hippocampus",34,NA,NA,NA,NA
+"GSE48350","GSM300220","Control","female",NA,34,NA,NA,NA,NA
+"GSE48350","GSM300221","Control","female",NA,34,NA,NA,NA,NA
+"GSE48350","GSM300222","Control","female",NA,74,NA,NA,NA,NA
+"GSE48350","GSM300223","Control","female","hippocampus",74,NA,NA,NA,NA
+"GSE48350","GSM300224","Control","female",NA,74,NA,NA,NA,NA
+"GSE48350","GSM300225","Control","female",NA,74,NA,NA,NA,NA
+"GSE48350","GSM300226","Control","female",NA,90,NA,NA,NA,NA
+"GSE48350","GSM300227","Control","female","hippocampus",91,NA,NA,NA,NA
+"GSE48350","GSM300228","Control","female",NA,44,NA,NA,NA,NA
+"GSE48350","GSM300229","Control","female",NA,44,NA,NA,NA,NA
+"GSE48350","GSM300230","Control","female",NA,37,NA,NA,NA,NA
+"GSE48350","GSM300231","Control","female","hippocampus",37,NA,NA,NA,NA
+"GSE48350","GSM300232","Control","female",NA,37,NA,NA,NA,NA
+"GSE48350","GSM300233","Control","female",NA,37,NA,NA,NA,NA
+"GSE48350","GSM300234","Control","male",NA,85,NA,NA,NA,NA
+"GSE48350","GSM300235","Control","male","hippocampus",85,NA,NA,NA,NA
+"GSE48350","GSM300236","Control","male",NA,85,NA,NA,NA,NA
+"GSE48350","GSM300237","Control","male",NA,85,NA,NA,NA,NA
+"GSE48350","GSM300238","Control","female",NA,70,NA,NA,NA,NA
+"GSE48350","GSM300239","Control","female","hippocampus",70,NA,NA,NA,NA
+"GSE48350","GSM300240","Control","female",NA,70,NA,NA,NA,NA
+"GSE48350","GSM300241","Control","female",NA,70,NA,NA,NA,NA
+"GSE48350","GSM300242","Control","female",NA,64,NA,NA,NA,NA
+"GSE48350","GSM300243","Control","female","hippocampus",64,NA,NA,NA,NA
+"GSE48350","GSM300244","Control","female",NA,64,NA,NA,NA,NA
+"GSE48350","GSM300245","Control","female",NA,64,NA,NA,NA,NA
+"GSE48350","GSM300246","Control","male",NA,70,NA,NA,NA,NA
+"GSE48350","GSM300247","Control","male",NA,70,NA,NA,NA,NA
+"GSE48350","GSM300248","Control","female",NA,85,NA,NA,NA,NA
+"GSE48350","GSM300249","Control","female",NA,85,NA,NA,NA,NA
+"GSE48350","GSM300250","Control","female",NA,85,NA,NA,NA,NA
+"GSE48350","GSM300251","Control","female",NA,91,NA,NA,NA,NA
+"GSE48350","GSM300252","Control","male",NA,21,NA,NA,NA,NA
+"GSE48350","GSM300253","Control","male",NA,21,NA,NA,NA,NA
+"GSE48350","GSM300254","Control","male",NA,21,NA,NA,NA,NA
+"GSE48350","GSM300255","Control","male","hippocampus",69,NA,NA,NA,NA
+"GSE48350","GSM300256","Control","male",NA,69,NA,NA,NA,NA
+"GSE48350","GSM300258","Control","male",NA,40,NA,NA,NA,NA
+"GSE48350","GSM300259","Control","male",NA,40,NA,NA,NA,NA
+"GSE48350","GSM300260","Control","male",NA,40,NA,NA,NA,NA
+"GSE48350","GSM300261","Control","male",NA,52,NA,NA,NA,NA
+"GSE48350","GSM300262","Control","male","hippocampus",52,NA,NA,NA,NA
+"GSE48350","GSM300263","Control","male",NA,52,NA,NA,NA,NA
+"GSE48350","GSM300264","Control","male",NA,52,NA,NA,NA,NA
+"GSE48350","GSM300265","Control","male",NA,75,NA,NA,NA,NA
+"GSE48350","GSM300266","Control","male",NA,75,NA,NA,NA,NA
+"GSE48350","GSM300267","Control","male",NA,86,NA,NA,NA,NA
+"GSE48350","GSM300268","Control","male","hippocampus",86,NA,NA,NA,NA
+"GSE48350","GSM300269","Control","male",NA,86,NA,NA,NA,NA
+"GSE48350","GSM300270","Control","male",NA,86,NA,NA,NA,NA
+"GSE48350","GSM300271","Control","female",NA,26,NA,NA,NA,NA
+"GSE48350","GSM300272","Control","female","hippocampus",26,NA,NA,NA,NA
+"GSE48350","GSM300273","Control","female",NA,26,NA,NA,NA,NA
+"GSE48350","GSM300274","Control","female",NA,26,NA,NA,NA,NA
+"GSE48350","GSM300275","Control","male",NA,20,NA,NA,NA,NA
+"GSE48350","GSM300276","Control","male","hippocampus",20,NA,NA,NA,NA
+"GSE48350","GSM300277","Control","male",NA,20,NA,NA,NA,NA
+"GSE48350","GSM300278","Control","male",NA,20,NA,NA,NA,NA
+"GSE48350","GSM300279","Control","male",NA,20,NA,NA,NA,NA
+"GSE48350","GSM300280","Control","male","hippocampus",20,NA,NA,NA,NA
+"GSE48350","GSM300281","Control","male",NA,20,NA,NA,NA,NA
+"GSE48350","GSM300282","Control","male",NA,20,NA,NA,NA,NA
+"GSE48350","GSM300283","Control","female",NA,36,NA,NA,NA,NA
+"GSE48350","GSM300284","Control","female",NA,36,NA,NA,NA,NA
+"GSE48350","GSM300285","Control","male",NA,69,NA,NA,NA,NA
+"GSE48350","GSM300286","Control","male","hippocampus",69,NA,NA,NA,NA
+"GSE48350","GSM300287","Control","male",NA,69,NA,NA,NA,NA
+"GSE48350","GSM300288","Control","male",NA,69,NA,NA,NA,NA
+"GSE48350","GSM300289","Control","female",NA,44,NA,NA,NA,NA
+"GSE48350","GSM300290","Control","female","hippocampus",44,NA,NA,NA,NA
+"GSE48350","GSM300291","Control","female",NA,44,NA,NA,NA,NA
+"GSE48350","GSM300292","Control","female",NA,44,NA,NA,NA,NA
+"GSE48350","GSM300293","Control","female",NA,48,NA,NA,NA,NA
+"GSE48350","GSM300294","Control","female","hippocampus",48,NA,NA,NA,NA
+"GSE48350","GSM300295","Control","female",NA,48,NA,NA,NA,NA
+"GSE48350","GSM300296","Control","female",NA,48,NA,NA,NA,NA
+"GSE48350","GSM300297","Control","female",NA,30,NA,NA,NA,NA
+"GSE48350","GSM300298","Control","female","hippocampus",30,NA,NA,NA,NA
+"GSE48350","GSM300299","Control","female",NA,30,NA,NA,NA,NA
+"GSE48350","GSM300300","Control","male",NA,20,NA,NA,NA,NA
+"GSE48350","GSM300301","Control","male","hippocampus",20,NA,NA,NA,NA
+"GSE48350","GSM300302","Control","male",NA,20,NA,NA,NA,NA
+"GSE48350","GSM300303","Control","male",NA,20,NA,NA,NA,NA
+"GSE48350","GSM300304","Control","male",NA,33,NA,NA,NA,NA
+"GSE48350","GSM300305","Control","male","hippocampus",33,NA,NA,NA,NA
+"GSE48350","GSM300306","Control","male",NA,33,NA,NA,NA,NA
+"GSE48350","GSM300307","Control","male",NA,33,NA,NA,NA,NA
+"GSE48350","GSM300308","Control","male",NA,22,NA,NA,NA,NA
+"GSE48350","GSM300309","Control","male","hippocampus",22,NA,NA,NA,NA
+"GSE48350","GSM300310","Control","male",NA,22,NA,NA,NA,NA
+"GSE48350","GSM300311","Control","male",NA,22,NA,NA,NA,NA
+"GSE48350","GSM300312","Control","male",NA,42,NA,NA,NA,NA
+"GSE48350","GSM300313","Control","male","hippocampus",42,NA,NA,NA,NA
+"GSE48350","GSM300314","Control","male",NA,42,NA,NA,NA,NA
+"GSE48350","GSM300315","Control","male",NA,42,NA,NA,NA,NA
+"GSE48350","GSM300316","Control","male",NA,45,NA,NA,NA,NA
+"GSE48350","GSM300317","Control","male","hippocampus",45,NA,NA,NA,NA
+"GSE48350","GSM300318","Control","male",NA,45,NA,NA,NA,NA
+"GSE48350","GSM300319","Control","male",NA,45,NA,NA,NA,NA
+"GSE48350","GSM300320","Control","female",NA,47,NA,NA,NA,NA
+"GSE48350","GSM300321","Control","female","hippocampus",47,NA,NA,NA,NA
+"GSE48350","GSM300322","Control","female",NA,47,NA,NA,NA,NA
+"GSE48350","GSM300323","Control","female",NA,47,NA,NA,NA,NA
+"GSE48350","GSM300324","Control","male",NA,69,NA,NA,NA,NA
+"GSE48350","GSM300325","Control","male","hippocampus",69,NA,NA,NA,NA
+"GSE48350","GSM300326","Control","male",NA,69,NA,NA,NA,NA
+"GSE48350","GSM300327","Control","male",NA,69,NA,NA,NA,NA
+"GSE48350","GSM300328","Control","female",NA,91,NA,NA,NA,NA
+"GSE48350","GSM300329","Control","female","hippocampus",91,NA,NA,NA,NA
+"GSE48350","GSM300330","Control","female",NA,91,NA,NA,NA,NA
+"GSE48350","GSM300331","Control","female",NA,91,NA,NA,NA,NA
+"GSE48350","GSM300332","Control","male",NA,75,NA,NA,NA,NA
+"GSE48350","GSM300333","Control","male","hippocampus",75,NA,NA,NA,NA
+"GSE48350","GSM300335","Control","male",NA,75,NA,NA,NA,NA
+"GSE48350","GSM300338","Control","female",NA,82,NA,NA,NA,NA
+"GSE48350","GSM300339","Control","female","hippocampus",82,NA,NA,NA,NA
+"GSE48350","GSM300340","Control","female",NA,82,NA,NA,NA,NA
+"GSE48350","GSM300341","Control","female",NA,82,NA,NA,NA,NA
+"GSE48350","GSM318840","Control","male",NA,66,NA,NA,NA,NA
+"GSE48350","GSM350078","Control","male",NA,80,NA,NA,NA,NA
+"GSE48350","GSM1176196","AD","female","entorhinal cortex",76,"V",NA,NA,NA
+"GSE48350","GSM1176197","AD","female","entorhinal cortex",86,"VI",NA,NA,NA
+"GSE48350","GSM1176198","AD","female","entorhinal cortex",82,"VI",NA,NA,NA
+"GSE48350","GSM1176199","AD","female","entorhinal cortex",85,"IV",NA,NA,NA
+"GSE48350","GSM1176200","AD","female","entorhinal cortex",90,"IV",NA,NA,NA
+"GSE48350","GSM1176201","AD","female","entorhinal cortex",90,"V",NA,NA,NA
+"GSE48350","GSM1176202","AD","female","entorhinal cortex",90,"III",NA,NA,NA
+"GSE48350","GSM1176203","AD","female","entorhinal cortex",91,"V-VI",NA,NA,NA
+"GSE48350","GSM1176204","AD","male","entorhinal cortex",76,"III",NA,NA,NA
+"GSE48350","GSM1176205","AD","male","entorhinal cortex",85,"III",NA,NA,NA
+"GSE48350","GSM1176206","AD","male","entorhinal cortex",85,"II",NA,NA,NA
+"GSE48350","GSM1176207","AD","male","entorhinal cortex",86,"IV",NA,NA,NA
+"GSE48350","GSM1176208","AD","male","entorhinal cortex",87,"V",NA,NA,NA
+"GSE48350","GSM1176209","AD","male","entorhinal cortex",94,"VI",NA,NA,NA
+"GSE48350","GSM1176210","AD","male","entorhinal cortex",94,"IV",NA,NA,NA
+"GSE48350","GSM1176211","AD","female","hippocampus",60,"VI",NA,NA,NA
+"GSE48350","GSM1176212","AD","female","hippocampus",74,"VI",NA,NA,NA
+"GSE48350","GSM1176213","AD","female","hippocampus",76,"V",NA,NA,NA
+"GSE48350","GSM1176214","AD","female","hippocampus",79,"VI",NA,NA,NA
+"GSE48350","GSM1176215","AD","female","hippocampus",86,"VI",NA,NA,NA
+"GSE48350","GSM1176216","AD","female","hippocampus",85,"IV",NA,NA,NA
+"GSE48350","GSM1176217","AD","female","hippocampus",90,"VI",NA,NA,NA
+"GSE48350","GSM1176218","AD","female","hippocampus",90,"IV",NA,NA,NA
+"GSE48350","GSM1176219","AD","female","hippocampus",90,"III",NA,NA,NA
+"GSE48350","GSM1176220","AD","female","hippocampus",91,"V-VI",NA,NA,NA
+"GSE48350","GSM1176221","AD","male","hippocampus",76,"V",NA,NA,NA
+"GSE48350","GSM1176222","AD","male","hippocampus",76,"III",NA,NA,NA
+"GSE48350","GSM1176223","AD","male","hippocampus",79,"VI",NA,NA,NA
+"GSE48350","GSM1176224","AD","male","hippocampus",80,"no info",NA,NA,NA
+"GSE48350","GSM1176225","AD","male","hippocampus",85,"III",NA,NA,NA
+"GSE48350","GSM1176226","AD","male","hippocampus",86,"IV",NA,NA,NA
+"GSE48350","GSM1176227","AD","male","hippocampus",87,"V",NA,NA,NA
+"GSE48350","GSM1176228","AD","male","hippocampus",94,"VI",NA,NA,NA
+"GSE48350","GSM1176229","AD","male","hippocampus",94,"IV",NA,NA,NA
+"GSE48350","GSM1176230","AD","female","post-central gyrus",60,"VI",NA,NA,NA
+"GSE48350","GSM1176231","AD","female","post-central gyrus",74,"VI",NA,NA,NA
+"GSE48350","GSM1176232","AD","female","post-central gyrus",76,"V",NA,NA,NA
+"GSE48350","GSM1176233","AD","female","post-central gyrus",86,"VI",NA,NA,NA
+"GSE48350","GSM1176234","AD","female","post-central gyrus",82,"VI",NA,NA,NA
+"GSE48350","GSM1176235","AD","female","post-central gyrus",82,"VI",NA,NA,NA
+"GSE48350","GSM1176236","AD","female","post-central gyrus",85,"IV",NA,NA,NA
+"GSE48350","GSM1176237","AD","female","post-central gyrus",85,"V",NA,NA,NA
+"GSE48350","GSM1176238","AD","female","post-central gyrus",90,"VI",NA,NA,NA
+"GSE48350","GSM1176239","AD","female","post-central gyrus",90,"IV",NA,NA,NA
+"GSE48350","GSM1176240","AD","female","post-central gyrus",90,"V",NA,NA,NA
+"GSE48350","GSM1176241","AD","female","post-central gyrus",90,"III",NA,NA,NA
+"GSE48350","GSM1176242","AD","female","post-central gyrus",91,"V-VI",NA,NA,NA
+"GSE48350","GSM1176243","AD","female","post-central gyrus",94,"I",NA,NA,NA
+"GSE48350","GSM1176244","AD","female","post-central gyrus",95,"no info",NA,NA,NA
+"GSE48350","GSM1176245","AD","male","post-central gyrus",76,"V",NA,NA,NA
+"GSE48350","GSM1176246","AD","male","post-central gyrus",76,"III",NA,NA,NA
+"GSE48350","GSM1176247","AD","male","post-central gyrus",79,"VI",NA,NA,NA
+"GSE48350","GSM1176248","AD","male","post-central gyrus",85,"III",NA,NA,NA
+"GSE48350","GSM1176249","AD","male","post-central gyrus",85,"II",NA,NA,NA
+"GSE48350","GSM1176250","AD","male","post-central gyrus",86,"IV",NA,NA,NA
+"GSE48350","GSM1176251","AD","male","post-central gyrus",87,"V",NA,NA,NA
+"GSE48350","GSM1176252","AD","male","post-central gyrus",94,"IV",NA,NA,NA
+"GSE48350","GSM1176253","AD","male","post-central gyrus",94,"VI",NA,NA,NA
+"GSE48350","GSM1176254","AD","male","post-central gyrus",94,"IV",NA,NA,NA
+"GSE48350","GSM1176255","AD","female","superior frontal gyrus",74,"VI",NA,NA,NA
+"GSE48350","GSM1176256","AD","female","superior frontal gyrus",76,"V",NA,NA,NA
+"GSE48350","GSM1176257","AD","female","superior frontal gyrus",86,"VI",NA,NA,NA
+"GSE48350","GSM1176258","AD","female","superior frontal gyrus",82,"VI",NA,NA,NA
+"GSE48350","GSM1176259","AD","female","superior frontal gyrus",85,"IV",NA,NA,NA
+"GSE48350","GSM1176260","AD","female","superior frontal gyrus",85,"V",NA,NA,NA
+"GSE48350","GSM1176261","AD","female","superior frontal gyrus",88,"IV",NA,NA,NA
+"GSE48350","GSM1176262","AD","female","superior frontal gyrus",90,"VI",NA,NA,NA
+"GSE48350","GSM1176263","AD","female","superior frontal gyrus",90,"IV",NA,NA,NA
+"GSE48350","GSM1176264","AD","female","superior frontal gyrus",90,"V",NA,NA,NA
+"GSE48350","GSM1176265","AD","female","superior frontal gyrus",90,"III",NA,NA,NA
+"GSE48350","GSM1176266","AD","female","superior frontal gyrus",91,"V-VI",NA,NA,NA
+"GSE48350","GSM1176267","AD","female","superior frontal gyrus",94,"I",NA,NA,NA
+"GSE48350","GSM1176268","AD","female","superior frontal gyrus",95,"no info",NA,NA,NA
+"GSE48350","GSM1176269","AD","male","superior frontal gyrus",76,"V",NA,NA,NA
+"GSE48350","GSM1176270","AD","male","superior frontal gyrus",85,"III",NA,NA,NA
+"GSE48350","GSM1176271","AD","male","superior frontal gyrus",85,"II",NA,NA,NA
+"GSE48350","GSM1176272","AD","male","superior frontal gyrus",86,"IV",NA,NA,NA
+"GSE48350","GSM1176273","AD","male","superior frontal gyrus",94,"IV",NA,NA,NA
+"GSE48350","GSM1176274","AD","male","superior frontal gyrus",94,"VI",NA,NA,NA
+"GSE48350","GSM1176275","AD","male","superior frontal gyrus",94,"IV",NA,NA,NA
+"GSE5281","GSM119615","Control","male","Entorhinal Cortex ",63,NA,NA,NA,NA
+"GSE5281","GSM119616","Control","male","Entorhinal Cortex ",85,NA,NA,NA,NA
+"GSE5281","GSM119617","Control","male","Entorhinal Cortex ",80,NA,NA,NA,NA
+"GSE5281","GSM119618","Control","male","Entorhinal Cortex ",80,NA,NA,NA,NA
+"GSE5281","GSM119619","Control","female","Entorhinal Cortex ",102,NA,NA,NA,NA
+"GSE5281","GSM119620","Control","male","Entorhinal Cortex ",79,NA,NA,NA,NA
+"GSE5281","GSM119621","Control","male","Entorhinal Cortex ",76,NA,NA,NA,NA
+"GSE5281","GSM119622","Control","male","Entorhinal Cortex ",83,NA,NA,NA,NA
+"GSE5281","GSM119623","Control","male","Entorhinal Cortex ",79,NA,NA,NA,NA
+"GSE5281","GSM119624","Control","female","Entorhinal Cortex ",88,NA,NA,NA,NA
+"GSE5281","GSM119625","Control","female","Entorhinal Cortex ",82,NA,NA,NA,NA
+"GSE5281","GSM119626","Control","male","Entorhinal Cortex ",69,NA,NA,NA,NA
+"GSE5281","GSM119627","Control","male","Entorhinal Cortex ",78,NA,NA,NA,NA
+"GSE5281","GSM119628","Control","male","hippocampus ",85,NA,NA,NA,NA
+"GSE5281","GSM119629","Control","male","hippocampus ",80,NA,NA,NA,NA
+"GSE5281","GSM119630","Control","male","hippocampus ",80,NA,NA,NA,NA
+"GSE5281","GSM119631","Control","female","hippocampus ",102,NA,NA,NA,NA
+"GSE5281","GSM119632","Control","male","hippocampus ",63,NA,NA,NA,NA
+"GSE5281","GSM119633","Control","male","hippocampus ",79,NA,NA,NA,NA
+"GSE5281","GSM119634","Control","male","hippocampus ",76,NA,NA,NA,NA
+"GSE5281","GSM119635","Control","male","hippocampus ",83,NA,NA,NA,NA
+"GSE5281","GSM119636","Control","male","hippocampus ",79,NA,NA,NA,NA
+"GSE5281","GSM119637","Control","female","hippocampus ",88,NA,NA,NA,NA
+"GSE5281","GSM119638","Control","female","hippocampus ",73,NA,NA,NA,NA
+"GSE5281","GSM119639","Control","male","hippocampus ",69,NA,NA,NA,NA
+"GSE5281","GSM119640","Control","male","hippocampus ",78,NA,NA,NA,NA
+"GSE5281","GSM119641","Control","male","Medial Temporal Gyrus ",85,NA,NA,NA,NA
+"GSE5281","GSM119642","Control","male","Medial Temporal Gyrus ",80,NA,NA,NA,NA
+"GSE5281","GSM119643","Control","female","Medial Temporal Gyrus ",102,NA,NA,NA,NA
+"GSE5281","GSM119644","Control","male","Medial Temporal Gyrus ",63,NA,NA,NA,NA
+"GSE5281","GSM119645","Control","male","Medial Temporal Gyrus ",79,NA,NA,NA,NA
+"GSE5281","GSM119646","Control","male","Medial Temporal Gyrus ",83,NA,NA,NA,NA
+"GSE5281","GSM119647","Control","male","Medial Temporal Gyrus ",79,NA,NA,NA,NA
+"GSE5281","GSM119648","Control","female","Medial Temporal Gyrus ",88,NA,NA,NA,NA
+"GSE5281","GSM119649","Control","female","Medial Temporal Gyrus ",82,NA,NA,NA,NA
+"GSE5281","GSM119650","Control","female","Medial Temporal Gyrus ",73,NA,NA,NA,NA
+"GSE5281","GSM119651","Control","male","Medial Temporal Gyrus ",69,NA,NA,NA,NA
+"GSE5281","GSM119652","Control","male","Medial Temporal Gyrus ",78,NA,NA,NA,NA
+"GSE5281","GSM119653","Control","male","Posterior Cingulate ",85,NA,NA,NA,NA
+"GSE5281","GSM119654","Control","male","Posterior Cingulate ",80,NA,NA,NA,NA
+"GSE5281","GSM119655","Control","female","Posterior Cingulate ",102,NA,NA,NA,NA
+"GSE5281","GSM119656","Control","male","Posterior Cingulate ",63,NA,NA,NA,NA
+"GSE5281","GSM119657","Control","male","Posterior Cingulate ",79,NA,NA,NA,NA
+"GSE5281","GSM119658","Control","male","Posterior Singulate ",76,NA,NA,NA,NA
+"GSE5281","GSM119659","Control","male","Posterior cingulate ",83,NA,NA,NA,NA
+"GSE5281","GSM119660","Control","male","Posterior cingulate ",79,NA,NA,NA,NA
+"GSE5281","GSM119661","Control","female","Posterior cingulate ",88,NA,NA,NA,NA
+"GSE5281","GSM119662","Control","female","Posterior cingulate ",82,NA,NA,NA,NA
+"GSE5281","GSM119663","Control","female","Posterior cingulate ",73,NA,NA,NA,NA
+"GSE5281","GSM119664","Control","male","Posterior cingulate ",69,NA,NA,NA,NA
+"GSE5281","GSM119665","Control","male","Posterior cingulate ",78,NA,NA,NA,NA
+"GSE5281","GSM119666","Control","male","Superior Frontal Gyrus ",79,NA,NA,NA,NA
+"GSE5281","GSM119667","Control","female","Superior Frontal Gyrus ",88,NA,NA,NA,NA
+"GSE5281","GSM119668","Control","female","Superior Frontal Gyrus ",82,NA,NA,NA,NA
+"GSE5281","GSM119669","Control","female","Superior Frontal Gyrus ",73,NA,NA,NA,NA
+"GSE5281","GSM119670","Control","female","Superior Frontal Gyrus ",102,NA,NA,NA,NA
+"GSE5281","GSM119671","Control","male","Superior Frontal Gyrus ",63,NA,NA,NA,NA
+"GSE5281","GSM119672","Control","male","Superior Frontal Gyrus ",79,NA,NA,NA,NA
+"GSE5281","GSM119673","Control","male","Superior Frontal Gyrus ",76,NA,NA,NA,NA
+"GSE5281","GSM119674","Control","male","Superior Frontal Gyrus ",83,NA,NA,NA,NA
+"GSE5281","GSM119675","Control","male","Superior Frontal Gyrus ",69,NA,NA,NA,NA
+"GSE5281","GSM119676","Control","male","Superior Frontal Gyrus ",78,NA,NA,NA,NA
+"GSE5281","GSM119677","Control","male","Primary Visual Cortex ",85,NA,NA,NA,NA
+"GSE5281","GSM119678","Control","male","Primary Visual Cortex ",80,NA,NA,NA,NA
+"GSE5281","GSM119679","Control","male","Primary Visual Cortex ",63,NA,NA,NA,NA
+"GSE5281","GSM119680","Control","male","Primary Visual Cortex ",79,NA,NA,NA,NA
+"GSE5281","GSM119681","Control","male","Primary Visual Cortex ",76,NA,NA,NA,NA
+"GSE5281","GSM119682","Control","male","Primary Visual Cortex ",83,NA,NA,NA,NA
+"GSE5281","GSM119683","Control","male","Primary Visual Cortex ",79,NA,NA,NA,NA
+"GSE5281","GSM119684","Control","female","Primary Visual Cortex ",88,NA,NA,NA,NA
+"GSE5281","GSM119685","Control","female","Primary Visual Cortex ",82,NA,NA,NA,NA
+"GSE5281","GSM119686","Control","female","Primary Visual Cortex ",73,NA,NA,NA,NA
+"GSE5281","GSM119687","Control","male","Primary Visual Cortex ",69,NA,NA,NA,NA
+"GSE5281","GSM119688","Control","male","Primary Visual Cortex ",78,NA,NA,NA,NA
+"GSE5281","GSM238763","AD","female","Entorhinal Cortex ",82,NA,NA,NA,NA
+"GSE5281","GSM238790","AD","female","Entorhinal Cortex ",86,NA,NA,NA,NA
+"GSE5281","GSM238791","AD","female","Entorhinal Cortex ",93,NA,NA,NA,NA
+"GSE5281","GSM238792","AD","male","Entorhinal Cortex ",84,NA,NA,NA,NA
+"GSE5281","GSM238793","AD","female","Entorhinal Cortex ",79,NA,NA,NA,NA
+"GSE5281","GSM238794","AD","female","Entorhinal Cortex ",78,NA,NA,NA,NA
+"GSE5281","GSM238795","AD","female","Entorhinal Cortex ",91,NA,NA,NA,NA
+"GSE5281","GSM238796","AD","male","Entorhinal Cortex ",86,NA,NA,NA,NA
+"GSE5281","GSM238797","AD","male","Entorhinal Cortex ",97,NA,NA,NA,NA
+"GSE5281","GSM238798","AD","male","Entorhinal Cortex ",80,NA,NA,NA,NA
+"GSE5281","GSM238799","AD","male","hippocampus ",72,NA,NA,NA,NA
+"GSE5281","GSM238800","AD","female","hippocampus ",73,NA,NA,NA,NA
+"GSE5281","GSM238801","AD","male","hippocampus ",75,NA,NA,NA,NA
+"GSE5281","GSM238802","AD","female","hippocampus ",70,NA,NA,NA,NA
+"GSE5281","GSM238803","AD","female","hippocampus ",85,NA,NA,NA,NA
+"GSE5281","GSM238804","AD","female","hippocampus ",77,NA,NA,NA,NA
+"GSE5281","GSM238805","AD","male","hippocampus ",79,NA,NA,NA,NA
+"GSE5281","GSM238806","AD","male","hippocampus ",88,NA,NA,NA,NA
+"GSE5281","GSM238807","AD","male","hippocampus ",81,NA,NA,NA,NA
+"GSE5281","GSM238808","AD","male","hippocampus ",78,NA,NA,NA,NA
+"GSE5281","GSM238809","AD","female","Medial Temporal Gyrus ",73,NA,NA,NA,NA
+"GSE5281","GSM238810","AD","male","Medial Temporal Gyrus ",81,NA,NA,NA,NA
+"GSE5281","GSM238811","AD","male","Medial Temporal Gyrus ",72,NA,NA,NA,NA
+"GSE5281","GSM238812","AD","male","Medial Temporal Gyrus ",75,NA,NA,NA,NA
+"GSE5281","GSM238813","AD","male","Medial Temporal Gyrus ",78,NA,NA,NA,NA
+"GSE5281","GSM238815","AD","male","Medial Temporal Gyrus ",75,NA,NA,NA,NA
+"GSE5281","GSM238816","AD","male","Medial Temporal Gyrus ",87,NA,NA,NA,NA
+"GSE5281","GSM238817","AD","female","Medial Temporal Gyrus ",90,NA,NA,NA,NA
+"GSE5281","GSM238818","AD","male","Medial Temporal Gyrus ",68,NA,NA,NA,NA
+"GSE5281","GSM238819","AD","female","Medial Temporal Gyrus ",81,NA,NA,NA,NA
+"GSE5281","GSM238820","AD","female","Medial Temporal Gyrus ",85,NA,NA,NA,NA
+"GSE5281","GSM238821","AD","male","Medial Temporal Gyrus ",79,NA,NA,NA,NA
+"GSE5281","GSM238822","AD","female","Medial Temporal Gyrus ",82,NA,NA,NA,NA
+"GSE5281","GSM238823","AD","male","Medial Temporal Gyrus ",88,NA,NA,NA,NA
+"GSE5281","GSM238824","AD","male","Medial Temporal Gyrus ",72,NA,NA,NA,NA
+"GSE5281","GSM238825","AD","female","Medial Temporal Gyrus ",80,NA,NA,NA,NA
+"GSE5281","GSM238826","AD","female","Posterior Cingulate ",73,NA,NA,NA,NA
+"GSE5281","GSM238827","AD","male","Posterior Singulate ",81,NA,NA,NA,NA
+"GSE5281","GSM238834","AD","male","Posterior Singulate ",78,NA,NA,NA,NA
+"GSE5281","GSM238835","AD","male","Posterior Singulate ",75,NA,NA,NA,NA
+"GSE5281","GSM238837","AD","male","Posterior Singulate ",68,NA,NA,NA,NA
+"GSE5281","GSM238838","AD","female","Posterior Singulate ",70.8,NA,NA,NA,NA
+"GSE5281","GSM238839","AD","female","Posterior Singulate ",85,NA,NA,NA,NA
+"GSE5281","GSM238840","AD","male","Posterior Singulate ",79,NA,NA,NA,NA
+"GSE5281","GSM238841","AD","male","Posterior Singulate ",88,NA,NA,NA,NA
+"GSE5281","GSM238842","AD","female","Superior Frontal Gyrus ",73,NA,NA,NA,NA
+"GSE5281","GSM238843","AD","male","Superior Frontal Gyrus ",81,NA,NA,NA,NA
+"GSE5281","GSM238844","AD","male","Superior Frontal Gyrus ",72,NA,NA,NA,NA
+"GSE5281","GSM238845","AD","male","Superior Frontal Gyrus ",75,NA,NA,NA,NA
+"GSE5281","GSM238846","AD","male","Superior Frontal Gyrus ",78,NA,NA,NA,NA
+"GSE5281","GSM238847","AD","male","Superior Frontal Gyrus ",75,NA,NA,NA,NA
+"GSE5281","GSM238848","AD","male","Superior Frontal Gyrus ",87,NA,NA,NA,NA
+"GSE5281","GSM238851","AD","female","Superior Frontal Gyrus ",95,NA,NA,NA,NA
+"GSE5281","GSM238854","AD","male","Superior Frontal Gyrus ",68,NA,NA,NA,NA
+"GSE5281","GSM238855","AD","female","Superior Frontal Gyrus ",95,NA,NA,NA,NA
+"GSE5281","GSM238856","AD","female","Superior Frontal Gyrus ",70.8,NA,NA,NA,NA
+"GSE5281","GSM238857","AD","female","Superior Frontal Gyrus ",85,NA,NA,NA,NA
+"GSE5281","GSM238858","AD","female","Superior Frontal Gyrus ",83,NA,NA,NA,NA
+"GSE5281","GSM238860","AD","female","Superior Frontal Gyrus ",77,NA,NA,NA,NA
+"GSE5281","GSM238861","AD","female","Superior Frontal Gyrus ",83,NA,NA,NA,NA
+"GSE5281","GSM238862","AD","male","Superior Frontal Gyrus ",68,NA,NA,NA,NA
+"GSE5281","GSM238863","AD","male","Superior Frontal Gyrus ",79,NA,NA,NA,NA
+"GSE5281","GSM238864","AD","female","Superior Frontal Gyrus ",82,NA,NA,NA,NA
+"GSE5281","GSM238865","AD","male","Superior Frontal Gyrus ",80,NA,NA,NA,NA
+"GSE5281","GSM238867","AD","male","Superior Frontal Gyrus ",88,NA,NA,NA,NA
+"GSE5281","GSM238868","AD","male","Superior Frontal Gyrus ",74,NA,NA,NA,NA
+"GSE5281","GSM238870","AD","male","Superior Frontal Gyrus ",72,NA,NA,NA,NA
+"GSE5281","GSM238871","AD","female","Superior Frontal Gyrus ",80,NA,NA,NA,NA
+"GSE5281","GSM238872","AD","female","Primary Visual Cortex ",73,NA,NA,NA,NA
+"GSE5281","GSM238873","AD","male","Primary Visual Cortex ",81,NA,NA,NA,NA
+"GSE5281","GSM238874","AD","male","Primary Visual Cortex ",75,NA,NA,NA,NA
+"GSE5281","GSM238875","AD","male","Primary Visual Cortex ",78,NA,NA,NA,NA
+"GSE5281","GSM238877","AD","male","Primary Visual Cortex ",75,NA,NA,NA,NA
+"GSE5281","GSM238941","AD","male","Primary Visual Cortex ",87,NA,NA,NA,NA
+"GSE5281","GSM238942","AD","female","Primary Visual Cortex ",95,NA,NA,NA,NA
+"GSE5281","GSM238943","AD","male","Primary Visual Cortex ",68,NA,NA,NA,NA
+"GSE5281","GSM238944","AD","female","Primary Visual Cortex ",90,NA,NA,NA,NA
+"GSE5281","GSM238945","AD","female","Primary Visual Cortex ",81.3,NA,NA,NA,NA
+"GSE5281","GSM238946","AD","female","Primary Visual Cortex ",81,NA,NA,NA,NA
+"GSE5281","GSM238947","AD","female","Primary Visual Cortex ",85,NA,NA,NA,NA
+"GSE5281","GSM238948","AD","male","Primary Visual Cortex ",79,NA,NA,NA,NA
+"GSE5281","GSM238949","AD","male","Primary Visual Cortex ",79,NA,NA,NA,NA
+"GSE5281","GSM238951","AD","female","Primary Visual Cortex ",82,NA,NA,NA,NA
+"GSE5281","GSM238952","AD","male","Primary Visual Cortex ",88,NA,NA,NA,NA
+"GSE5281","GSM238953","AD","male","Primary Visual Cortex ",74,NA,NA,NA,NA
+"GSE5281","GSM238955","AD","male","Primary Visual Cortex ",72,NA,NA,NA,NA
+"GSE5281","GSM238963","AD","female","Primary Visual Cortex ",80,NA,NA,NA,NA
+"GSE66351","GSM2808875","AD","female","Occipital cortex",78,"6",NA,NA,NA
+"GSE66351","GSM2808876","AD","female","Occipital cortex",78,"6",NA,NA,NA
+"GSE66351","GSM2808877","AD","male","Occipital cortex",76,"6",NA,NA,NA
+"GSE66351","GSM2808878","AD","male","Occipital cortex",76,"6",NA,NA,NA
+"GSE66351","GSM2808879","AD","female","Occipital cortex",75,"6",NA,NA,NA
+"GSE66351","GSM2808880","AD","female","Occipital cortex",75,"6",NA,NA,NA
+"GSE66351","GSM2808881","AD","female","Occipital cortex",85,"4",NA,NA,NA
+"GSE66351","GSM2808882","AD","female","Occipital cortex",85,"4",NA,NA,NA
+"GSE66351","GSM2808883","AD","male","Occipital cortex",94,"4",NA,NA,NA
+"GSE66351","GSM2808884","AD","male","Occipital cortex",94,"4",NA,NA,NA
+"GSE66351","GSM2808885","Control","male","Occipital cortex",18,"0",NA,NA,NA
+"GSE66351","GSM2808886","Control","male","Occipital cortex",18,"0",NA,NA,NA
+"GSE66351","GSM2808887","AD","female","Occipital cortex",88,"4",NA,NA,NA
+"GSE66351","GSM2808888","AD","female","Occipital cortex",88,"4",NA,NA,NA
+"GSE66351","GSM2808889","AD","female","Occipital cortex",81,"3",NA,NA,NA
+"GSE66351","GSM2808890","AD","female","Occipital cortex",81,"3",NA,NA,NA
+"GSE66351","GSM2808891","AD","female","Occipital cortex",77,"3",NA,NA,NA
+"GSE66351","GSM2808892","AD","female","Occipital cortex",77,"3",NA,NA,NA
+"GSE66351","GSM2808893","Control","female","Occipital cortex",77,"0",NA,NA,NA
+"GSE66351","GSM2808894","Control","female","Occipital cortex",77,"0",NA,NA,NA
+"GSE66351","GSM2808895","Control","female","Occipital cortex",77,"0",NA,NA,NA
+"GSE66351","GSM2808896","Control","female","Occipital cortex",77,"0",NA,NA,NA
+"GSE66351","GSM2808897","Control","female","Occipital cortex",83,"0",NA,NA,NA
+"GSE66351","GSM2808898","Control","female","Occipital cortex",83,"0",NA,NA,NA
+"GSE66351","GSM2808899","Control","female","Occipital cortex",88,"0",NA,NA,NA
+"GSE66351","GSM2808900","Control","female","Occipital cortex",88,"0",NA,NA,NA
+"GSE66351","GSM2808901","Control","male","Occipital cortex",19,"0",NA,NA,NA
+"GSE66351","GSM2808902","Control","male","Occipital cortex",19,"0",NA,NA,NA
+"GSE66351","GSM2808903","Control","male","Occipital cortex",87,"0",NA,NA,NA
+"GSE66351","GSM2808904","Control","male","Occipital cortex",87,"0",NA,NA,NA
+"GSE66351","GSM2808905","Control","male","Occipital cortex",71,"0",NA,NA,NA
+"GSE66351","GSM2808906","Control","male","Occipital cortex",71,"0",NA,NA,NA
+"GSE66351","GSM2808907","Control","male","Occipital cortex",75,"0",NA,NA,NA
+"GSE66351","GSM2808908","Control","male","Occipital cortex",75,"0",NA,NA,NA
+"GSE66351","GSM2808909","Control","female","Occipital cortex",77,"0",NA,NA,NA
+"GSE66351","GSM2808910","Control","female","Occipital cortex",77,"0",NA,NA,NA
+"GSE66351","GSM2808911","AD","male","Occipital cortex",76,"6",NA,NA,NA
+"GSE66351","GSM2808912","AD","male","Occipital cortex",76,"6",NA,NA,NA
+"GSE66351","GSM2808913","AD","female","Occipital cortex",75,"6",NA,NA,NA
+"GSE66351","GSM2808914","AD","female","Occipital cortex",75,"6",NA,NA,NA
+"GSE66351","GSM2808915","Control","male","Occipital cortex",71,"0",NA,NA,NA
+"GSE66351","GSM2808916","Control","male","Occipital cortex",71,"0",NA,NA,NA
+"GSE66351","GSM2808917","Control","male","Occipital cortex",75,"0",NA,NA,NA
+"GSE66351","GSM2808918","Control","male","Occipital cortex",75,"0",NA,NA,NA
+"GSE66351","GSM2808919","Control","male","Occipital cortex",63,"0",NA,NA,NA
+"GSE66351","GSM2808920","Control","male","Occipital cortex",63,"0",NA,NA,NA
+"GSE66351","GSM2808921","Control","male","Occipital cortex",85,"0",NA,NA,NA
+"GSE66351","GSM2808922","Control","male","Occipital cortex",85,"0",NA,NA,NA
+"GSE66351","GSM2808923","Control","female","Occipital cortex",85,"0",NA,NA,NA
+"GSE66351","GSM2808924","Control","female","Occipital cortex",85,"0",NA,NA,NA
+"GSE66351","GSM2808925","Control","female","Occipital cortex",63,"0",NA,NA,NA
+"GSE66351","GSM2808926","Control","female","Occipital cortex",63,"0",NA,NA,NA
+"GSE66351","GSM2808927","AD","female","Occipital cortex",78,"6",NA,NA,NA
+"GSE66351","GSM2808928","AD","female","Occipital cortex",78,"6",NA,NA,NA
+"GSE66351","GSM2808929","AD","female","Occipital cortex",93,"6",NA,NA,NA
+"GSE66351","GSM2808930","AD","female","Occipital cortex",93,"6",NA,NA,NA
+"GSE66351","GSM2808931","AD","male","Occipital cortex",70,"6",NA,NA,NA
+"GSE66351","GSM2808932","AD","male","Occipital cortex",70,"6",NA,NA,NA
+"GSE66351","GSM2808933","AD","male","Occipital cortex",85,"6",NA,NA,NA
+"GSE66351","GSM2808934","AD","male","Occipital cortex",85,"6",NA,NA,NA
+"GSE66351","GSM2808935","AD","female","Occipital cortex",73,"6",NA,NA,NA
+"GSE66351","GSM2808936","AD","female","Occipital cortex",73,"6",NA,NA,NA
+"GSE66351","GSM2808937","AD","male","Frontal cortex",81,NA,NA,NA,NA
+"GSE66351","GSM2808938","AD","male","Frontal cortex",90,NA,NA,NA,NA
+"GSE66351","GSM2808939","AD","female","Frontal cortex",82,"5",NA,NA,NA
+"GSE66351","GSM2808940","AD","male","Frontal cortex",80,"5",NA,NA,NA
+"GSE66351","GSM2808941","Control","female","Frontal cortex",88,"2",NA,NA,NA
+"GSE66351","GSM2808942","Control","female","Frontal cortex",77,"2",NA,NA,NA
+"GSE66351","GSM2808943","Control","male","Frontal cortex",75,"2",NA,NA,NA
+"GSE66351","GSM2808944","AD","male","Frontal cortex",73,"6",NA,NA,NA
+"GSE66351","GSM2808945","AD","female","Frontal cortex",65,"6",NA,NA,NA
+"GSE66351","GSM2808946","AD","female","Frontal cortex",67,"6",NA,NA,NA
+"GSE66351","GSM2808947","AD","female","Frontal cortex",93,"6",NA,NA,NA
+"GSE66351","GSM2808948","AD","male","Frontal cortex",74,"6",NA,NA,NA
+"GSE66351","GSM2808949","Control","male","Frontal cortex",53,"0",NA,NA,NA
+"GSE66351","GSM2808950","Control","male","Frontal cortex",18,"0",NA,NA,NA
+"GSE66351","GSM2808951","Control","male","Frontal cortex",57,"1",NA,NA,NA
+"GSE66351","GSM2808952","Control","female","Frontal cortex",75,"4",NA,NA,NA
+"GSE66351","GSM2808953","Control","female","Frontal cortex",76,"4",NA,NA,NA
+"GSE66351","GSM2808954","Control","female","Frontal cortex",46,"1",NA,NA,NA
+"GSE66351","GSM2808955","Control","male","Frontal cortex",50,"0",NA,NA,NA
+"GSE66351","GSM2808956","Control","male","Frontal cortex",63,"1",NA,NA,NA
+"GSE66351","GSM2808957","Control","male","Frontal cortex",53,"0",NA,NA,NA
+"GSE66351","GSM2808958","Control","male","Frontal cortex",53,"1",NA,NA,NA
+"GSE66351","GSM2808959","Control","male","Frontal cortex",71,"1",NA,NA,NA
+"GSE66351","GSM2808960","AD","female","Frontal cortex",73,NA,NA,NA,NA
+"GSE66351","GSM2808961","Control","female","Frontal cortex",55,"0",NA,NA,NA
+"GSE66351","GSM2808962","Control","male","Frontal cortex",59,"2",NA,NA,NA
+"GSE66351","GSM2808963","AD","female","Frontal cortex",89,"4",NA,NA,NA
+"GSE66351","GSM2808964","AD","male","Frontal cortex",75,"6",NA,NA,NA
+"GSE66351","GSM2808965","AD","male","Frontal cortex",83,"6",NA,NA,NA
+"GSE66351","GSM2808966","AD","female","Frontal cortex",82,"6",NA,NA,NA
+"GSE66351","GSM2808967","Control","male","Frontal cortex",85,"4",NA,NA,NA
+"GSE66351","GSM2808968","Control","male","Frontal cortex",87,"2",NA,NA,NA
+"GSE66351","GSM2808969","Control","male","Frontal cortex",61,"0",NA,NA,NA
+"GSE66351","GSM2808970","AD","female","Frontal cortex",68,"6",NA,NA,NA
+"GSE66351","GSM2808971","Control","female","Frontal cortex",85,"1",NA,NA,NA
+"GSE66351","GSM2808972","Control","male","Frontal cortex",46,"0",NA,NA,NA
+"GSE66351","GSM2808973","Control","female","Frontal cortex",80,"4",NA,NA,NA
+"GSE66351","GSM2808974","Control","female","Frontal cortex",77,"2",NA,NA,NA
+"GSE66351","GSM2808975","AD","female","Frontal cortex",78,"6",NA,NA,NA
+"GSE66351","GSM2808976","AD","female","Frontal cortex",85,"3",NA,NA,NA
+"GSE66351","GSM2808977","AD","male","Frontal cortex",62,"6",NA,NA,NA
+"GSE66351","GSM2808978","AD","female","Frontal cortex",97,"5",NA,NA,NA
+"GSE66351","GSM2808979","AD","female","Frontal cortex",85,"4",NA,NA,NA
+"GSE66351","GSM2808980","AD","female","Frontal cortex",93,"5",NA,NA,NA
+"GSE66351","GSM2808981","AD","female","Frontal cortex",73,"6",NA,NA,NA
+"GSE66351","GSM2808982","AD","female","Frontal cortex",93,"4",NA,NA,NA
+"GSE66351","GSM2808983","AD","female","Frontal cortex",76,"6",NA,NA,NA
+"GSE66351","GSM2808984","AD","male","Frontal cortex",87,"5",NA,NA,NA
+"GSE66351","GSM2808985","AD","female","Frontal cortex",88,"6",NA,NA,NA
+"GSE66351","GSM2808986","AD","female","Frontal cortex",78,"6",NA,NA,NA
+"GSE66351","GSM2808987","AD","male","Frontal cortex",87,"5",NA,NA,NA
+"GSE66351","GSM2808988","AD","male","Frontal cortex",83,"5",NA,NA,NA
+"GSE66351","GSM2808989","AD","female","Frontal cortex",78,"6",NA,NA,NA
+"GSE66351","GSM2808990","AD","male","Frontal cortex",76,"5",NA,NA,NA
+"GSE66351","GSM2808991","Control","male","Frontal cortex",60,"0",NA,NA,NA
+"GSE66351","GSM2808992","Control","male","Frontal cortex",54,"0",NA,NA,NA
+"GSE66351","GSM2808993","Control","female","Frontal cortex",83,"2",NA,NA,NA
+"GSE66351","GSM2808994","AD","female","Frontal cortex",88,"5",NA,NA,NA
+"GSE66351","GSM2808995","AD","male","Frontal cortex",80,"5",NA,NA,NA
+"GSE66351","GSM2808996","AD","female","Frontal cortex",80,"5",NA,NA,NA
+"GSE66351","GSM2808997","AD","male","Frontal cortex",70,"6",NA,NA,NA
+"GSE66351","GSM2808998","AD","female","Frontal cortex",75,"6",NA,NA,NA
+"GSE66351","GSM2808999","AD","female","Frontal cortex",79,"5",NA,NA,NA
+"GSE66351","GSM2809000","AD","male","Temporal cortex",83,"6",NA,NA,NA
+"GSE66351","GSM2809001","AD","male","Temporal cortex",81,NA,NA,NA,NA
+"GSE66351","GSM2809002","AD","male","Temporal cortex",90,NA,NA,NA,NA
+"GSE66351","GSM2809003","AD","female","Temporal cortex",82,"5",NA,NA,NA
+"GSE66351","GSM2809004","AD","male","Temporal cortex",80,"5",NA,NA,NA
+"GSE66351","GSM2809005","Control","female","Temporal cortex",88,"2",NA,NA,NA
+"GSE66351","GSM2809006","Control","female","Temporal cortex",77,"2",NA,NA,NA
+"GSE66351","GSM2809007","Control","male","Temporal cortex",75,"2",NA,NA,NA
+"GSE66351","GSM2809008","AD","male","Temporal cortex",73,"6",NA,NA,NA
+"GSE66351","GSM2809009","AD","female","Temporal cortex",65,"6",NA,NA,NA
+"GSE66351","GSM2809010","AD","female","Temporal cortex",67,"6",NA,NA,NA
+"GSE66351","GSM2809011","AD","female","Temporal cortex",93,"6",NA,NA,NA
+"GSE66351","GSM2809012","AD","male","Temporal cortex",74,"6",NA,NA,NA
+"GSE66351","GSM2809013","Control","male","Temporal cortex",53,"0",NA,NA,NA
+"GSE66351","GSM2809014","Control","male","Temporal cortex",18,"0",NA,NA,NA
+"GSE66351","GSM2809015","Control","male","Temporal cortex",57,"1",NA,NA,NA
+"GSE66351","GSM2809016","Control","female","Temporal cortex",75,"4",NA,NA,NA
+"GSE66351","GSM2809017","Control","female","Temporal cortex",76,"4",NA,NA,NA
+"GSE66351","GSM2809018","Control","female","Temporal cortex",46,"1",NA,NA,NA
+"GSE66351","GSM2809019","Control","male","Temporal cortex",50,"0",NA,NA,NA
+"GSE66351","GSM2809020","Control","male","Temporal cortex",63,"1",NA,NA,NA
+"GSE66351","GSM2809021","Control","male","Temporal cortex",53,"0",NA,NA,NA
+"GSE66351","GSM2809022","Control","male","Temporal cortex",53,"1",NA,NA,NA
+"GSE66351","GSM2809023","Control","male","Temporal cortex",71,"1",NA,NA,NA
+"GSE66351","GSM2809024","AD","female","Temporal cortex",73,NA,NA,NA,NA
+"GSE66351","GSM2809025","Control","female","Temporal cortex",55,"0",NA,NA,NA
+"GSE66351","GSM2809026","Control","male","Temporal cortex",59,"2",NA,NA,NA
+"GSE66351","GSM2809027","AD","female","Temporal cortex",89,"4",NA,NA,NA
+"GSE66351","GSM2809028","AD","male","Temporal cortex",75,"6",NA,NA,NA
+"GSE66351","GSM2809029","AD","male","Temporal cortex",83,"6",NA,NA,NA
+"GSE66351","GSM2809030","AD","female","Temporal cortex",82,"6",NA,NA,NA
+"GSE66351","GSM2809031","Control","male","Temporal cortex",85,"4",NA,NA,NA
+"GSE66351","GSM2809032","Control","male","Temporal cortex",87,"2",NA,NA,NA
+"GSE66351","GSM2809033","Control","male","Temporal cortex",61,"0",NA,NA,NA
+"GSE66351","GSM2809034","AD","female","Temporal cortex",68,"6",NA,NA,NA
+"GSE66351","GSM2809035","Control","female","Temporal cortex",85,"1",NA,NA,NA
+"GSE66351","GSM2809036","Control","male","Temporal cortex",46,"0",NA,NA,NA
+"GSE66351","GSM2809037","Control","female","Temporal cortex",80,"4",NA,NA,NA
+"GSE66351","GSM2809038","Control","female","Temporal cortex",77,"2",NA,NA,NA
+"GSE66351","GSM2809039","AD","female","Temporal cortex",78,"6",NA,NA,NA
+"GSE66351","GSM2809040","AD","female","Temporal cortex",85,"3",NA,NA,NA
+"GSE66351","GSM2809041","AD","male","Temporal cortex",62,"6",NA,NA,NA
+"GSE66351","GSM2809042","AD","female","Temporal cortex",97,"5",NA,NA,NA
+"GSE66351","GSM2809043","AD","female","Temporal cortex",85,"4",NA,NA,NA
+"GSE66351","GSM2809044","AD","female","Temporal cortex",93,"5",NA,NA,NA
+"GSE66351","GSM2809045","AD","female","Temporal cortex",73,"6",NA,NA,NA
+"GSE66351","GSM2809046","AD","female","Temporal cortex",93,"4",NA,NA,NA
+"GSE66351","GSM2809047","AD","female","Temporal cortex",76,"6",NA,NA,NA
+"GSE66351","GSM2809048","AD","male","Temporal cortex",87,"5",NA,NA,NA
+"GSE66351","GSM2809049","AD","female","Temporal cortex",88,"6",NA,NA,NA
+"GSE66351","GSM2809050","AD","female","Temporal cortex",78,"6",NA,NA,NA
+"GSE66351","GSM2809051","AD","male","Temporal cortex",87,"5",NA,NA,NA
+"GSE66351","GSM2809052","AD","male","Temporal cortex",83,"5",NA,NA,NA
+"GSE66351","GSM2809053","AD","female","Temporal cortex",78,"6",NA,NA,NA
+"GSE66351","GSM2809054","AD","male","Temporal cortex",76,"5",NA,NA,NA
+"GSE66351","GSM2809055","Control","male","Temporal cortex",60,"0",NA,NA,NA
+"GSE66351","GSM2809056","Control","male","Temporal cortex",54,"0",NA,NA,NA
+"GSE66351","GSM2809057","Control","female","Temporal cortex",83,"2",NA,NA,NA
+"GSE66351","GSM2809058","AD","female","Temporal cortex",88,"5",NA,NA,NA
+"GSE66351","GSM2809059","AD","male","Temporal cortex",80,"5",NA,NA,NA
+"GSE66351","GSM2809060","AD","female","Temporal cortex",80,"5",NA,NA,NA
+"GSE66351","GSM2809061","AD","male","Temporal cortex",70,"6",NA,NA,NA
+"GSE66351","GSM2809062","AD","female","Temporal cortex",75,"6",NA,NA,NA
+"GSE66351","GSM2809063","AD","female","Temporal cortex",79,"5",NA,NA,NA
+"GSE66351","GSM2809064","AD","female","Temporal cortex",85,"6",NA,NA,NA
