@@ -1,0 +1,30 @@
+
+Mixed-Effects Model (k = 8; tau^2 estimator: REML)
+
+  logLik  deviance       AIC       BIC      AICc   
+  3.3444   -6.6888    5.3112   -0.0972   89.3112   
+
+tau^2 (estimated amount of residual heterogeneity):     0 (SE = 0.0087)
+tau (square root of estimated tau^2 value):             0
+I^2 (residual heterogeneity / unaccounted variability): 0.00%
+H^2 (unaccounted variability / sampling variability):   1.00
+R^2 (amount of heterogeneity accounted for):            100.00%
+
+Test for Residual Heterogeneity:
+QE(df = 3) = 0.9513, p-val = 0.8130
+
+Test of Moderators (coefficients 2:5):
+QM(df = 4) = 25.6406, p-val < .0001
+
+Model Results:
+
+                                   estimate      se     zval    pval    ci.lb    ci.ub      
+intrcpt                             -0.3616  0.0518  -6.9855  <.0001  -0.4630  -0.2601  *** 
+brain_regionFusiform gyrus          -0.1399  0.0861  -1.6248  0.1042  -0.3087   0.0289      
+brain_regionHippocampus              0.2900  0.1361   2.1309  0.0331   0.0233   0.5568    * 
+brain_regionMiddle temporal gyrus   -0.2879  0.0928  -3.1040  0.0019  -0.4697  -0.1061   ** 
+brain_regionMultiple                 0.0959  0.0761   1.2593  0.2079  -0.0533   0.2451      
+
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+

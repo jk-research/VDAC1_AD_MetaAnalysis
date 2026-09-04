@@ -1,0 +1,27 @@
+
+Mixed-Effects Model (k = 8; tau^2 estimator: REML)
+
+  logLik  deviance       AIC       BIC      AICc   
+  0.7009   -1.4018    4.5982    3.9735   16.5982   
+
+tau^2 (estimated amount of residual heterogeneity):     0.0320 (SE = 0.0247)
+tau (square root of estimated tau^2 value):             0.1789
+I^2 (residual heterogeneity / unaccounted variability): 79.06%
+H^2 (unaccounted variability / sampling variability):   4.78
+R^2 (amount of heterogeneity accounted for):            0.00%
+
+Test for Residual Heterogeneity:
+QE(df = 6) = 23.2015, p-val = 0.0007
+
+Test of Moderators (coefficient 2):
+QM(df = 1) = 0.4687, p-val = 0.4936
+
+Model Results:
+
+                 estimate      se     zval    pval    ci.lb    ci.ub      
+intrcpt           -0.3597  0.0785  -4.5830  <.0001  -0.5135  -0.2059  *** 
+platformRNA-seq   -0.1418  0.2071  -0.6846  0.4936  -0.5477   0.2641      
+
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
