@@ -11,3 +11,5 @@ results/GSE125583_TOM-block.*.RData
 results/*.RData
 results/*.RData
 data/proteomics/
+results/**/*.pdf
+*.pdf
