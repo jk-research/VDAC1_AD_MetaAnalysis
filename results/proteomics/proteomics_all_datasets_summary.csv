@@ -1,0 +1,4 @@
+"dataset_id","study_type","method","comparison","log2FC","SE","p_value","n_case","n_control","direction_consistent","notes"
+"PXD020296","Bulk cortex","TMT 11-plex","AD vs Control",-0.367,0.104,0.0025,9,10,"Yes","Significant, primary validation"
+"PXD023199","Single neurons","Laser-capture MS","AT8+ vs Control neurons",-0.543,0.808,0.512,11,12,"Yes","Consistent direction, small n"
+"PXD047324_BA24","Bulk prefrontal cortex","TMT 10-plex HiRIEF","AD vs Control",-0.156,0.305,0.619,8,8,"Yes","Consistent direction, small n"

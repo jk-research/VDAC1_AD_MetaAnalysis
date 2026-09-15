@@ -1,0 +1,3 @@
+"dataset_id","comparison","tissue","log2FC","SE","p_value","n_case","n_control"
+"PXD020296","AD_vs_Control","Cortex (bulk)",-0.367,0.104,0.0025,9,10
+"PXD023199","AT8_vs_Control_neurons","Single neurons",-0.543,0.808,0.512,11,12

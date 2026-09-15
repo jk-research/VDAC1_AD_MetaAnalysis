@@ -1,0 +1,2 @@
+"dataset_id","comparison","brain_region","platform","log2FC","SE","p_value","n_case","n_control"
+"PXD047324_BA24","AD_vs_Control","Prefrontal cortex (BA24)","TMT10plex LC-MS (HiRIEF)",-0.1556921920827,0.305001859156891,0.618936783011171,8,8
