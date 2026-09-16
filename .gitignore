@@ -13,3 +13,20 @@ results/*.RData
 data/proteomics/
 results/**/*.pdf
 *.pdf
+
+# Python scripts with embedded tokens — DO NOT COMMIT
+download_rosmap.py
+download_seaad.py
+
+# RStudio history dumps — not source code
+ALL_CONSOLE_HISTORY.txt
+ALL_MY_CODE.txt
+RSTUDIO_DB_STRINGS.txt
+PROJECT_FULL_DUMP.txt
+PROJECT_INVENTORY.csv
+my_console_history.R
+VDAC1_FULL_HISTORY.R
+My_Code_Dump.Rmd
+
+# SEA-AD local data folder (already ignored, but just in case)
+C:/sea_ad_download/
