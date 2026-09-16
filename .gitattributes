@@ -1,1 +1,31 @@
-*.html linguist-detectable=false
+# ============================================================
+# Force GitHub to show 100% R
+# ============================================================
+
+# R code files — count as R
+*.R                     linguist-language=R
+*.r                     linguist-language=R
+*.Rmd                   linguist-language=R
+
+# Data files — exclude from language stats
+*.csv                   linguist-detectable=false
+*.tsv                   linguist-detectable=false
+*.txt                   linguist-detectable=false
+*.rds                   linguist-detectable=false
+*.RData                 linguist-detectable=false
+
+# Figures — exclude
+*.pdf                   linguist-detectable=false
+*.png                   linguist-detectable=false
+*.jpg                   linguist-detectable=false
+*.jpeg                  linguist-detectable=false
+*.svg                   linguist-detectable=false
+
+# Markdown — documentation, not code
+*.md                    linguist-documentation
+
+# Python — don't count (just helper scripts)
+*.py                    linguist-detectable=false
+
+# HTML — exclude
+*.html                  linguist-detectable=false
