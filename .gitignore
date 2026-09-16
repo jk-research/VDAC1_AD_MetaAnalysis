@@ -30,3 +30,26 @@ My_Code_Dump.Rmd
 
 # SEA-AD local data folder (already ignored, but just in case)
 C:/sea_ad_download/
+
+# SEA-AD large data files (metadata CSVs, expression extraction CSVs)
+data/sea_ad/*.csv
+data/sea_ad/*.h5ad
+data/sea_ad/*.rds
+
+# Python exploratory scripts (not part of final pipeline)
+diagnose_hip.py
+extract_seaad_cloud.py
+extract_seaad_step2.py
+extract_seaad_step3.py
+extract_seaad_step4.py
+extract_seaad_step5.py
+extract_seaad_step5a.py
+extract_seaad_step5b.py
+get_s3_url.py
+get_s3_url_v2.py
+get_s3_url_v3.py
+inspect_api.py
+inspect_h5ad.py
+
+# Backup
+.gitattributes.save

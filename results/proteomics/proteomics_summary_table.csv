@@ -1,3 +1,4 @@
-"dataset_id","comparison","tissue","log2FC","SE","p_value","n_case","n_control"
-"PXD020296","AD_vs_Control","Cortex (bulk)",-0.367,0.104,0.0025,9,10
-"PXD023199","AT8_vs_Control_neurons","Single neurons",-0.543,0.808,0.512,11,12
+"dataset_id","study_type","region","log2FC","SE","n_AD","n_Control","direction"
+"PXD020296","Bulk tissue","Cortex (mixed regions)",-0.367,0.104,9,10,"Down"
+"PXD047324_BA24","Bulk tissue","Anterior cingulate (BA24)",-0.156,0.305,8,8,"Down"
+"PXD023199","Single neurons (LMD)","Hippocampus",-0.543,0.808,11,12,"Down"
