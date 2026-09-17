@@ -1,0 +1,4 @@
+model,AD_effect_log2,SE,p_value,pct_shrinkage
+Unadjusted,-0.528,0.07,5.74841497786632e-13,0
+Adjusted for neurons,-0.103,0.042,0.0156828269711257,80.5
+Adjusted for all cell types,-0.115,0.041,0.00604293519269578,78.2

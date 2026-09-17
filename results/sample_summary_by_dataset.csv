@@ -1,0 +1,12 @@
+dataset_id,n_samples,n_unique,n_AD,n_Control,age_min,age_max,age_mean,pct_female,regions
+GSE109887,78,78,46,32,70,95,84.9,51.3,middle temporal gyrus
+GSE118553,401,401,167,100,40,105,81,59.1,Cerebellum; Entorhinal_Cortex; Frontal_Cortex; Temporal_Cortex
+GSE125583,289,289,219,70,60,103,84.3,45.1,fusiform gyrus
+GSE132903,195,195,97,98,70,102,85,49.2,middle temporal gyrus
+GSE15222,363,363,176,187,68,102.3,83.6,50,cortical tissue; frontal cortex; frontal temporal; parietal cortex; temporal cortex; unknown cortex; unknown region
+GSE29378,63,63,31,32,61,90,79.2,39.7,hippocampus CA1; hippocampus CA3
+GSE33000,624,624,0,0,Inf,-Inf,,,prefrontal cortex
+GSE36980,80,80,33,47,54,105,83.7,53.8,Frontal cortex; Hippocampus; Temporal cortex
+GSE48350,253,253,80,173,20,99,68,51,entorhinal cortex; hippocampus; post-central gyrus; superior frontal gyrus
+GSE5281,161,161,87,74,63,102,79.7,36,Entorhinal Cortex ; hippocampus ; Medial Temporal Gyrus ; Posterior cingulate ; Posterior Cingulate ; Posterior Singulate ; Primary Visual Cortex ; Superior Frontal Gyrus 
+GSE66351,190,190,106,84,18,97,74.3,53.2,Frontal cortex; Occipital cortex; Temporal cortex
