@@ -2,7 +2,7 @@ setwd("C:/Users/jeyak/OneDrive/Documents/VDAC1_AD_Project")
 library(data.table)
 library(ggplot2)
 
-REGION <- "ITG"   # <-- change per region
+REGION <- "V1C"
 rc <- tolower(REGION)
 
 vdac1 <- fread(paste0("data/sea_ad/sea_ad_", rc, "_vdac1_raw.csv"))

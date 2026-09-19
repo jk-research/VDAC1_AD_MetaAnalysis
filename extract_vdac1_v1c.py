@@ -3,8 +3,8 @@ import numpy as np
 import pandas as pd
 import h5py
 
-REGION = "STG"
-H5AD = r"C:\sea_ad_download\abc_cache\expression_matrices\SEA-AD-Multiregion-10X\20260630\STG-10X-raw.h5ad"
+REGION = "V1C"
+H5AD = r"C:\sea_ad_download\abc_cache\expression_matrices\SEA-AD-Multiregion-10X\20260630\V1C-10X-raw.h5ad"
 OUT = r"C:\Users\jeyak\OneDrive\Documents\VDAC1_AD_Project\data\sea_ad"
 
 def decode(x):
