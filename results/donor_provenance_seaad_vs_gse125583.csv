@@ -1,0 +1,3 @@
+cohort,institution,city,donor_id_format,n_donors
+SEA-AD,University of Washington / Kaiser Permanente (ACT study),"Seattle, WA",H##.##.###,84
+GSE125583,Rush University (ROS/MAP),"Chicago, IL",##-##,289

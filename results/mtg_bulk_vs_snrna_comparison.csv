@@ -1,0 +1,3 @@
+source,n_AD,n_Control,log2FC,p
+SEA-AD MTG (snRNA pseudo-bulk),63,9,-0.119940211399465,0.183441152067413
+GSE125583 (bulk RNA-seq),,,-0.501476053933569,
