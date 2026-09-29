@@ -39,3 +39,15 @@ _handoff/
 # === Snapshot backups ===
 *.bak
 *~
+
+# === Session/temp files (do not commit) ===
+.RDataTmp
+.gitattributes.save
+ALL_CONSOLE_HISTORY.txt
+ALL_MY_CODE.txt
+MASTER_DUMP_FOR_REVIEW.txt
+PROJECT_FULL_DUMP.txt
+PROJECT_INVENTORY.csv
+RSTUDIO_DB_STRINGS.txt
+VDAC1_FULL_HISTORY.R
+my_console_history.R
