@@ -1,0 +1,414 @@
+---
+title: 'My R Code So Far'
+output: html_document
+---
+
+```{r, eval=FALSE}
+# ===== my_console_history.R =====
+q()
+q()
+2+2
+2^32
+myvalue = 42
+myvalue*myvalue
+heights = c(174,160, 169, 166, 182, 153, 191, 162)
+heights
+lenghth(heights)
+length(heights)
+mean(c(25.3,19.6,30.2,27.8,13.8,24.9,10.9,21.4,21.6,29.2,28.7,31.1))
+sd(c(25.3,19.6,30.2,27.8,13.8,24.9,10.9,21.4,21.6,29.2,28.7,31.1))
+Log(907)
+?logLik
+help("logLik")
+log5(838)
+log5*(838)
+log base5 of 838
+log base 5 of 838
+/log()
+?log
+log5(838)?
+log()
+log(x, base5 = exp(838))
+log(x base5 = exp(838))
+log(5 base = exp(838))
+log(838, base = 5)
+setwd("~/")
+quiz2 = read.csv("Quiz2.csv")
+View(quiz2)
+IQR(quiz2$Height)
+IQR(quiz2$Forearm)
+sd(quiz2$PulseRate)
+mean(quiz2$Sleep)
+prop.table(table(quiz2$RightHanded))
+prop.table(table(quiz2$Handed))
+sum(dbinom(5:10,10,.3))
+sum(dbinom(10:20,20,.3))
+setwd("C:/Users/jeyak/OneDrive/Documents")
+median(islands$age)
+median(islands$Age)
+xyplot(Age, data=islands)
+library(lattice)
+median(islands$Wealth)
+aggregate(Wealth ~ Island, data=islands, mean)
+mean(islands$Wealth)
+xyplot(Wealth ~ Age, data=islands)
+islands = read.csv("Wealth Data.csv")
+xyplot(Wealth ~ Age, data=islands)
+histogram(~ Wealth, data=islands)
+bwplot(Wealth ~ Sex, data=islands)
+pbinom(10,87,0.21) for P(X ≤ x)
+pbinom(10,87,p) for P(X ≤ x)
+P(X ≤ 10) = binomcdf(87, 0.21, 10)
+n <- 87
+p <- 0.21
+k <- 0:10
+# Calculate the probability for each value of k
+probs <- dbinom(k, n, p)
+# Sum the probabilities for k = 0 to 10
+sum_probs <- sum(probs)
+# Print the result
+cat("Probability of no more than 10 people experiencing drowsiness:", sum_probs)
+import pandas as pd
+# Data setup
+PlotID <- 1:48
+Column <- c(1, 2, 3, 4, 5, 6, 7, 8, 1, 2, 3, 4, 5, 6, 7, 8, 1, 2, 3, 4, 5, 6, 7, 8, 1, 2, 3, 4, 5, 6, 7, 8, 1, 2, 3, 4, 5, 6, 7, 8, 1, 2, 3, 4, 5, 6, 7, 8)
+Treat <- c("Control", "Control", "Heat", "Control", "Heat", "Control", "Control", "Heat",
+"Control", "Control", "Heat", "Heat", "Control", "Control", "Control", "Heat",
+"Heat", "Control", "Heat", "Control", "Heat", "Control", "Heat", "Control",
+"Control", "Control", "Heat", "Heat", "Heat", "Heat", "Heat", "Heat", "Heat",
+"Heat", "Heat", "Control", "Control", "Heat", "Control", "Heat", "Heat",
+"Control", "Control", "Control", "Control", "Control", "Heat", "Heat")
+THC <- c(17, 16.4, 21.6, 16.8, 20, 19.5, 25.7, 23.5, 17.2, 13.4, 19.2, 21.4, 22.7, 19.8,
+19.7, 26, 10.7, 12, 19.1, 21.5, 18, 23.3, 22, 22, 16.4, 16.4, 19.2, 20.1, 20.3,
+22.7, 24.2, 27.3, 18.9, 20.7, 21.2, 18.2, 19.6, 26.1, 18.4, 24.7, 17.8, 22.1,
+17.6, 21.1, 18.9, 24.7, 23.3, 25.6)
+# Create a data frame
+df <- data.frame(PlotID, Column, Treat, THC)
+# Summary statistics for each treatment group
+summary_stats <- aggregate(THC ~ Treat, data = df, FUN = function(x) c(mean = mean(x), sd = sd(x), n = length(x)))
+print(summary_stats)
+# Perform one-way ANOVA to compare means
+anova_result <- aov(THC ~ Treat, data = df)
+summary(anova_result)
+# Calculate F-statistic and p-value manually if needed
+f_statistic <- summary(anova_result)[[1]]["Treat", "F value"]
+p_value <- summary(anova_result)[[1]]["Treat", "Pr(>F)"]
+# Print F-statistic and p-value
+cat("F-statistic:", f_statistic, "\n")
+cat("P-value:", p_value, "\n")
+set.seed(123)  # For reproducibility, you can change or remove this
+# Number of plots per column (6 plots per column)
+plots_per_column <- 6
+# Create vectors for the treatment labels
+treatments <- c(rep("Control", 3), rep("Heat", 3))
+# Initialize an empty list to store plot assignments by column
+plot_assignments <- list()
+# Loop over each column (1 to 8) to randomize plot assignments
+for (i in 1:8) {
+# Generate the sequence for each column
+column_plots <- seq(i, 48, 8)
+# Randomly assign treatments to the plots in this column
+random_assignments <- sample(treatments)
+# Store the plot numbers with their treatment assignment
+plot_assignments[[i]] <- data.frame(
+Plot = column_plots,
+Treatment = random_assignments
+)
+}
+# Combine the assignments for all columns into a single data frame
+final_design <- do.call(rbind, plot_assignments)
+# View the final randomized complete block design
+print(final_design)
+# Function to create a randomized complete block design
+create_rcbd <- function(num_treatments, num_blocks) {
+# Create an empty matrix to store the design
+design <- matrix(NA, nrow = num_treatments * num_blocks, ncol = 2)
+colnames(design) <- c("Treatment", "Block")
+# Assign treatments and blocks
+for (i in 1:num_blocks) {
+block_start <- (i - 1) * num_treatments + 1
+block_end <- block_start + num_treatments - 1
+# Randomly assign treatments within the block
+treatments <- sample(rep(1:num_treatments, each = 1), num_treatments)
+# Assign treatments and blocks to the matrix
+design[block_start:block_end, 1] <- treatments
+design[block_start:block_end, 2] <- i
+}
+return(design)
+}
+# Set the number of treatments and blocks
+num_treatments <- 2  # Control and Heat
+num_blocks <- 8
+# Create the randomized complete block design
+rcbd_design <- create_rcbd(num_treatments, num_blocks)
+# Print the design
+print(rcbd_design)
+# Define the total number of plots
+total_plots <- 48
+# Number of columns (assuming 8 columns, 6 plots per column)
+n_columns <- 8
+plots_per_column <- total_plots / n_columns
+# Generate sequences for each column
+column_sequences <- lapply(1:n_columns, function(i) seq(i, total_plots, by=n_columns))
+# Initialize empty lists to store the randomized assignments
+control_plots <- list()
+heat_plots <- list()
+set.seed(123)  # Set seed for reproducibility
+# Randomly assign 3 control and 3 heat treatment plots to each column
+for (i in 1:n_columns) {
+column <- column_sequences[[i]]
+# Randomly sample 3 plots for control and 3 for heat treatment
+control_plots[[i]] <- sample(column, 3)
+heat_plots[[i]] <- setdiff(column, control_plots[[i]])
+}
+# Combine the results into a data frame
+design <- data.frame(
+Column = rep(1:n_columns, each=plots_per_column),
+Plot = unlist(column_sequences),
+Treatment = rep(NA, total_plots)
+)
+# Assign treatments based on the randomized samples
+for (i in 1:n_columns) {
+design$Treatment[design$Plot %in% control_plots[[i]]] <- "Control"
+design$Treatment[design$Plot %in% heat_plots[[i]]] <- "Heat"
+}
+# View the design
+print(design)
+# Load necessary libraries
+library(lattice)  # for xyplot
+# Step 1: Read in the data
+# Assuming your data is in a CSV format, we will create it directly here
+weed3 <- read.table(header = TRUE, text = "
+PlotID Column Treat THC
+1 1 Control 17
+2 2 Control 16.4
+3 3 Control 19.6
+4 4 Control 16.8
+5 5 Control 18
+6 6 Control 19.5
+7 7 Control 25.7
+8 8 Control 21.5
+9 1 Heat 19.2
+10 2 Control 13.4
+11 3 Control 17.2
+12 4 Control 19.4
+13 5 Control 22.7
+14 6 Control 19.8
+15 7 Control 19.7
+16 8 Control 24
+17 1 Control 8.7
+18 2 Heat 14
+19 3 Control 17.1
+20 4 Control 21.5
+21 5 Control 16
+22 6 Control 23.3
+23 7 Control 20
+24 8 Control 22
+25 1 Heat 18.4
+26 2 Heat 18.4
+27 3 Heat 19.2
+28 4 Heat 20.1
+29 5 Heat 20.3
+30 6 Heat 22.7
+31 7 Heat 24.2
+32 8 Heat 27.3
+33 1 Control 16.9
+34 2 Control 18.7
+35 3 Heat 21.2
+36 4 Heat 20.2
+37 5 Heat 21.6
+38 6 Heat 26.1
+39 7 Heat 20.4
+40 8 Heat 26.7
+41 1 Heat 17.8
+42 2 Heat 22.1
+43 3 Heat 19.6
+44 4 Heat 23.1
+45 5 Heat 20.9
+46 6 Heat 26.7
+47 7 Heat 23.3
+48 8 Heat 25.6
+")
+# Step 2: Convert Column to factor
+weed3$Column = factor(weed3$Column)
+# Step 3: Plot the data
+xyplot(THC ~ Column, data=weed3, group=Treat, type=c("p","a"), auto.key=TRUE)
+# Step 4: Perform ANOVA
+anova_result = aov(THC ~ Treat * Column, data=weed3)
+# Step 5: Summary of ANOVA
+summary_result = summary(anova_result)
+print(summary_result)
+# Extract the P-value for the interaction term
+interaction_p_value = summary_result[[1]]["Treat:Column", "Pr(>F)"]
+print(interaction_p_value)
+# Run ANOVA
+anova_result = aov(THC ~ Treat * Column, data=weed3)
+# Get the summary of the ANOVA
+anova_summary = summary(anova_result)
+# Extract Mean Squares
+mean_square_treatment = anova_summary[[1]]["Treat", "Mean Sq"]
+mean_square_residuals = anova_summary[[1]]["Residuals", "Mean Sq"]
+# Calculate F-ratio
+f_ratio_treatment = mean_square_treatment / mean_square_residuals
+print(f_ratio_treatment)
+import pandas as pd
+# Load necessary libraries
+library(lattice)  # for xyplot
+# Step 1: Create the dataset
+weed3 <- read.table(header = TRUE, text = "
+PlotID Column Treat THC
+1 1 Control 17
+2 2 Control 16.4
+3 3 Control 19.6
+4 4 Control 16.8
+5 5 Control 18
+6 6 Control 19.5
+7 7 Control 25.7
+8 8 Control 21.5
+9 1 Heat 19.2
+10 2 Control 13.4
+11 3 Control 17.2
+12 4 Control 19.4
+13 5 Control 22.7
+14 6 Control 19.8
+15 7 Control 19.7
+16 8 Control 24
+17 1 Control 8.7
+18 2 Heat 14
+19 3 Control 17.1
+20 4 Control 21.5
+21 5 Control 16
+22 6 Control 23.3
+23 7 Control 20
+24 8 Control 22
+25 1 Heat 18.4
+26 2 Heat 18.4
+27 3 Heat 19.2
+28 4 Heat 20.1
+29 5 Heat 20.3
+30 6 Heat 22.7
+31 7 Heat 24.2
+32 8 Heat 27.3
+33 1 Control 16.9
+34 2 Control 18.7
+35 3 Heat 21.2
+36 4 Heat 20.2
+37 5 Heat 21.6
+38 6 Heat 26.1
+39 7 Heat 20.4
+40 8 Heat 26.7
+41 1 Heat 17.8
+42 2 Heat 22.1
+43 3 Heat 19.6
+44 4 Heat 23.1
+45 5 Heat 20.9
+46 6 Heat 26.7
+47 7 Heat 23.3
+48 8 Heat 25.6
+")
+# Step 2: Convert Column to factor
+weed3$Column = factor(weed3$Column)
+# Step 3: Run ANOVA
+anova_result = aov(THC ~ Treat * Column, data=weed3)
+# Step 4: Get the summary of the ANOVA
+anova_summary = summary(anova_result)
+# Print the ANOVA summary
+print(anova_summary)
+# Step 5: Extract the F-value for the main effect of Treat
+f_value_treat = anova_summary[[1]]["Treat", "F value"]
+print(f_value_treat)
+# Load necessary libraries
+library(lattice)  # for xyplot
+# Step 1: Create the dataset
+weed3 <- read.table(header = TRUE, text = "
+PlotID Column Treat THC
+1 1 Control 17
+2 2 Control 16.4
+3 3 Control 19.6
+4 4 Control 16.8
+5 5 Control 18
+6 6 Control 19.5
+7 7 Control 25.7
+8 8 Control 21.5
+9 1 Heat 19.2
+10 2 Control 13.4
+11 3 Control 17.2
+12 4 Control 19.4
+13 5 Control 22.7
+14 6 Control 19.8
+15 7 Control 19.7
+16 8 Control 24
+17 1 Control 8.7
+18 2 Heat 14
+19 3 Control 17.1
+20 4 Control 21.5
+21 5 Control 16
+22 6 Control 23.3
+23 7 Control 20
+24 8 Control 22
+25 1 Heat 18.4
+26 2 Heat 18.4
+27 3 Heat 19.2
+28 4 Heat 20.1
+29 5 Heat 20.3
+30 6 Heat 22.7
+31 7 Heat 24.2
+32 8 Heat 27.3
+33 1 Control 16.9
+34 2 Control 18.7
+35 3 Heat 21.2
+36 4 Heat 20.2
+37 5 Heat 21.6
+38 6 Heat 26.1
+39 7 Heat 20.4
+40 8 Heat 26.7
+41 1 Heat 17.8
+42 2 Heat 22.1
+43 3 Heat 19.6
+44 4 Heat 23.1
+45 5 Heat 20.9
+46 6 Heat 26.7
+47 7 Heat 23.3
+48 8 Heat 25.6
+")
+# Step 2: Convert Column to factor
+weed3$Column = factor(weed3$Column)
+# Step 3: Run ANOVA
+anova_result = aov(THC ~ Treat * Column, data=weed3)
+# Step 4: Get the summary of the ANOVA
+anova_summary = summary(anova_result)
+# Print the ANOVA summary
+print(anova_summary)
+# Step 5: Extract the F-value for the main effect of Treat
+f_value_treat = anova_summary[[1]][which(rownames(anova_summary[[1]]) == "Treat"), "F value"]
+print(f_value_treat)
+qnorm(0.975)
+2*(1-pnorm(0.306327))
+sqrt(3/31*(1-3/31)/31)
+2*(1-pnorm(0.0967742/(0.05310032)))
+pspdata = matrix(c(3,28,0,33),nrow=2,byrow=TRUE)
+fisher.test(pspdata)
+setwd("C:/Users/jeyak/OneDrive/VDAC1_AD_Project")
+setwd("C:/Users/jeyak/OneDrive/Documents/VDAC1_AD_Project")
+getwd()
+# Combine all R scripts in the working directory into one file
+setwd("C:/Users/jeyak/OneDrive/Documents/VDAC1_AD_Project")
+scripts <- list.files(
+pattern = "\\.(R|r|Rmd|qmd)$",
+recursive = TRUE,
+full.names = TRUE
+)
+out <- file("ALL_MY_CODE.txt", "w")
+for (f in scripts) {
+writeLines(paste0("\n\n", strrep("=", 70)), out)
+writeLines(paste0("### FILE: ", f), out)
+writeLines(strrep("=", 70), out)
+writeLines(readLines(f, warn = FALSE), out)
+}
+close(out)
+cat("Done. Files combined:", length(scripts), "\n")
+cat("Saved to:", file.path(getwd(), "ALL_MY_CODE.txt"), "\n")
+# Save console history to a file
+savehistory("my_console_history.R")
+
+```

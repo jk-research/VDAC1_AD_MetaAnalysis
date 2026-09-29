@@ -1,0 +1,6 @@
+dataset_id,log2FC,SE,group,note
+PXD020296,-0.367,0.104,bulk,Sensitivity (includes fractionated design)
+PXD047324_BA24,-0.156,0.305,bulk,Sensitivity (includes fractionated design)
+PXD007160_cingulate,-0.2267,0.0566,bulk,Sensitivity (includes fractionated design)
+PXD007160_frontal,-0.1507,0.0974,bulk,Sensitivity (includes fractionated design)
+PXD012059,0.0376,0.106,bulk,Sensitivity (includes fractionated design)
