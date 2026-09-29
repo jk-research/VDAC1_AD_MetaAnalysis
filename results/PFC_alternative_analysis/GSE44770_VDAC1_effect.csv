@@ -1,0 +1,2 @@
+"dataset_id","comparison","region","platform","n_AD","n_Control","log2FC","SE","p_value"
+"GSE44770","AD_vs_Control","Prefrontal cortex","Agilent 4x44K (GPL4372)",129,101,-0.163247261562767,0.022446631425131,5.7230464646103e-12

@@ -1,0 +1,4 @@
+"dataset_id","comparison","region","platform","n_case","n_control","n_donors","log2FC","SE","p_value"
+"GSE185909","AD_vs_NCI","Superior frontal cortex (BA10)","NimbleGen 12x135K",17,8,11,0.204588114398085,0.190783280265274,0.310212434926062
+"GSE185909","AD_vs_MCI","Superior frontal cortex (BA10)","NimbleGen 12x135K",17,10,11,0.0786129660844938,0.176632860103672,0.667660237391891
+"GSE185909","MCI_vs_NCI","Superior frontal cortex (BA10)","NimbleGen 12x135K",10,8,8,0.12646088611687,0.226224954158033,0.596356369327514

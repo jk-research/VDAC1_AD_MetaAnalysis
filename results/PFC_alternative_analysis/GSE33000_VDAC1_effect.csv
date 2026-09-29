@@ -1,0 +1,2 @@
+"dataset_id","comparison","region","platform","n_AD","n_Control","log2FC","SE","p_value"
+"GSE33000","AD_vs_Control","Dorsolateral prefrontal cortex (DLPFC)","Agilent 4x44K",310,157,-0.177653219012459,0.0197440230032271,5.96308700233226e-18

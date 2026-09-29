@@ -1,0 +1,2 @@
+"dataset_id","comparison","region","platform","n_AD","n_Control","log2FC","SE","p_value"
+"GSE84422","AD_vs_Control","Frontal Pole (BA10)","Affymetrix HG-U133A (GPL96)",48,15,-0.208729208811623,0.196563350821601,0.292611747359449
