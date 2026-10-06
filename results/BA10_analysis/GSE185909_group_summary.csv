@@ -1,0 +1,4 @@
+"diagnosis","n_samples","n_donors","age_mean","age_sd","pct_female","braak_median","cerad_median","vdac1_mean","vdac1_sd"
+"AD",17,7,84.5,2.8,11.8,5,2,14.6606,0.3492
+"MCI",10,4,84.5,7.3,40,3,4,14.5874,0.3356
+"NCI",8,4,86.1,5.7,87.5,4,2,14.4742,0.3272

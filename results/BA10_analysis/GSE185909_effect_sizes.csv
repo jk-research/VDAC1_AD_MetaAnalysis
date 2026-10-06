@@ -1,0 +1,4 @@
+"comparison","n_case","n_control","n_donors","log2FC","SE","CI_lower","CI_upper","p_value","method"
+"AD vs NCI",17,8,11,0.2046,0.1908,-0.169368,0.578568,0.3102,"Mixed model, donor random effect"
+"AD vs MCI",17,10,11,0.0786,0.1766,-0.267536,0.424736,0.6677,"Mixed model, donor random effect"
+"MCI vs NCI",10,8,8,0.1265,0.2262,-0.316852,0.569852,0.5964,"Mixed model, donor random effect"

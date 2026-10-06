@@ -1,0 +1,3 @@
+"model","log2FC","p_value","note"
+"Unadjusted",0.204588114794258,0.310212440766622,"diagnosis only + donor random effect"
+"Sex-adjusted",0.327991518355531,0.233707731090337,"diagnosis + sex + donor random effect"
