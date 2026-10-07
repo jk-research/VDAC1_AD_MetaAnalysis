@@ -1,0 +1,7 @@
+"step","n_samples"
+"Total GPL96 samples",951
+"Frontal Pole (BA10) samples",63
+"With neuropathological category",63
+"Definite + Probable AD or Normal (retained)",50
+"Possible AD (excluded)",13
+"After complete-case filter (vdac1/dx/age/sex)",50
